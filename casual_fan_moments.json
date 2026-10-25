@@ -1,0 +1,428 @@
+{
+  "categories": {
+    "goals": [
+      {
+        "event_id": "frame_2289",
+        "frame_id": 2289,
+        "period": 1,
+        "time_str": "01:31",
+        "start_time_s": 91.56,
+        "duration_s": 7.64,
+        "team": "Home",
+        "key_player": "Player9",
+        "card_badge_ar": "هدف رائع ⚽",
+        "card_badge_en": "Stunning Goal ⚽",
+        "card_title_ar": "تمرير سحري يفتح باب الهدف!",
+        "card_title_en": "Magic Pass Opens the Door to Goal!",
+        "category": "goals",
+        "attack_chain": "Pass (Player6) ➔ Pass (Player10) ➔ Goal ⚽ (Player9)",
+        "outcome": "GOAL",
+        "danger_value": 10.0,
+        "commentator_timeline": [
+          {
+            "stage": "build_up",
+            "time_offset_s": 0.0,
+            "text_ar": "يستعيد اللاعب 6 الكرة في منطقة الوسط ويبدأ هجوم الفريق المنزلي بثقة.",
+            "text_en": "Player 6 regains possession in midfield and kicks off the home side's attack with confidence."
+          },
+          {
+            "stage": "mid_action",
+            "time_offset_s": 3.4,
+            "text_ar": "يمرر اللاعب 6 الكرة إلى اللاعب 10 في وسط الملعب، ثم يرسل تمريرة حاسمة تخترق الدفاع وتصل إلى اللاعب 9 في منطقة الجزاء.",
+            "text_en": "Player 6 threads the ball to Player 10, who delivers a decisive through ball that slices through the defense and finds Player 9 in the box."
+          },
+          {
+            "stage": "climax",
+            "time_offset_s": 7.6,
+            "text_ar": "يستقبل اللاعب 9 الكرة ويطلق تسديدة صاروخية لا يمكن حارس الخصم إيقافها، والهدف! هدف لا يصدق!",
+            "text_en": "Player 9 gathers the ball and unleashes a rocket of a shot that the opposing keeper can’t stop—goal! An unbelievable finish!"
+          }
+        ]
+      },
+      {
+        "event_id": "frame_90005",
+        "frame_id": 90005,
+        "period": 2,
+        "time_str": "60:00",
+        "start_time_s": 3600.2,
+        "duration_s": 7.04,
+        "team": "Home",
+        "key_player": "Player10",
+        "card_badge_ar": "هدف ملعوب ⚽",
+        "card_badge_en": "Clinical Goal ⚽",
+        "card_title_ar": "لحظة حاسمة: هدف اللاعب 10 بعد سلسلة سريعة",
+        "card_title_en": "Decisive Moment: Player 10’s Lightning Goal",
+        "category": "goals",
+        "attack_chain": "Recovery (Player5) ➔ Pass (Player5) ➔ Pass (Player10) ➔ Pass (Player5) ➔ Goal ⚽ (Player10)",
+        "outcome": "GOAL",
+        "danger_value": 10.0,
+        "commentator_timeline": [
+          {
+            "stage": "build_up",
+            "time_offset_s": 0.0,
+            "text_ar": "يستعيد اللاعب 5 الكرة في منطقة الوسط، يضغط على الخصم ويستعد لبدء الهجمة.",
+            "text_en": "Player 5 wins the ball in midfield, shaking off the press and gearing up the attack."
+          },
+          {
+            "stage": "mid_action",
+            "time_offset_s": 3.2,
+            "text_ar": "يمرر اللاعب 5 كرة سريعة إلى اللاعب 10، ثم يرسل اللاعب 10 تمريرة ذكية عبر الخط الدفاعي إلى اللاعب 5 الذي يفتح المجال أمامه.",
+            "text_en": "He threads a swift pass to Player 10, who then delivers a clever through ball past the defensive line to Player 5, opening space for the final move."
+          },
+          {
+            "stage": "climax",
+            "time_offset_s": 7.0,
+            "text_ar": "وبقوة، يلتقط اللاعب 10 الكرة في المساحة داخل الصندوق ويسددها بقوة إلى الزاوية العليا، الهدف! لا يمكن لحارس المرمى إيقافها!",
+            "text_en": "With composure, Player 10 gathers the ball inside the box and fires a powerful strike into the top corner – it’s a goal! The keeper has no chance."
+          }
+        ]
+      },
+      {
+        "event_id": "frame_98958",
+        "frame_id": 98958,
+        "period": 2,
+        "time_str": "65:58",
+        "start_time_s": 3958.32,
+        "duration_s": 8.44,
+        "team": "Home",
+        "key_player": "Player4",
+        "card_badge_ar": "هدف حاسم ⚽",
+        "card_badge_en": "Decisive Goal ⚽",
+        "card_title_ar": "هجمة صاعقة تنتهي بشبكة صافية",
+        "card_title_en": "Lightning Counter Ends with a Crisp Finish",
+        "category": "goals",
+        "attack_chain": "Recovery (Player8) ➔ Pass (Player8) ➔ Pass (Player4) ➔ Shot 🎯 (Player5) ➔ Recovery (Player25) ➔ Recovery (Player9) ➔ Goal ⚽ (Player9)",
+        "outcome": "GOAL",
+        "danger_value": 5.0,
+        "commentator_timeline": [
+          {
+            "stage": "build_up",
+            "time_offset_s": 0.0,
+            "text_ar": "يستعيد اللاعب 8 الكرة في وسط الملعب، يضغط على الخصم ويستعد لتوجيه الهجمة.",
+            "text_en": "Player 8 recovers the ball in midfield, presses the opposition and readies the attack."
+          },
+          {
+            "stage": "mid_action",
+            "time_offset_s": 3.8,
+            "text_ar": "يمرر اللاعب 8 الكرة إلى اللاعب 4 بخطوة ذكية، ثم يرسل اللاعب 4 تمريرة حاسمة تخترق خطوط الدفاع.",
+            "text_en": "Player 8 threads the ball to Player 4, who delivers a decisive through pass that splits the defence."
+          },
+          {
+            "stage": "climax",
+            "time_offset_s": 8.4,
+            "text_ar": "يستقبل اللاعب 9 الكرة في منطقة الجزاء، يطلق تسديدة قوية لا يقدر الحارس على إيقافها – هدف رائع!",
+            "text_en": "Player 9 gathers the ball in the box, unleashes a powerful strike that the keeper can't stop – a spectacular goal!"
+          }
+        ]
+      }
+    ],
+    "saves": [
+      {
+        "event_id": "frame_9628",
+        "frame_id": 9628,
+        "period": 1,
+        "time_str": "06:25",
+        "start_time_s": 385.12,
+        "duration_s": 12.12,
+        "team": "Home",
+        "key_player": "Player8",
+        "card_badge_ar": "قفاز ذهبي 🧤",
+        "card_badge_en": "Golden Glove 🧤",
+        "card_title_ar": "تصدي إعجازي من قفاز ذهبي للـحارس!",
+        "card_title_en": "Miraculous Golden Glove Save Stuns the Crowd!",
+        "category": "saves",
+        "attack_chain": "Recovery (Player6) ➔ Pass (Player6) ➔ Pass (Player10) ➔ Shot 🎯 (Player8)",
+        "outcome": "SAVED",
+        "danger_value": 8.0,
+        "commentator_timeline": [
+          {
+            "stage": "build_up",
+            "time_offset_s": 0.0,
+            "text_ar": "هنا يبدأ الهجوم بعد استعادة اللاعب 6 للكرة في وسط الملعب، يضغط على الخصم بثقة.",
+            "text_en": "The attack kicks off as Player 6 wins back the ball in midfield, applying pressure on the opposition."
+          },
+          {
+            "stage": "mid_action",
+            "time_offset_s": 5.5,
+            "text_ar": "يمرر اللاعب 6 الكرة إلى اللاعب 10، الذي يشنّ هجمة سريعة ويشقّ خطوط الدفاع بتمرير حاد إلى اللاعب 8 في وضعية مثالية.",
+            "text_en": "Player 6 threads a pass to Player 10, who bursts forward and slices through the defensive line with a pinpoint through ball to Player 8 in a perfect spot."
+          },
+          {
+            "stage": "climax",
+            "time_offset_s": 12.1,
+            "text_ar": "يستعد اللاعب 8 لتسديدة قوية على المرمى، لكن الحارس يتألق بقفاز ذهبي ويصده بحركة استثنائية!",
+            "text_en": "Player 8 unleashes a powerful strike on goal, only for the keeper to spring into action with a golden‑glove save of extraordinary skill!"
+          }
+        ]
+      },
+      {
+        "event_id": "frame_19470",
+        "frame_id": 19470,
+        "period": 1,
+        "time_str": "12:58",
+        "start_time_s": 778.8,
+        "duration_s": 15.68,
+        "team": "Away",
+        "key_player": "Player24",
+        "card_badge_ar": "قفاز ذهبي 🧤",
+        "card_badge_en": "Golden Glove 🧤",
+        "card_title_ar": "تصدي إعجازي للكرة الذهبية",
+        "card_title_en": "Golden Glove Miracle Save",
+        "category": "saves",
+        "attack_chain": "Recovery (Player19) ➔ Pass (Player19) ➔ Pass (Player18) ➔ Pass (Player19) ➔ Pass (Player20) ➔ Pass (Player23) ➔ Shot 🎯 (Player24)",
+        "outcome": "SAVED",
+        "danger_value": 8.0,
+        "commentator_timeline": [
+          {
+            "stage": "build_up",
+            "time_offset_s": 0.0,
+            "text_ar": "اللاعب 19 يستعيد الكرة في نصف ملعب الخصم ويبدأ هجمة سريعة، يمررها بدقة إلى زميله.",
+            "text_en": "Player 19 wins the ball deep in the opponent’s half and launches a swift attack, threading a precise pass forward."
+          },
+          {
+            "stage": "mid_action",
+            "time_offset_s": 7.1,
+            "text_ar": "التمرير المتسلسل يشتد: 19 يرسل للـ 18، ثم يعود للـ 19، يمر للـ 20، ثم للـ 23، قبل أن يصل للـ 24 في مساحة خطرة، مخترقاً ثماني خطوط دفاعية!",
+            "text_en": "The passing chain accelerates – 19 to 18, back to 19, then to 20, onto 23, and finally finding 24 in a dangerous zone, slicing through eight defenders!"
+          },
+          {
+            "stage": "climax",
+            "time_offset_s": 15.7,
+            "text_ar": "الصورة تتوقف على ركلة اللاعب 24 القوية، والهدف يقترب، لكن حارس المرمى يطرد الكرة بقبضة ذهبية، تصدي لا يصدق!",
+            "text_en": "All eyes on Player 24’s thunderous strike – the goal looks imminent, but the keeper erupts with a golden glove, making an unbelievable save!"
+          }
+        ]
+      },
+      {
+        "event_id": "frame_53695",
+        "frame_id": 53695,
+        "period": 1,
+        "time_str": "35:47",
+        "start_time_s": 2147.8,
+        "duration_s": 16.4,
+        "team": "Home",
+        "key_player": "Player8",
+        "card_badge_ar": "قفاز ذهبي 🧤",
+        "card_badge_en": "Golden Glove Save 🧤",
+        "card_title_ar": "قفاز ذهبي يلمع في تصدي اللاعب 8!",
+        "card_title_en": "Golden Glove shines as Player8 makes a miraculous save!",
+        "category": "saves",
+        "attack_chain": "Pass (Player4) ➔ Pass (Player8) ➔ Pass (Player12) ➔ Pass (Player10) ➔ Pass (Player7) ➔ Pass (Player8) ➔ Pass (Player6) ➔ Shot 🎯 (Player8)",
+        "outcome": "SAVED",
+        "danger_value": 8.0,
+        "commentator_timeline": [
+          {
+            "stage": "build_up",
+            "time_offset_s": 0.0,
+            "text_ar": "يبدأ الهجوم عندما يستعيد اللاعب 4 الكرة من وسط الملعب، يرسل تمريرة سريعة إلى اللاعب 8 الذي يفتح المسار للأمام.",
+            "text_en": "The attack kicks off as Player 4 wins the ball in midfield and dishes a quick pass to Player 8, opening the forward lane."
+          },
+          {
+            "stage": "mid_action",
+            "time_offset_s": 7.4,
+            "text_ar": "يتنقل الكرة بخفة بين اللاعبين 8، 12، 10، 7، ثم يعود إلى اللاعب 8 مرة أخرى، مخترقًا خطوط الدفاع بثلاث تمريرات دقيقة.",
+            "text_en": "The ball darts through a slick sequence—Player 8 to 12, then 10, 7, and back to Player 8—splitting the defense with three pinpoint passes."
+          },
+          {
+            "stage": "climax",
+            "time_offset_s": 16.4,
+            "text_ar": "يستعد اللاعب 8 لتسديدة صاروخية نحو المرمى، لكن حارس المرمى يتقافز بإنعطاف مذهل، يلتقط الكرة بقبضة ذهبية في تصدي لا يصدق!",
+            "text_en": "Player 8 unleashes a rocket shot on goal, only for the goalkeeper to spring with a dazzling dive, clutching the ball in a breathtaking Golden Glove save!"
+          }
+        ]
+      },
+      {
+        "event_id": "frame_67502",
+        "frame_id": 67502,
+        "period": 1,
+        "time_str": "45:00",
+        "start_time_s": 2700.08,
+        "duration_s": 12.96,
+        "team": "Home",
+        "key_player": "Player9",
+        "card_badge_ar": "قفاز ذهبي 🧤",
+        "card_badge_en": "Golden Glove 🧤",
+        "card_title_ar": "تصدي إعجازي بقبضة ذهبية من اللاعب 9",
+        "card_title_en": "Miraculous Save by Player 9's Golden Glove",
+        "category": "saves",
+        "attack_chain": "Recovery (Player4) ➔ Pass (Player4) ➔ Pass (Player8) ➔ Shot 🎯 (Player9)",
+        "outcome": "SAVED",
+        "danger_value": 8.0,
+        "commentator_timeline": [
+          {
+            "stage": "build_up",
+            "time_offset_s": 0.0,
+            "text_ar": "الكرة تستعيدها اللاعب 4 في وسط الملعب، يرفع الوتيرة ويبدأ الهجمة بحماس",
+            "text_en": "Player 4 recovers the ball in midfield, raising the tempo and kick‑starting the attack with vigor"
+          },
+          {
+            "stage": "mid_action",
+            "time_offset_s": 5.8,
+            "text_ar": "يمرر اللاعب 4 كرة دقيقة إلى اللاعب 8، الذي يخترق خطوط الدفاع بلمسة سريعة، يرسل تمريرة حاسمة إلى اللاعب 9 داخل منطقة الجزاء",
+            "text_en": "Player 4 threads a precise pass to Player 8, who slices through the defensive lines and delivers a decisive through‑ball to Player 9 inside the box"
+          },
+          {
+            "stage": "climax",
+            "time_offset_s": 13.0,
+            "text_ar": "يضرب اللاعب 9 تسديدة قوية نحو الزاوية العليا، لكن حارس المرمى يتصدى بإنقاذ مذهل، قفازه الذهبي يلمع في اللحظة!",
+            "text_en": "Player 9 unleashes a thunderous strike toward the top corner, only for the goalkeeper to pull off an astonishing save, his golden glove flashing in the moment!"
+          }
+        ]
+      }
+    ],
+    "passes": [
+      {
+        "event_id": "frame_26590",
+        "frame_id": 26590,
+        "period": 1,
+        "time_str": "17:43",
+        "start_time_s": 1063.6,
+        "duration_s": 4.68,
+        "team": "Home",
+        "key_player": "Player10",
+        "card_badge_ar": "⚡ تمريرة كاسرة",
+        "card_badge_en": "⚡ Laser Breakthrough",
+        "card_title_ar": "تمرير ليزري يفتح الدفاع!",
+        "card_title_en": "Laser Pass Breaks the Lines!",
+        "category": "passes",
+        "attack_chain": "Pass (Player6) ➔ Pass (Player10) ➔ Shot 🎯 (Player8)",
+        "outcome": "OFF_TARGET",
+        "danger_value": 4.0,
+        "commentator_timeline": [
+          {
+            "stage": "build_up",
+            "time_offset_s": 0.0,
+            "text_ar": "يستعيد لاعب 6 الكرة في وسط الملعب، يراقب التحركات ويستعد لشن الهجمة القوية.",
+            "text_en": "Player 6 recovers the ball in midfield, eyes the forward line and gears up for a swift attack."
+          },
+          {
+            "stage": "mid_action",
+            "time_offset_s": 2.1,
+            "text_ar": "يمرر لاعب 6 تمريرة ليزرية دقيقة إلى اللاعب 10، يختراق الخطوط الدفاعية كالسهم ويترك المدافعين في حالة ارتباك.",
+            "text_en": "Player 6 delivers a razor‑sharp laser pass to Player 10, slicing through the defensive lines like an arrow and leaving the backline scrambling."
+          },
+          {
+            "stage": "climax",
+            "time_offset_s": 4.7,
+            "text_ar": "يستقبل اللاعب 10 الكرة ويضربها بسرعة نحو اللاعب 8؛ اللاعب 8 يسدد، لكن الكرة تنحرف عن المرمى وتذهب خارج الإطار!",
+            "text_en": "Player 10 tees up Player 8, who unleashes a shot—only to see it drift wide of the post, off target!"
+          }
+        ]
+      },
+      {
+        "event_id": "frame_18252",
+        "frame_id": 18252,
+        "period": 1,
+        "time_str": "12:10",
+        "start_time_s": 730.08,
+        "duration_s": 4.92,
+        "team": "Home",
+        "key_player": "Player3",
+        "card_badge_ar": "قذيفة بعيدة 🚀",
+        "card_badge_en": "Long-range Shot 🚀",
+        "card_title_ar": "تمريرات ليزرية تكسر الخطوط!",
+        "card_title_en": "Laser Passes Shatter the Lines!",
+        "category": "passes",
+        "attack_chain": "Pass (Player6) ➔ Pass (Player3) ➔ Shot 🎯 (Player8)",
+        "outcome": "OFF_TARGET",
+        "danger_value": 3.0,
+        "commentator_timeline": [
+          {
+            "stage": "build_up",
+            "time_offset_s": 0.0,
+            "text_ar": "الكرة تسترجع من الدفاع وتنتقل إلى اللاعب 6، الذي يرفعها بحكمة في وسط الملعب مستعدًا لبدء الهجمة.",
+            "text_en": "The ball is recovered and handed to Player 6, who calmly lifts it into midfield, priming the attack."
+          },
+          {
+            "stage": "mid_action",
+            "time_offset_s": 2.2,
+            "text_ar": "يمرر اللاعب 6 كرة لاصقة كالشعاع إلى اللاعب 3، الذي يخترق ثلاث خطوط دفاعية بلمسة سحرية، مهدِّدًا المرمى بحركة لا تُصدَق.",
+            "text_en": "Player 6 delivers a laser‑sharp pass to Player 3, who slices through three defensive lines with a magical touch, threatening the goal."
+          },
+          {
+            "stage": "climax",
+            "time_offset_s": 4.9,
+            "text_ar": "يستقبل اللاعب 8 الكرة ويطلق تسديدة قوية، لكنها تنحرف عن المرمى وتذهب بعيدًا عن الهدف – ضربة قوية لكن خارج الميدان!",
+            "text_en": "Player 8 gathers the ball and unleashes a powerful strike, but it drifts off target— a thunderous effort that sails wide!"
+          }
+        ]
+      },
+      {
+        "event_id": "frame_45835",
+        "frame_id": 45835,
+        "period": 1,
+        "time_str": "30:33",
+        "start_time_s": 1833.4,
+        "duration_s": 9.08,
+        "team": "Home",
+        "key_player": "Player2",
+        "card_badge_ar": "كسر خطوط الدفاع 🚀",
+        "card_badge_en": "Line‑breaker 🚀",
+        "card_title_ar": "تمرير ليزري كاسر يهدد المرمى!",
+        "card_title_en": "Laser Through Pass Threatens the Goal!",
+        "category": "passes",
+        "attack_chain": "Pass (Player2) ➔ Recovery (Player16)",
+        "outcome": "OUT",
+        "danger_value": 3.0,
+        "commentator_timeline": [
+          {
+            "stage": "build_up",
+            "time_offset_s": 0.0,
+            "text_ar": "يستلم اللاعب 2 الكرة في وسط الملعب، يثبّت قدمه ويتفحص الدفاع بحذر، يرسل إشارة للزملاء بالتحرك.",
+            "text_en": "Player 2 gathers the ball in midfield, steadies his stance and scans the defense, signaling his teammates to surge forward."
+          },
+          {
+            "stage": "mid_action",
+            "time_offset_s": 4.1,
+            "text_ar": "يمرر اللاعب 2 تمريرة ليزرية دقيقة عبر خط الدفاع، تتخطى ثلاثة مدافعين وتصل إلى اللاعب 16 في وضعية مثالية.",
+            "text_en": "Player 2 unleashes a razor‑sharp through ball, slicing through three defenders and finding Player 16 in a perfect spot."
+          },
+          {
+            "stage": "climax",
+            "time_offset_s": 9.1,
+            "text_ar": "لكن اللاعب 16 يخطئ السيطرة وتخرج الكرة خارج حدود الملعب، ينتهي الهجوم بنهاية محبطة.",
+            "text_en": "But Player 16 mishandles the ball and it rolls out of play, ending the attack in disappointment."
+          }
+        ]
+      },
+      {
+        "event_id": "frame_86703",
+        "frame_id": 86703,
+        "period": 2,
+        "time_str": "57:48",
+        "start_time_s": 3468.12,
+        "duration_s": 18.84,
+        "team": "Away",
+        "key_player": "Player21",
+        "card_badge_ar": "⚡️ تمريرة سريعة",
+        "card_badge_en": "⚡️ Quick Pass",
+        "card_title_ar": "تمريرات ليزرية كاسرة للخطوط",
+        "card_title_en": "Laser Through‑Passes Break the Lines",
+        "category": "passes",
+        "attack_chain": "Pass (Player21) ➔ Pass (Player22) ➔ Pass (Player21) ➔ Recovery (Player3)",
+        "outcome": "OUT",
+        "danger_value": 3.0,
+        "commentator_timeline": [
+          {
+            "stage": "build_up",
+            "time_offset_s": 0.0,
+            "text_ar": "يبدأ اللعب عندما يستعيد اللاعب 3 الكرة في وسط الملعب، يرسلها إلى اللاعب 21 الذي يهيئ الهجمة بتمرير سريع نحو الجناح الأيسر.",
+            "text_en": "The action kicks off as Player 3 recovers the ball in midfield and dishes it to Player 21, who sets the attack in motion with a swift pass to the left flank."
+          },
+          {
+            "stage": "mid_action",
+            "time_offset_s": 8.5,
+            "text_ar": "يتلقى اللاعب 21 الكرة ويطلقها بدقة إلى اللاعب 22 في عمق المنطقة، ثم يعاود اللاعب 21 تمريرة كاسرة تخترق ثلاثة خطوط دفاعية، محدثاً فتحة خطيرة!",
+            "text_en": "Player 21 receives and threads a pinpoint ball to Player 22 deep inside, then delivers a second laser‑like through‑pass that slices through three defensive lines, creating a dangerous gap!"
+          },
+          {
+            "stage": "climax",
+            "time_offset_s": 18.8,
+            "text_ar": "يحاول اللاعب 22 إرسال كرة نهائية، لكن الكرة تنفلت عن السيطرة وتخرج من حدود الملعب، صرخة “آه!” من الجمهور مع انتهاء الهجمة بخروج الكرة!",
+            "text_en": "Player 22 attempts the final strike, but the ball slips away and rolls out of play – a collective gasp from the crowd as the dazzling move ends with the ball out!"
+          }
+        ]
+      }
+    ]
+  }
+}

@@ -1,0 +1,482 @@
+{
+    "frame_2289": {
+        "metadata": {
+            "period": 1,
+            "start_frame": 2289,
+            "start_time_s": 91.56,
+            "time_display": "01:31",
+            "team": "Home",
+            "primary_player": "Player9",
+            "action_type": "SHOT"
+        },
+        "tactical_classification": {
+            "danger_category": "Goal Scored",
+            "danger_value": 10.0,
+            "outcome_type": "GOAL",
+            "outcome_desc": "Goal Scored (Player9)"
+        },
+        "sequence_tracking": {
+            "seq_start_frame": 2143,
+            "key_action_frame": 2289,
+            "seq_end_frame": 2434,
+            "duration_s": 11.64,
+            "attack_chain": "Pass (Player6) ➔ Pass (Player10) ➔ Goal ⚽ (Player9)"
+        },
+        "llm_tactical_evaluation": {
+            "status": "pending",
+            "tactical_summary": null,
+            "space_exploited": null,
+            "defensive_breakdown": null
+        }
+    },
+    "frame_9628": {
+        "metadata": {
+            "period": 1,
+            "start_frame": 9628,
+            "start_time_s": 385.12,
+            "time_display": "06:25",
+            "team": "Home",
+            "primary_player": "Player8",
+            "action_type": "SHOT"
+        },
+        "tactical_classification": {
+            "danger_category": "Big Chance Saved",
+            "danger_value": 8.0,
+            "outcome_type": "SAVED",
+            "outcome_desc": "Shot Saved by GK"
+        },
+        "sequence_tracking": {
+            "seq_start_frame": 9354,
+            "key_action_frame": 9628,
+            "seq_end_frame": 9757,
+            "duration_s": 16.12,
+            "attack_chain": "Recovery (Player6) ➔ Pass (Player6) ➔ Pass (Player10) ➔ Shot 🎯 (Player8)"
+        },
+        "llm_tactical_evaluation": {
+            "status": "pending",
+            "tactical_summary": null,
+            "space_exploited": null,
+            "defensive_breakdown": null
+        }
+    },
+    "frame_18252": {
+        "metadata": {
+            "period": 1,
+            "start_frame": 18252,
+            "start_time_s": 730.08,
+            "time_display": "12:10",
+            "team": "Home",
+            "primary_player": "Player3",
+            "action_type": "PASS"
+        },
+        "tactical_classification": {
+            "danger_category": "Line-Breaking Pass",
+            "danger_value": 3.0,
+            "outcome_type": "OFF_TARGET",
+            "outcome_desc": "Shot Off Target"
+        },
+        "sequence_tracking": {
+            "seq_start_frame": 18203,
+            "key_action_frame": 18252,
+            "seq_end_frame": 18426,
+            "duration_s": 8.92,
+            "attack_chain": "Pass (Player6) ➔ Pass (Player3) ➔ Shot 🎯 (Player8)"
+        },
+        "llm_tactical_evaluation": {
+            "status": "pending",
+            "tactical_summary": null,
+            "space_exploited": null,
+            "defensive_breakdown": null
+        }
+    },
+    "frame_19470": {
+        "metadata": {
+            "period": 1,
+            "start_frame": 19470,
+            "start_time_s": 778.8,
+            "time_display": "12:58",
+            "team": "Away",
+            "primary_player": "Player24",
+            "action_type": "SHOT"
+        },
+        "tactical_classification": {
+            "danger_category": "Big Chance Saved",
+            "danger_value": 8.0,
+            "outcome_type": "SAVED",
+            "outcome_desc": "Shot Saved by GK"
+        },
+        "sequence_tracking": {
+            "seq_start_frame": 19116,
+            "key_action_frame": 19470,
+            "seq_end_frame": 19608,
+            "duration_s": 19.68,
+            "attack_chain": "Recovery (Player19) ➔ Pass (Player19) ➔ Pass (Player18) ➔ Pass (Player19) ➔ Pass (Player20) ➔ Pass (Player23) ➔ Shot 🎯 (Player24)"
+        },
+        "llm_tactical_evaluation": {
+            "status": "pending",
+            "tactical_summary": null,
+            "space_exploited": null,
+            "defensive_breakdown": null
+        }
+    },
+    "frame_26590": {
+        "metadata": {
+            "period": 1,
+            "start_frame": 26590,
+            "start_time_s": 1063.6,
+            "time_display": "17:43",
+            "team": "Home",
+            "primary_player": "Player10",
+            "action_type": "PASS"
+        },
+        "tactical_classification": {
+            "danger_category": "Line-Breaking Pass",
+            "danger_value": 4.0,
+            "outcome_type": "OFF_TARGET",
+            "outcome_desc": "Shot Off Target"
+        },
+        "sequence_tracking": {
+            "seq_start_frame": 26544,
+            "key_action_frame": 26590,
+            "seq_end_frame": 26761,
+            "duration_s": 8.68,
+            "attack_chain": "Pass (Player6) ➔ Pass (Player10) ➔ Shot 🎯 (Player8)"
+        },
+        "llm_tactical_evaluation": {
+            "status": "pending",
+            "tactical_summary": null,
+            "space_exploited": null,
+            "defensive_breakdown": null
+        }
+    },
+    "frame_45835": {
+        "metadata": {
+            "period": 1,
+            "start_frame": 45835,
+            "start_time_s": 1833.4,
+            "time_display": "30:33",
+            "team": "Home",
+            "primary_player": "Player2",
+            "action_type": "PASS"
+        },
+        "tactical_classification": {
+            "danger_category": "Line-Breaking Pass",
+            "danger_value": 3.0,
+            "outcome_type": "OUT",
+            "outcome_desc": "Ball Out of Play"
+        },
+        "sequence_tracking": {
+            "seq_start_frame": 45835,
+            "key_action_frame": 45835,
+            "seq_end_frame": 46162,
+            "duration_s": 13.08,
+            "attack_chain": "Pass (Player2) ➔ Recovery (Player16)"
+        },
+        "llm_tactical_evaluation": {
+            "status": "pending",
+            "tactical_summary": null,
+            "space_exploited": null,
+            "defensive_breakdown": null
+        }
+    },
+    "frame_53695": {
+        "metadata": {
+            "period": 1,
+            "start_frame": 53695,
+            "start_time_s": 2147.8,
+            "time_display": "35:47",
+            "team": "Home",
+            "primary_player": "Player8",
+            "action_type": "SHOT"
+        },
+        "tactical_classification": {
+            "danger_category": "Big Chance Saved",
+            "danger_value": 8.0,
+            "outcome_type": "SAVED",
+            "outcome_desc": "Shot Saved by GK"
+        },
+        "sequence_tracking": {
+            "seq_start_frame": 53322,
+            "key_action_frame": 53695,
+            "seq_end_frame": 53832,
+            "duration_s": 20.4,
+            "attack_chain": "Pass (Player4) ➔ Pass (Player8) ➔ Pass (Player12) ➔ Pass (Player10) ➔ Pass (Player7) ➔ Pass (Player8) ➔ Pass (Player6) ➔ Shot 🎯 (Player8)"
+        },
+        "llm_tactical_evaluation": {
+            "status": "pending",
+            "tactical_summary": null,
+            "space_exploited": null,
+            "defensive_breakdown": null
+        }
+    },
+    "frame_67502": {
+        "metadata": {
+            "period": 1,
+            "start_frame": 67502,
+            "start_time_s": 2700.08,
+            "time_display": "45:00",
+            "team": "Home",
+            "primary_player": "Player9",
+            "action_type": "SHOT"
+        },
+        "tactical_classification": {
+            "danger_category": "Big Chance Saved",
+            "danger_value": 8.0,
+            "outcome_type": "SAVED",
+            "outcome_desc": "Shot Saved by GK"
+        },
+        "sequence_tracking": {
+            "seq_start_frame": 67214,
+            "key_action_frame": 67502,
+            "seq_end_frame": 67638,
+            "duration_s": 16.96,
+            "attack_chain": "Recovery (Player4) ➔ Pass (Player4) ➔ Pass (Player8) ➔ Shot 🎯 (Player9)"
+        },
+        "llm_tactical_evaluation": {
+            "status": "pending",
+            "tactical_summary": null,
+            "space_exploited": null,
+            "defensive_breakdown": null
+        }
+    },
+    "frame_75262": {
+        "metadata": {
+            "period": 2,
+            "start_frame": 75262,
+            "start_time_s": 3010.48,
+            "time_display": "50:10",
+            "team": "Away",
+            "primary_player": "Player19",
+            "action_type": "SHOT"
+        },
+        "tactical_classification": {
+            "danger_category": "Big Chance Saved",
+            "danger_value": 8.0,
+            "outcome_type": "SAVED",
+            "outcome_desc": "Shot Saved by GK"
+        },
+        "sequence_tracking": {
+            "seq_start_frame": 74959,
+            "key_action_frame": 75262,
+            "seq_end_frame": 75409,
+            "duration_s": 18.0,
+            "attack_chain": "Pass (Player15) ➔ Pass (Player19) ➔ Pass (Player17) ➔ Pass (Player19) ➔ Pass (Player23) ➔ Shot 🎯 (Player19)"
+        },
+        "llm_tactical_evaluation": {
+            "status": "pending",
+            "tactical_summary": null,
+            "space_exploited": null,
+            "defensive_breakdown": null
+        }
+    },
+    "frame_86703": {
+        "metadata": {
+            "period": 2,
+            "start_frame": 86703,
+            "start_time_s": 3468.12,
+            "time_display": "57:48",
+            "team": "Away",
+            "primary_player": "Player21",
+            "action_type": "PASS"
+        },
+        "tactical_classification": {
+            "danger_category": "Line-Breaking Pass",
+            "danger_value": 3.0,
+            "outcome_type": "OUT",
+            "outcome_desc": "Ball Out of Play"
+        },
+        "sequence_tracking": {
+            "seq_start_frame": 86488,
+            "key_action_frame": 86703,
+            "seq_end_frame": 87059,
+            "duration_s": 22.84,
+            "attack_chain": "Pass (Player21) ➔ Pass (Player22) ➔ Pass (Player21) ➔ Recovery (Player3)"
+        },
+        "llm_tactical_evaluation": {
+            "status": "pending",
+            "tactical_summary": null,
+            "space_exploited": null,
+            "defensive_breakdown": null
+        }
+    },
+    "frame_90005": {
+        "metadata": {
+            "period": 2,
+            "start_frame": 90005,
+            "start_time_s": 3600.2,
+            "time_display": "60:00",
+            "team": "Home",
+            "primary_player": "Player10",
+            "action_type": "SHOT"
+        },
+        "tactical_classification": {
+            "danger_category": "Goal Scored",
+            "danger_value": 10.0,
+            "outcome_type": "GOAL",
+            "outcome_desc": "Goal Scored (Player10)"
+        },
+        "sequence_tracking": {
+            "seq_start_frame": 89875,
+            "key_action_frame": 90005,
+            "seq_end_frame": 90151,
+            "duration_s": 11.04,
+            "attack_chain": "Recovery (Player5) ➔ Pass (Player5) ➔ Pass (Player10) ➔ Pass (Player5) ➔ Goal ⚽ (Player10)"
+        },
+        "llm_tactical_evaluation": {
+            "status": "pending",
+            "tactical_summary": null,
+            "space_exploited": null,
+            "defensive_breakdown": null
+        }
+    },
+    "frame_98958": {
+        "metadata": {
+            "period": 2,
+            "start_frame": 98958,
+            "start_time_s": 3958.32,
+            "time_display": "65:58",
+            "team": "Home",
+            "primary_player": "Player4",
+            "action_type": "PASS"
+        },
+        "tactical_classification": {
+            "danger_category": "Line-Breaking Pass",
+            "danger_value": 5.0,
+            "outcome_type": "GOAL",
+            "outcome_desc": "Goal Scored (Player9 after Rebound)"
+        },
+        "sequence_tracking": {
+            "seq_start_frame": 98860,
+            "key_action_frame": 98958,
+            "seq_end_frame": 99157,
+            "duration_s": 11.88,
+            "attack_chain": "Recovery (Player8) ➔ Pass (Player8) ➔ Pass (Player4) ➔ Shot 🎯 (Player5)"
+        },
+        "llm_tactical_evaluation": {
+            "status": "pending",
+            "tactical_summary": null,
+            "space_exploited": null,
+            "defensive_breakdown": null
+        }
+    },
+    "frame_108611": {
+        "metadata": {
+            "period": 2,
+            "start_frame": 108611,
+            "start_time_s": 4344.44,
+            "time_display": "72:24",
+            "team": "Away",
+            "primary_player": "Player27",
+            "action_type": "SHOT"
+        },
+        "tactical_classification": {
+            "danger_category": "Big Chance Saved",
+            "danger_value": 8.0,
+            "outcome_type": "SAVED",
+            "outcome_desc": "Shot Saved by GK"
+        },
+        "sequence_tracking": {
+            "seq_start_frame": 108253,
+            "key_action_frame": 108611,
+            "seq_end_frame": 108753,
+            "duration_s": 20.0,
+            "attack_chain": "Pass (Player27) ➔ Pass (Player20) ➔ Pass (Player19) ➔ Shot 🎯 (Player27)"
+        },
+        "llm_tactical_evaluation": {
+            "status": "pending",
+            "tactical_summary": null,
+            "space_exploited": null,
+            "defensive_breakdown": null
+        }
+    },
+    "frame_129678": {
+        "metadata": {
+            "period": 2,
+            "start_frame": 129678,
+            "start_time_s": 5187.12,
+            "time_display": "86:27",
+            "team": "Away",
+            "primary_player": "Player17",
+            "action_type": "PASS"
+        },
+        "tactical_classification": {
+            "danger_category": "Line-Breaking Pass",
+            "danger_value": 3.0,
+            "outcome_type": "TURNOVER",
+            "outcome_desc": "Ball Intercepted"
+        },
+        "sequence_tracking": {
+            "seq_start_frame": 129377,
+            "key_action_frame": 129678,
+            "seq_end_frame": 129931,
+            "duration_s": 22.16,
+            "attack_chain": "Pass (Player21) ➔ Pass (Player17) ➔ Pass (Player15) ➔ Pass (Player21) ➔ Pass (Player17) ➔ Pass (Player18) ➔ Recovery (Player5) ➔ Pass (Player5)"
+        },
+        "llm_tactical_evaluation": {
+            "status": "pending",
+            "tactical_summary": null,
+            "space_exploited": null,
+            "defensive_breakdown": null
+        }
+    },
+    "frame_129973": {
+        "metadata": {
+            "period": 2,
+            "start_frame": 129973,
+            "start_time_s": 5198.92,
+            "time_display": "86:38",
+            "team": "Away",
+            "primary_player": "Player21",
+            "action_type": "PASS"
+        },
+        "tactical_classification": {
+            "danger_category": "Line-Breaking Pass",
+            "danger_value": 3.0,
+            "outcome_type": "PROGRESSION",
+            "outcome_desc": "Attack Progression"
+        },
+        "sequence_tracking": {
+            "seq_start_frame": 129862,
+            "key_action_frame": 129973,
+            "seq_end_frame": 130488,
+            "duration_s": 25.04,
+            "attack_chain": "Recovery (Player17) ➔ Pass (Player17) ➔ Pass (Player16) ➔ Pass (Player21) ➔ Pass (Player27) ➔ Pass (Player23) ➔ Pass (Player21)"
+        },
+        "llm_tactical_evaluation": {
+            "status": "pending",
+            "tactical_summary": null,
+            "space_exploited": null,
+            "defensive_breakdown": null
+        }
+    },
+    "frame_133892": {
+        "metadata": {
+            "period": 2,
+            "start_frame": 133892,
+            "start_time_s": 5355.68,
+            "time_display": "89:15",
+            "team": "Away",
+            "primary_player": "Player21",
+            "action_type": "PASS"
+        },
+        "tactical_classification": {
+            "danger_category": "Line-Breaking Pass",
+            "danger_value": 3.0,
+            "outcome_type": "OFF_TARGET",
+            "outcome_desc": "Shot Off Target"
+        },
+        "sequence_tracking": {
+            "seq_start_frame": 133625,
+            "key_action_frame": 133892,
+            "seq_end_frame": 134201,
+            "duration_s": 23.04,
+            "attack_chain": "Pass (Player28) ➔ Pass (Player27) ➔ Pass (Player21) ➔ Pass (Player17) ➔ Shot 🎯 (Player28)"
+        },
+        "llm_tactical_evaluation": {
+            "status": "pending",
+            "tactical_summary": null,
+            "space_exploited": null,
+            "defensive_breakdown": null
+        }
+    }
+}

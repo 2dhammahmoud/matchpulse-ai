@@ -1,0 +1,17 @@
+Period,Start Frame,Start Time [s],Team,From,Type,Danger_Category,Danger_Value
+1,2289,91.56,Home,Player9,SHOT,Goal Scored,10.0
+1,9628,385.12,Home,Player8,SHOT,Big Chance Saved,8.0
+1,18252,730.08,Home,Player3,PASS,Line-Breaking Pass,3.0
+1,19470,778.8,Away,Player24,SHOT,Big Chance Saved,8.0
+1,26590,1063.6,Home,Player10,PASS,Line-Breaking Pass,4.0
+1,45835,1833.4,Home,Player2,PASS,Line-Breaking Pass,3.0
+1,53695,2147.8,Home,Player8,SHOT,Big Chance Saved,8.0
+1,67502,2700.08,Home,Player9,SHOT,Big Chance Saved,8.0
+2,75262,3010.48,Away,Player19,SHOT,Big Chance Saved,8.0
+2,86703,3468.12,Away,Player21,PASS,Line-Breaking Pass,3.0
+2,90005,3600.2,Home,Player10,SHOT,Goal Scored,10.0
+2,98958,3958.32,Home,Player4,PASS,Line-Breaking Pass,5.0
+2,108611,4344.44,Away,Player27,SHOT,Big Chance Saved,8.0
+2,129678,5187.12,Away,Player17,PASS,Line-Breaking Pass,3.0
+2,129973,5198.92,Away,Player21,PASS,Line-Breaking Pass,3.0
+2,133892,5355.68,Away,Player21,PASS,Line-Breaking Pass,3.0

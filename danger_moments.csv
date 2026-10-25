@@ -1,0 +1,157 @@
+Period,Start Frame,Start Time [s],Team,From,Type,Danger_Category,Danger_Value
+1,498,19.92,Home,Player2,PASS,Line-Breaking Pass,2.0
+1,2289,91.56,Home,Player9,SHOT,Shot,8.64
+1,5228,209.12,Away,Player19,RECOVERY,High Turnover,1.0
+1,5549,221.96,Away,Player18,RECOVERY,High Turnover,1.0
+1,5923,236.92,Home,Player10,SHOT,Shot,22.95
+1,6844,273.76,Home,Player6,RECOVERY,High Turnover,1.0
+1,7203,288.12,Away,Player18,RECOVERY,High Turnover,1.0
+1,7404,296.16,Away,Player15,PASS,Line-Breaking Pass,2.0
+1,7519,300.76,Away,Player19,RECOVERY,High Turnover,1.0
+1,7724,308.96,Away,Player21,RECOVERY,High Turnover,1.0
+1,7753,310.12,Away,Player21,SHOT,Shot,25.02
+1,8581,343.24,Home,Player10,RECOVERY,High Turnover,1.0
+1,8734,349.36,Home,Player8,RECOVERY,High Turnover,1.0
+1,9599,383.96,Home,Player10,PASS,Line-Breaking Pass,2.0
+1,9628,385.12,Home,Player8,SHOT,Shot,9.79
+1,10708,428.32,Home,Player8,RECOVERY,High Turnover,1.0
+1,13814,552.56,Home,Player9,RECOVERY,High Turnover,1.0
+1,15300,612.0,Away,Player22,RECOVERY,High Turnover,1.0
+1,15419,616.76,Home,Player9,PASS,Line-Breaking Pass,2.0
+1,18252,730.08,Home,Player3,PASS,Line-Breaking Pass,3.0
+1,18270,730.8,Home,Player8,SHOT,Shot,7.16
+1,19470,778.8,Away,Player24,SHOT,Shot,16.26
+1,19529,781.16,Home,Player3,PASS,Line-Breaking Pass,2.0
+1,19616,784.64,Away,Player20,RECOVERY,High Turnover,1.0
+1,20471,818.84,Home,Player4,PASS,Line-Breaking Pass,2.0
+1,20666,826.64,Away,Player17,RECOVERY,High Turnover,1.0
+1,21362,854.48,Away,Player21,PASS,Line-Breaking Pass,2.0
+1,21515,860.6,Away,Player19,RECOVERY,High Turnover,1.0
+1,22665,906.6,Home,Player9,RECOVERY,High Turnover,1.0
+1,22738,909.52,Home,Player6,RECOVERY,High Turnover,1.0
+1,23909,956.36,Away,Player19,RECOVERY,High Turnover,1.0
+1,24186,967.44,Away,Player16,RECOVERY,High Turnover,1.0
+1,24308,972.32,Away,Player19,PASS,Line-Breaking Pass,2.0
+1,24556,982.24,Away,Player23,RECOVERY,High Turnover,1.0
+1,26590,1063.6,Home,Player10,PASS,Line-Breaking Pass,4.0
+1,26608,1064.32,Home,Player8,SHOT,Shot,5.63
+1,27412,1096.48,Away,Player21,RECOVERY,High Turnover,1.0
+1,28339,1133.56,Away,Player25,PASS,Line-Breaking Pass,2.0
+1,29301,1172.04,Away,Player18,RECOVERY,High Turnover,1.0
+1,30518,1220.72,Home,Player6,RECOVERY,High Turnover,1.0
+1,30897,1235.88,Home,Player1,RECOVERY,High Turnover,1.0
+1,31190,1247.6,Home,Player7,SHOT,Shot,27.7
+1,31743,1269.72,Home,Player10,RECOVERY,High Turnover,1.0
+1,33894,1355.76,Home,Player6,RECOVERY,High Turnover,1.0
+1,34397,1375.88,Away,Player15,PASS,Line-Breaking Pass,2.0
+1,36370,1454.8,Home,Player8,RECOVERY,High Turnover,1.0
+1,38234,1529.36,Away,Player16,PASS,Line-Breaking Pass,2.0
+1,38313,1532.52,Home,Player6,RECOVERY,High Turnover,1.0
+1,43469,1738.76,Away,Player22,PASS,Line-Breaking Pass,2.0
+1,44400,1776.0,Home,Player5,RECOVERY,High Turnover,1.0
+1,44504,1780.16,Home,Player4,RECOVERY,High Turnover,1.0
+1,44863,1794.52,Away,Player22,RECOVERY,High Turnover,1.0
+1,45835,1833.4,Home,Player2,PASS,Line-Breaking Pass,3.0
+1,47627,1905.08,Away,Player17,PASS,Line-Breaking Pass,2.0
+1,48200,1928.0,Away,Player20,PASS,Line-Breaking Pass,2.0
+1,48671,1946.84,Home,Player6,PASS,Line-Breaking Pass,2.0
+1,51732,2069.28,Away,Player19,RECOVERY,High Turnover,1.0
+1,53551,2142.04,Home,Player10,PASS,Line-Breaking Pass,2.0
+1,53695,2147.8,Home,Player8,SHOT,Shot,6.45
+1,53775,2151.0,Home,Player5,RECOVERY,High Turnover,1.0
+1,53775,2151.0,Home,Player5,SHOT,Shot,20.97
+1,54476,2179.04,Away,Player19,PASS,Line-Breaking Pass,2.0
+1,54604,2184.16,Home,Player8,RECOVERY,High Turnover,1.0
+1,55431,2217.24,Home,Player12,RECOVERY,High Turnover,1.0
+1,57606,2304.24,Away,Player25,PASS,Line-Breaking Pass,2.0
+1,57668,2306.72,Home,Player7,RECOVERY,High Turnover,1.0
+1,57668,2306.72,Home,Player7,SHOT,Shot,25.35
+1,59232,2369.28,Home,Player12,PASS,Line-Breaking Pass,2.0
+1,59511,2380.44,Home,Player2,PASS,Line-Breaking Pass,2.0
+1,61420,2456.8,Home,Player7,PASS,Line-Breaking Pass,2.0
+1,62753,2510.12,Home,Player10,RECOVERY,High Turnover,1.0
+1,62792,2511.68,Home,Player10,SHOT,Shot,30.48
+1,63333,2533.32,Away,Player17,PASS,Line-Breaking Pass,2.0
+1,63528,2541.12,Home,Player8,RECOVERY,High Turnover,1.0
+1,63994,2559.76,Away,Player17,RECOVERY,High Turnover,1.0
+1,64617,2584.68,Away,Player25,PASS,Line-Breaking Pass,2.0
+1,64793,2591.72,Away,Player18,PASS,Line-Breaking Pass,2.0
+1,65374,2614.96,Home,Player4,PASS,Line-Breaking Pass,2.0
+1,65505,2620.2,Home,Player4,PASS,Line-Breaking Pass,2.0
+1,67502,2700.08,Home,Player9,SHOT,Shot,7.12
+1,67621,2704.84,Home,Player7,RECOVERY,High Turnover,1.0
+1,67752,2710.08,Home,Player3,RECOVERY,High Turnover,1.0
+1,69071,2762.84,Home,Player12,RECOVERY,High Turnover,1.0
+1,69225,2769.0,Home,Player10,PASS,Line-Breaking Pass,2.0
+2,72443,2897.72,Away,Player23,RECOVERY,High Turnover,1.0
+2,75101,3004.04,Away,Player19,PASS,Line-Breaking Pass,2.0
+2,75262,3010.48,Away,Player19,SHOT,Shot,25.65
+2,77048,3081.92,Home,Player12,SHOT,Shot,8.78
+2,77581,3103.24,Home,Player8,RECOVERY,High Turnover,1.0
+2,78077,3123.08,Home,Player3,PASS,Line-Breaking Pass,2.0
+2,79781,3191.24,Away,Player15,RECOVERY,High Turnover,1.0
+2,80341,3213.64,Home,Player10,PASS,Line-Breaking Pass,2.0
+2,80491,3219.64,Home,Player7,RECOVERY,High Turnover,1.0
+2,81122,3244.88,Home,Player4,PASS,Line-Breaking Pass,2.0
+2,81424,3256.96,Home,Player7,PASS,Line-Breaking Pass,2.0
+2,84920,3396.8,Away,Player18,RECOVERY,High Turnover,1.0
+2,86091,3443.64,Away,Player22,RECOVERY,High Turnover,1.0
+2,86703,3468.12,Away,Player21,PASS,Line-Breaking Pass,3.0
+2,89486,3579.44,Home,Player12,PASS,Line-Breaking Pass,2.0
+2,89875,3595.0,Home,Player5,RECOVERY,High Turnover,1.0
+2,89978,3599.12,Home,Player5,PASS,Line-Breaking Pass,2.0
+2,90005,3600.2,Home,Player10,SHOT,Shot,15.41
+2,91952,3678.08,Home,Player5,RECOVERY,High Turnover,1.0
+2,91995,3679.8,Home,Player5,PASS,Line-Breaking Pass,2.0
+2,92686,3707.44,Away,Player19,RECOVERY,High Turnover,1.0
+2,93716,3748.64,Home,Player12,PASS,Line-Breaking Pass,2.0
+2,93716,3748.64,Home,Player12,RECOVERY,High Turnover,1.0
+2,98860,3954.4,Home,Player8,RECOVERY,High Turnover,1.0
+2,98958,3958.32,Home,Player4,PASS,Line-Breaking Pass,5.0
+2,99005,3960.2,Home,Player5,SHOT,Shot,10.41
+2,99032,3961.28,Home,Player9,RECOVERY,High Turnover,1.0
+2,99032,3961.28,Home,Player9,SHOT,Shot,3.44
+2,103210,4128.4,Home,Player7,RECOVERY,High Turnover,1.0
+2,104003,4160.12,Home,Player12,RECOVERY,High Turnover,1.0
+2,105645,4225.8,Away,Player22,RECOVERY,High Turnover,1.0
+2,107585,4303.4,Home,Player2,PASS,Line-Breaking Pass,2.0
+2,107829,4313.16,Home,Player7,RECOVERY,High Turnover,1.0
+2,108161,4326.44,Home,Player6,PASS,Line-Breaking Pass,2.0
+2,108227,4329.08,Away,Player20,RECOVERY,High Turnover,1.0
+2,108611,4344.44,Away,Player27,SHOT,Shot,17.16
+2,108818,4352.72,Home,Player5,PASS,Line-Breaking Pass,2.0
+2,109010,4360.4,Home,Player10,PASS,Line-Breaking Pass,2.0
+2,113953,4558.12,Away,Player17,RECOVERY,High Turnover,1.0
+2,114770,4590.8,Away,Player27,RECOVERY,High Turnover,1.0
+2,115046,4601.84,Away,Player18,RECOVERY,High Turnover,1.0
+2,115180,4607.2,Away,Player23,RECOVERY,High Turnover,1.0
+2,115976,4639.04,Home,Player8,RECOVERY,High Turnover,1.0
+2,118290,4731.6,Home,Player12,RECOVERY,High Turnover,1.0
+2,118628,4745.12,Home,Player12,RECOVERY,High Turnover,1.0
+2,118799,4751.96,Home,Player5,PASS,Line-Breaking Pass,2.0
+2,118911,4756.44,Home,Player10,SHOT,Shot,15.41
+2,122133,4885.32,Home,Player14,RECOVERY,High Turnover,1.0
+2,122727,4909.08,Home,Player14,PASS,Line-Breaking Pass,2.0
+2,122923,4916.92,Home,Player14,SHOT,Shot,26.26
+2,123070,4922.8,Away,Player25,PASS,Line-Breaking Pass,2.0
+2,123148,4925.92,Home,Player4,RECOVERY,High Turnover,1.0
+2,124147,4965.88,Home,Player12,RECOVERY,High Turnover,1.0
+2,124755,4990.2,Away,Player23,SHOT,Shot,16.9
+2,125794,5031.76,Home,Player9,RECOVERY,High Turnover,1.0
+2,127678,5107.12,Away,Player26,RECOVERY,High Turnover,1.0
+2,129593,5183.72,Away,Player15,PASS,Line-Breaking Pass,2.0
+2,129678,5187.12,Away,Player17,PASS,Line-Breaking Pass,3.0
+2,129862,5194.48,Away,Player17,RECOVERY,High Turnover,1.0
+2,129973,5198.92,Away,Player21,PASS,Line-Breaking Pass,3.0
+2,131671,5266.84,Home,Player5,RECOVERY,High Turnover,1.0
+2,132732,5309.28,Away,Player17,PASS,Line-Breaking Pass,2.0
+2,133625,5345.0,Away,Player28,PASS,Line-Breaking Pass,2.0
+2,133892,5355.68,Away,Player21,PASS,Line-Breaking Pass,3.0
+2,134041,5361.64,Away,Player28,SHOT,Shot,30.13
+2,134828,5393.12,Home,Player11,PASS,Line-Breaking Pass,2.0
+2,135957,5438.28,Home,Player9,SHOT,Shot,17.29
+2,138647,5545.88,Home,Player2,PASS,Line-Breaking Pass,2.0
+2,139851,5594.04,Away,Player28,RECOVERY,High Turnover,1.0
+2,139898,5595.92,Away,Player21,PASS,Line-Breaking Pass,2.0
+2,143262,5730.48,Home,Player14,PASS,Line-Breaking Pass,2.0
+2,143361,5734.44,Home,Player12,PASS,Line-Breaking Pass,2.0

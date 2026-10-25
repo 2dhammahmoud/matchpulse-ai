@@ -1,0 +1,126 @@
+{
+  "scoreboard": {
+    "home_score": 3,
+    "away_score": 0,
+    "match_duration_min": 96.7,
+    "goals": [
+      {
+        "team": "Home",
+        "player": "Player9",
+        "minute": 1,
+        "second": 32,
+        "clock": "01:32",
+        "time_s": 92.36
+      },
+      {
+        "team": "Home",
+        "player": "Player10",
+        "minute": 60,
+        "second": 1,
+        "clock": "60:01",
+        "time_s": 3601.04
+      },
+      {
+        "team": "Home",
+        "player": "Player9",
+        "minute": 66,
+        "second": 1,
+        "clock": "66:01",
+        "time_s": 3961.84
+      }
+    ]
+  },
+  "kpis": {
+    "total_distance_km": 220.9,
+    "home_distance_km": 108.69,
+    "away_distance_km": 112.22,
+    "total_line_breaks": 7,
+    "total_packing_events": 87,
+    "home_field_tilt": 65.5,
+    "away_field_tilt": 34.5
+  },
+  "territory_thirds": {
+    "defensive_third_pct": 19.3,
+    "middle_third_pct": 50.6,
+    "attacking_third_pct": 30.1
+  },
+  "radar_comparison": {
+    "metrics": [
+      "Passes",
+      "Line Breaks",
+      "Shots",
+      "Recoveries",
+      "Final 3rd Tilt"
+    ],
+    "home": [
+      437,
+      2,
+      18,
+      135,
+      65
+    ],
+    "away": [
+      362,
+      5,
+      6,
+      143,
+      34
+    ]
+  },
+  "top_impact_players": [
+    {
+      "player": "Player 3",
+      "team": "Home",
+      "line_breaks": 0,
+      "packing_score": 12,
+      "involvements": 65,
+      "distance_m": 9619.8
+    },
+    {
+      "player": "Player 4",
+      "team": "Home",
+      "line_breaks": 0,
+      "packing_score": 10,
+      "involvements": 68,
+      "distance_m": 10301.8
+    },
+    {
+      "player": "Player 2",
+      "team": "Home",
+      "line_breaks": 0,
+      "packing_score": 8,
+      "involvements": 77,
+      "distance_m": 9916.8
+    },
+    {
+      "player": "Player 8",
+      "team": "Home",
+      "line_breaks": 0,
+      "packing_score": 8,
+      "involvements": 65,
+      "distance_m": 11276.7
+    },
+    {
+      "player": "Player 9",
+      "team": "Home",
+      "line_breaks": 0,
+      "packing_score": 8,
+      "involvements": 34,
+      "distance_m": 10195.7
+    }
+  ],
+  "narrative": {
+    "summary_en": {
+      "Territorial dominance": "The home team dominated the match in terms of territory, holding 67.4% of possession throughout the match.",
+      "Finishing efficiency": "The home team's finishing efficiency was impressive, converting 3 out of 6 shots on target.",
+      "Progression": "The home team's progression was effective, creating 11 line breaks and making 27 tackles."
+    },
+    "summary_ar": {
+      "تفوق ميداني": "فريق المضيف سيطر على المباراة من حيث السيطرة الميدانية بنسبة 67.4%.",
+      "فعالية التسديد": "فعالية تسديد الفريق المضيف كانت مميزة، حيث سجلوا 3 أهداف من أصل 6 تسديدات على المرمى.",
+      "تحقيق التقدم": "تحقيق التقدم كان فعّالاً، حيث قام الفريق المضيف بخلق 11 فرصة تجاوز الخصم و18 تدخلات"
+    },
+    "turning_point_en": "The turning point of the match occurred in the 78th minute when the home team scored a goal.",
+    "turning_point_ar": "لحظة التحول في المباراة كانت في الدقيقة ال78 عندما سجل الفريق المضيف هدفًا"
+  }
+}

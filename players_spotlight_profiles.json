@@ -1,0 +1,3309 @@
+{
+  "Away_Player15": {
+    "player_id": "15",
+    "team": "Away",
+    "role": "Midfielder",
+    "profile_stats": {
+      "total_passes": 31,
+      "pass_accuracy_pct": 96.8,
+      "shots_total": 0,
+      "shots_on_target": 0,
+      "goals": 0,
+      "defenders_packed": 16,
+      "total_saves": 0,
+      "total_defensive_actions": 31
+    },
+    "moments_categories": {
+      "key_actions": [
+        {
+          "event_id": "evt_15_7404",
+          "period": 1,
+          "start_frame": 7344,
+          "end_frame": 7487,
+          "key_frame": 7404,
+          "time_str": "04:56",
+          "danger_value": 2,
+          "outcome": "PASS_KEY",
+          "title_ar": "أهم لقطات اللاعب [04:56]",
+          "title_en": "Key Player Highlight [04:56]",
+          "desc_ar": "تمريرة كاسرة لـ 2 مدافعين",
+          "desc_en": "Match highlight at minute 04:56."
+        },
+        {
+          "event_id": "evt_15_34397",
+          "period": 1,
+          "start_frame": 34337,
+          "end_frame": 34526,
+          "key_frame": 34397,
+          "time_str": "22:55",
+          "danger_value": 2,
+          "outcome": "PASS_KEY",
+          "title_ar": "أهم لقطات اللاعب [22:55]",
+          "title_en": "Key Player Highlight [22:55]",
+          "desc_ar": "تمريرة كاسرة لـ 2 مدافعين",
+          "desc_en": "Match highlight at minute 22:55."
+        },
+        {
+          "event_id": "evt_15_129593",
+          "period": 2,
+          "start_frame": 129533,
+          "end_frame": 129668,
+          "key_frame": 129593,
+          "time_str": "86:23",
+          "danger_value": 2,
+          "outcome": "PASS_KEY",
+          "title_ar": "أهم لقطات اللاعب [86:23]",
+          "title_en": "Key Player Highlight [86:23]",
+          "desc_ar": "تمريرة كاسرة لـ 2 مدافعين",
+          "desc_en": "Match highlight at minute 86:23."
+        }
+      ],
+      "best_positioning": [],
+      "defensive_lapses": [
+        {
+          "event_id": "evt_15_1374",
+          "period": 1,
+          "start_frame": 1314,
+          "end_frame": 1509,
+          "key_frame": 1374,
+          "time_str": "00:54",
+          "danger_value": 2,
+          "outcome": "SUCCESS",
+          "title_ar": "المواقف الدفاعية للاعب [00:54]",
+          "title_en": "Defensive Play [00:54]",
+          "desc_ar": "تدخل ناجح (INTERCEPTION)",
+          "desc_en": "Defensive involvement at minute 00:54."
+        },
+        {
+          "event_id": "evt_15_8576",
+          "period": 1,
+          "start_frame": 8516,
+          "end_frame": 8711,
+          "key_frame": 8576,
+          "time_str": "05:43",
+          "danger_value": 2,
+          "outcome": "SUCCESS",
+          "title_ar": "المواقف الدفاعية للاعب [05:43]",
+          "title_en": "Defensive Play [05:43]",
+          "desc_ar": "تدخل ناجح (INTERCEPTION)",
+          "desc_en": "Defensive involvement at minute 05:43."
+        },
+        {
+          "event_id": "evt_15_8650",
+          "period": 1,
+          "start_frame": 8590,
+          "end_frame": 8785,
+          "key_frame": 8650,
+          "time_str": "05:46",
+          "danger_value": 2,
+          "outcome": "SUCCESS",
+          "title_ar": "المواقف الدفاعية للاعب [05:46]",
+          "title_en": "Defensive Play [05:46]",
+          "desc_ar": "تدخل ناجح (NAN)",
+          "desc_en": "Defensive involvement at minute 05:46."
+        }
+      ]
+    }
+  },
+  "Away_Player16": {
+    "player_id": "16",
+    "team": "Away",
+    "role": "Midfielder",
+    "profile_stats": {
+      "total_passes": 40,
+      "pass_accuracy_pct": 100.0,
+      "shots_total": 0,
+      "shots_on_target": 0,
+      "goals": 0,
+      "defenders_packed": 12,
+      "total_saves": 0,
+      "total_defensive_actions": 27
+    },
+    "moments_categories": {
+      "key_actions": [
+        {
+          "event_id": "evt_16_38234",
+          "period": 1,
+          "start_frame": 38174,
+          "end_frame": 38335,
+          "key_frame": 38234,
+          "time_str": "25:29",
+          "danger_value": 2,
+          "outcome": "PASS_KEY",
+          "title_ar": "أهم لقطات اللاعب [25:29]",
+          "title_en": "Key Player Highlight [25:29]",
+          "desc_ar": "تمريرة كاسرة لـ 2 مدافعين",
+          "desc_en": "Match highlight at minute 25:29."
+        },
+        {
+          "event_id": "evt_16_763",
+          "period": 1,
+          "start_frame": 703,
+          "end_frame": 844,
+          "key_frame": 763,
+          "time_str": "00:30",
+          "danger_value": 1,
+          "outcome": "PASS_KEY",
+          "title_ar": "أهم لقطات اللاعب [00:30]",
+          "title_en": "Key Player Highlight [00:30]",
+          "desc_ar": "تمريرة كاسرة لـ 1 مدافعين",
+          "desc_en": "Match highlight at minute 00:30."
+        },
+        {
+          "event_id": "evt_16_14834",
+          "period": 1,
+          "start_frame": 14774,
+          "end_frame": 14930,
+          "key_frame": 14834,
+          "time_str": "09:53",
+          "danger_value": 1,
+          "outcome": "PASS_KEY",
+          "title_ar": "أهم لقطات اللاعب [09:53]",
+          "title_en": "Key Player Highlight [09:53]",
+          "desc_ar": "تمريرة كاسرة لـ 1 مدافعين",
+          "desc_en": "Match highlight at minute 09:53."
+        }
+      ],
+      "best_positioning": [
+        {
+          "event_id": "evt_16_57606",
+          "period": 1,
+          "start_frame": 57546,
+          "end_frame": 57684,
+          "key_frame": 57606,
+          "time_str": "38:24",
+          "danger_value": 2,
+          "outcome": "PACKING_RECEIVE",
+          "title_ar": "أهم لقطات التمركز والاستلام [38:24]",
+          "title_en": "Key Space Reception [38:24]",
+          "desc_ar": "استلام تمريرة بين الخطوط",
+          "desc_en": "Reception between lines at minute 38:24."
+        }
+      ],
+      "defensive_lapses": [
+        {
+          "event_id": "evt_16_453",
+          "period": 1,
+          "start_frame": 393,
+          "end_frame": 588,
+          "key_frame": 453,
+          "time_str": "00:18",
+          "danger_value": 2,
+          "outcome": "SUCCESS",
+          "title_ar": "المواقف الدفاعية للاعب [00:18]",
+          "title_en": "Defensive Play [00:18]",
+          "desc_ar": "تدخل ناجح (INTERCEPTION)",
+          "desc_en": "Defensive involvement at minute 00:18."
+        },
+        {
+          "event_id": "evt_16_618",
+          "period": 1,
+          "start_frame": 558,
+          "end_frame": 753,
+          "key_frame": 618,
+          "time_str": "00:24",
+          "danger_value": 2,
+          "outcome": "SUCCESS",
+          "title_ar": "المواقف الدفاعية للاعب [00:24]",
+          "title_en": "Defensive Play [00:24]",
+          "desc_ar": "تدخل ناجح (INTERCEPTION)",
+          "desc_en": "Defensive involvement at minute 00:24."
+        },
+        {
+          "event_id": "evt_16_13844",
+          "period": 1,
+          "start_frame": 13784,
+          "end_frame": 13979,
+          "key_frame": 13844,
+          "time_str": "09:13",
+          "danger_value": 2,
+          "outcome": "SUCCESS",
+          "title_ar": "المواقف الدفاعية للاعب [09:13]",
+          "title_en": "Defensive Play [09:13]",
+          "desc_ar": "تدخل ناجح (TACKLE-WON)",
+          "desc_en": "Defensive involvement at minute 09:13."
+        }
+      ]
+    }
+  },
+  "Away_Player17": {
+    "player_id": "17",
+    "team": "Away",
+    "role": "Defender",
+    "profile_stats": {
+      "total_passes": 39,
+      "pass_accuracy_pct": 94.9,
+      "shots_total": 0,
+      "shots_on_target": 0,
+      "goals": 0,
+      "defenders_packed": 15,
+      "total_saves": 0,
+      "total_defensive_actions": 33
+    },
+    "moments_categories": {
+      "key_actions": [
+        {
+          "event_id": "evt_17_129678",
+          "period": 2,
+          "start_frame": 129618,
+          "end_frame": 129765,
+          "key_frame": 129678,
+          "time_str": "86:27",
+          "danger_value": 3,
+          "outcome": "PASS_KEY",
+          "title_ar": "أهم لقطات اللاعب [86:27]",
+          "title_en": "Key Player Highlight [86:27]",
+          "desc_ar": "تمريرة كاسرة لـ 3 مدافعين",
+          "desc_en": "Match highlight at minute 86:27."
+        },
+        {
+          "event_id": "evt_17_47627",
+          "period": 1,
+          "start_frame": 47567,
+          "end_frame": 47755,
+          "key_frame": 47627,
+          "time_str": "31:45",
+          "danger_value": 2,
+          "outcome": "PASS_KEY",
+          "title_ar": "أهم لقطات اللاعب [31:45]",
+          "title_en": "Key Player Highlight [31:45]",
+          "desc_ar": "تمريرة كاسرة لـ 2 مدافعين",
+          "desc_en": "Match highlight at minute 31:45."
+        },
+        {
+          "event_id": "evt_17_63333",
+          "period": 1,
+          "start_frame": 63273,
+          "end_frame": 63441,
+          "key_frame": 63333,
+          "time_str": "42:13",
+          "danger_value": 2,
+          "outcome": "PASS_KEY",
+          "title_ar": "أهم لقطات اللاعب [42:13]",
+          "title_en": "Key Player Highlight [42:13]",
+          "desc_ar": "تمريرة كاسرة لـ 2 مدافعين",
+          "desc_en": "Match highlight at minute 42:13."
+        }
+      ],
+      "best_positioning": [
+        {
+          "event_id": "evt_17_86703",
+          "period": 2,
+          "start_frame": 86643,
+          "end_frame": 86836,
+          "key_frame": 86703,
+          "time_str": "57:48",
+          "danger_value": 3,
+          "outcome": "PACKING_RECEIVE",
+          "title_ar": "أهم لقطات التمركز والاستلام [57:48]",
+          "title_en": "Key Space Reception [57:48]",
+          "desc_ar": "استلام تمريرة بين الخطوط",
+          "desc_en": "Reception between lines at minute 57:48."
+        },
+        {
+          "event_id": "evt_17_133892",
+          "period": 2,
+          "start_frame": 133832,
+          "end_frame": 134014,
+          "key_frame": 133892,
+          "time_str": "89:15",
+          "danger_value": 3,
+          "outcome": "PACKING_RECEIVE",
+          "title_ar": "أهم لقطات التمركز والاستلام [89:15]",
+          "title_en": "Key Space Reception [89:15]",
+          "desc_ar": "استلام تمريرة بين الخطوط",
+          "desc_en": "Reception between lines at minute 89:15."
+        },
+        {
+          "event_id": "evt_17_64793",
+          "period": 1,
+          "start_frame": 64733,
+          "end_frame": 64908,
+          "key_frame": 64793,
+          "time_str": "43:11",
+          "danger_value": 2,
+          "outcome": "PACKING_RECEIVE",
+          "title_ar": "أهم لقطات التمركز والاستلام [43:11]",
+          "title_en": "Key Space Reception [43:11]",
+          "desc_ar": "استلام تمريرة بين الخطوط",
+          "desc_en": "Reception between lines at minute 43:11."
+        }
+      ],
+      "defensive_lapses": [
+        {
+          "event_id": "evt_17_346",
+          "period": 1,
+          "start_frame": 286,
+          "end_frame": 440,
+          "key_frame": 346,
+          "time_str": "00:13",
+          "danger_value": 2,
+          "outcome": "SUCCESS",
+          "title_ar": "المواقف الدفاعية للاعب [00:13]",
+          "title_en": "Defensive Play [00:13]",
+          "desc_ar": "تدخل ناجح (INTERCEPTION)",
+          "desc_en": "Defensive involvement at minute 00:13."
+        },
+        {
+          "event_id": "evt_17_1110",
+          "period": 1,
+          "start_frame": 1050,
+          "end_frame": 1194,
+          "key_frame": 1110,
+          "time_str": "00:44",
+          "danger_value": 2,
+          "outcome": "SUCCESS",
+          "title_ar": "المواقف الدفاعية للاعب [00:44]",
+          "title_en": "Defensive Play [00:44]",
+          "desc_ar": "تدخل ناجح (INTERCEPTION)",
+          "desc_en": "Defensive involvement at minute 00:44."
+        },
+        {
+          "event_id": "evt_17_4679",
+          "period": 1,
+          "start_frame": 4619,
+          "end_frame": 4814,
+          "key_frame": 4679,
+          "time_str": "03:07",
+          "danger_value": 2,
+          "outcome": "SUCCESS",
+          "title_ar": "المواقف الدفاعية للاعب [03:07]",
+          "title_en": "Defensive Play [03:07]",
+          "desc_ar": "تدخل ناجح (INTERCEPTION)",
+          "desc_en": "Defensive involvement at minute 03:07."
+        }
+      ]
+    }
+  },
+  "Away_Player18": {
+    "player_id": "18",
+    "team": "Away",
+    "role": "Defender",
+    "profile_stats": {
+      "total_passes": 24,
+      "pass_accuracy_pct": 100.0,
+      "shots_total": 0,
+      "shots_on_target": 0,
+      "goals": 0,
+      "defenders_packed": 7,
+      "total_saves": 0,
+      "total_defensive_actions": 19
+    },
+    "moments_categories": {
+      "key_actions": [
+        {
+          "event_id": "evt_18_64793",
+          "period": 1,
+          "start_frame": 64733,
+          "end_frame": 64908,
+          "key_frame": 64793,
+          "time_str": "43:11",
+          "danger_value": 2,
+          "outcome": "PASS_KEY",
+          "title_ar": "أهم لقطات اللاعب [43:11]",
+          "title_en": "Key Player Highlight [43:11]",
+          "desc_ar": "تمريرة كاسرة لـ 2 مدافعين",
+          "desc_en": "Match highlight at minute 43:11."
+        },
+        {
+          "event_id": "evt_18_8868",
+          "period": 1,
+          "start_frame": 8808,
+          "end_frame": 8952,
+          "key_frame": 8868,
+          "time_str": "05:54",
+          "danger_value": 1,
+          "outcome": "PASS_KEY",
+          "title_ar": "أهم لقطات اللاعب [05:54]",
+          "title_en": "Key Player Highlight [05:54]",
+          "desc_ar": "تمريرة كاسرة لـ 1 مدافعين",
+          "desc_en": "Match highlight at minute 05:54."
+        },
+        {
+          "event_id": "evt_18_14890",
+          "period": 1,
+          "start_frame": 14830,
+          "end_frame": 14984,
+          "key_frame": 14890,
+          "time_str": "09:55",
+          "danger_value": 1,
+          "outcome": "PASS_KEY",
+          "title_ar": "أهم لقطات اللاعب [09:55]",
+          "title_en": "Key Player Highlight [09:55]",
+          "desc_ar": "تمريرة كاسرة لـ 1 مدافعين",
+          "desc_en": "Match highlight at minute 09:55."
+        }
+      ],
+      "best_positioning": [
+        {
+          "event_id": "evt_18_129678",
+          "period": 2,
+          "start_frame": 129618,
+          "end_frame": 129765,
+          "key_frame": 129678,
+          "time_str": "86:27",
+          "danger_value": 3,
+          "outcome": "PACKING_RECEIVE",
+          "title_ar": "أهم لقطات التمركز والاستلام [86:27]",
+          "title_en": "Key Space Reception [86:27]",
+          "desc_ar": "استلام تمريرة بين الخطوط",
+          "desc_en": "Reception between lines at minute 86:27."
+        },
+        {
+          "event_id": "evt_18_47627",
+          "period": 1,
+          "start_frame": 47567,
+          "end_frame": 47755,
+          "key_frame": 47627,
+          "time_str": "31:45",
+          "danger_value": 2,
+          "outcome": "PACKING_RECEIVE",
+          "title_ar": "أهم لقطات التمركز والاستلام [31:45]",
+          "title_en": "Key Space Reception [31:45]",
+          "desc_ar": "استلام تمريرة بين الخطوط",
+          "desc_en": "Reception between lines at minute 31:45."
+        },
+        {
+          "event_id": "evt_18_63333",
+          "period": 1,
+          "start_frame": 63273,
+          "end_frame": 63441,
+          "key_frame": 63333,
+          "time_str": "42:13",
+          "danger_value": 2,
+          "outcome": "PACKING_RECEIVE",
+          "title_ar": "أهم لقطات التمركز والاستلام [42:13]",
+          "title_en": "Key Space Reception [42:13]",
+          "desc_ar": "استلام تمريرة بين الخطوط",
+          "desc_en": "Reception between lines at minute 42:13."
+        }
+      ],
+      "defensive_lapses": [
+        {
+          "event_id": "evt_18_5549",
+          "period": 1,
+          "start_frame": 5489,
+          "end_frame": 5684,
+          "key_frame": 5549,
+          "time_str": "03:41",
+          "danger_value": 2,
+          "outcome": "SUCCESS",
+          "title_ar": "المواقف الدفاعية للاعب [03:41]",
+          "title_en": "Defensive Play [03:41]",
+          "desc_ar": "تدخل ناجح (INTERCEPTION)",
+          "desc_en": "Defensive involvement at minute 03:41."
+        },
+        {
+          "event_id": "evt_18_5628",
+          "period": 1,
+          "start_frame": 5568,
+          "end_frame": 5763,
+          "key_frame": 5628,
+          "time_str": "03:45",
+          "danger_value": 2,
+          "outcome": "SUCCESS",
+          "title_ar": "المواقف الدفاعية للاعب [03:45]",
+          "title_en": "Defensive Play [03:45]",
+          "desc_ar": "تدخل ناجح (TACKLE-LOST)",
+          "desc_en": "Defensive involvement at minute 03:45."
+        },
+        {
+          "event_id": "evt_18_7203",
+          "period": 1,
+          "start_frame": 7143,
+          "end_frame": 7338,
+          "key_frame": 7203,
+          "time_str": "04:48",
+          "danger_value": 2,
+          "outcome": "SUCCESS",
+          "title_ar": "المواقف الدفاعية للاعب [04:48]",
+          "title_en": "Defensive Play [04:48]",
+          "desc_ar": "تدخل ناجح (NAN)",
+          "desc_en": "Defensive involvement at minute 04:48."
+        }
+      ]
+    }
+  },
+  "Away_Player19": {
+    "player_id": "19",
+    "team": "Away",
+    "role": "Defender",
+    "profile_stats": {
+      "total_passes": 39,
+      "pass_accuracy_pct": 97.4,
+      "shots_total": 1,
+      "shots_on_target": 1,
+      "goals": 0,
+      "defenders_packed": 17,
+      "total_saves": 0,
+      "total_defensive_actions": 37
+    },
+    "moments_categories": {
+      "key_actions": [
+        {
+          "event_id": "evt_19_75262",
+          "period": 2,
+          "start_frame": 75187,
+          "end_frame": 75359,
+          "key_frame": 75262,
+          "time_str": "50:10",
+          "danger_value": 3,
+          "outcome": "ON_TARGET",
+          "title_ar": "أهم لقطات اللاعب [50:10]",
+          "title_en": "Key Player Highlight [50:10]",
+          "desc_ar": "تسديدة من اللاعب (ON_TARGET)",
+          "desc_en": "Match highlight at minute 50:10."
+        },
+        {
+          "event_id": "evt_19_24308",
+          "period": 1,
+          "start_frame": 24248,
+          "end_frame": 24443,
+          "key_frame": 24308,
+          "time_str": "16:12",
+          "danger_value": 2,
+          "outcome": "PASS_KEY",
+          "title_ar": "أهم لقطات اللاعب [16:12]",
+          "title_en": "Key Player Highlight [16:12]",
+          "desc_ar": "تمريرة كاسرة لـ 2 مدافعين",
+          "desc_en": "Match highlight at minute 16:12."
+        },
+        {
+          "event_id": "evt_19_54476",
+          "period": 1,
+          "start_frame": 54416,
+          "end_frame": 54566,
+          "key_frame": 54476,
+          "time_str": "36:19",
+          "danger_value": 2,
+          "outcome": "PASS_KEY",
+          "title_ar": "أهم لقطات اللاعب [36:19]",
+          "title_en": "Key Player Highlight [36:19]",
+          "desc_ar": "تمريرة كاسرة لـ 2 مدافعين",
+          "desc_en": "Match highlight at minute 36:19."
+        }
+      ],
+      "best_positioning": [
+        {
+          "event_id": "evt_19_48200",
+          "period": 1,
+          "start_frame": 48140,
+          "end_frame": 48299,
+          "key_frame": 48200,
+          "time_str": "32:08",
+          "danger_value": 2,
+          "outcome": "PACKING_RECEIVE",
+          "title_ar": "أهم لقطات التمركز والاستلام [32:08]",
+          "title_en": "Key Space Reception [32:08]",
+          "desc_ar": "استلام تمريرة بين الخطوط",
+          "desc_en": "Reception between lines at minute 32:08."
+        }
+      ],
+      "defensive_lapses": [
+        {
+          "event_id": "evt_19_4452",
+          "period": 1,
+          "start_frame": 4392,
+          "end_frame": 4587,
+          "key_frame": 4452,
+          "time_str": "02:58",
+          "danger_value": 2,
+          "outcome": "SUCCESS",
+          "title_ar": "المواقف الدفاعية للاعب [02:58]",
+          "title_en": "Defensive Play [02:58]",
+          "desc_ar": "تدخل ناجح (NAN)",
+          "desc_en": "Defensive involvement at minute 02:58."
+        },
+        {
+          "event_id": "evt_19_4489",
+          "period": 1,
+          "start_frame": 4429,
+          "end_frame": 4578,
+          "key_frame": 4489,
+          "time_str": "02:59",
+          "danger_value": 2,
+          "outcome": "SUCCESS",
+          "title_ar": "المواقف الدفاعية للاعب [02:59]",
+          "title_en": "Defensive Play [02:59]",
+          "desc_ar": "تدخل ناجح (INTERCEPTION)",
+          "desc_en": "Defensive involvement at minute 02:59."
+        },
+        {
+          "event_id": "evt_19_5081",
+          "period": 1,
+          "start_frame": 5021,
+          "end_frame": 5210,
+          "key_frame": 5081,
+          "time_str": "03:23",
+          "danger_value": 2,
+          "outcome": "SUCCESS",
+          "title_ar": "المواقف الدفاعية للاعب [03:23]",
+          "title_en": "Defensive Play [03:23]",
+          "desc_ar": "تدخل ناجح (INTERCEPTION)",
+          "desc_en": "Defensive involvement at minute 03:23."
+        }
+      ]
+    }
+  },
+  "Away_Player20": {
+    "player_id": "20",
+    "team": "Away",
+    "role": "Forward",
+    "profile_stats": {
+      "total_passes": 35,
+      "pass_accuracy_pct": 100.0,
+      "shots_total": 0,
+      "shots_on_target": 0,
+      "goals": 0,
+      "defenders_packed": 11,
+      "total_saves": 0,
+      "total_defensive_actions": 13
+    },
+    "moments_categories": {
+      "key_actions": [
+        {
+          "event_id": "evt_20_48200",
+          "period": 1,
+          "start_frame": 48140,
+          "end_frame": 48299,
+          "key_frame": 48200,
+          "time_str": "32:08",
+          "danger_value": 2,
+          "outcome": "PASS_KEY",
+          "title_ar": "أهم لقطات اللاعب [32:08]",
+          "title_en": "Key Player Highlight [32:08]",
+          "desc_ar": "تمريرة كاسرة لـ 2 مدافعين",
+          "desc_en": "Match highlight at minute 32:08."
+        },
+        {
+          "event_id": "evt_20_5431",
+          "period": 1,
+          "start_frame": 5371,
+          "end_frame": 5531,
+          "key_frame": 5431,
+          "time_str": "03:37",
+          "danger_value": 1,
+          "outcome": "PASS_KEY",
+          "title_ar": "أهم لقطات اللاعب [03:37]",
+          "title_en": "Key Player Highlight [03:37]",
+          "desc_ar": "تمريرة كاسرة لـ 1 مدافعين",
+          "desc_en": "Match highlight at minute 03:37."
+        },
+        {
+          "event_id": "evt_20_6905",
+          "period": 1,
+          "start_frame": 6845,
+          "end_frame": 7006,
+          "key_frame": 6905,
+          "time_str": "04:36",
+          "danger_value": 1,
+          "outcome": "PASS_KEY",
+          "title_ar": "أهم لقطات اللاعب [04:36]",
+          "title_en": "Key Player Highlight [04:36]",
+          "desc_ar": "تمريرة كاسرة لـ 1 مدافعين",
+          "desc_en": "Match highlight at minute 04:36."
+        }
+      ],
+      "best_positioning": [
+        {
+          "event_id": "evt_20_21362",
+          "period": 1,
+          "start_frame": 21302,
+          "end_frame": 21446,
+          "key_frame": 21362,
+          "time_str": "14:14",
+          "danger_value": 2,
+          "outcome": "PACKING_RECEIVE",
+          "title_ar": "أهم لقطات التمركز والاستلام [14:14]",
+          "title_en": "Key Space Reception [14:14]",
+          "desc_ar": "استلام تمريرة بين الخطوط",
+          "desc_en": "Reception between lines at minute 14:14."
+        }
+      ],
+      "defensive_lapses": [
+        {
+          "event_id": "evt_20_19616",
+          "period": 1,
+          "start_frame": 19556,
+          "end_frame": 19751,
+          "key_frame": 19616,
+          "time_str": "13:04",
+          "danger_value": 2,
+          "outcome": "SUCCESS",
+          "title_ar": "المواقف الدفاعية للاعب [13:04]",
+          "title_en": "Defensive Play [13:04]",
+          "desc_ar": "تدخل ناجح (INTERCEPTION)",
+          "desc_en": "Defensive involvement at minute 13:04."
+        },
+        {
+          "event_id": "evt_20_33846",
+          "period": 1,
+          "start_frame": 33786,
+          "end_frame": 33981,
+          "key_frame": 33846,
+          "time_str": "22:33",
+          "danger_value": 2,
+          "outcome": "SUCCESS",
+          "title_ar": "المواقف الدفاعية للاعب [22:33]",
+          "title_en": "Defensive Play [22:33]",
+          "desc_ar": "تدخل ناجح (NAN)",
+          "desc_en": "Defensive involvement at minute 22:33."
+        },
+        {
+          "event_id": "evt_20_37382",
+          "period": 1,
+          "start_frame": 37322,
+          "end_frame": 37517,
+          "key_frame": 37382,
+          "time_str": "24:55",
+          "danger_value": 2,
+          "outcome": "SUCCESS",
+          "title_ar": "المواقف الدفاعية للاعب [24:55]",
+          "title_en": "Defensive Play [24:55]",
+          "desc_ar": "تدخل ناجح (INTERCEPTION)",
+          "desc_en": "Defensive involvement at minute 24:55."
+        }
+      ]
+    }
+  },
+  "Away_Player21": {
+    "player_id": "21",
+    "team": "Away",
+    "role": "Forward",
+    "profile_stats": {
+      "total_passes": 66,
+      "pass_accuracy_pct": 98.5,
+      "shots_total": 1,
+      "shots_on_target": 0,
+      "goals": 0,
+      "defenders_packed": 29,
+      "total_saves": 0,
+      "total_defensive_actions": 23
+    },
+    "moments_categories": {
+      "key_actions": [
+        {
+          "event_id": "evt_21_86703",
+          "period": 2,
+          "start_frame": 86643,
+          "end_frame": 86836,
+          "key_frame": 86703,
+          "time_str": "57:48",
+          "danger_value": 3,
+          "outcome": "PASS_KEY",
+          "title_ar": "أهم لقطات اللاعب [57:48]",
+          "title_en": "Key Player Highlight [57:48]",
+          "desc_ar": "تمريرة كاسرة لـ 3 مدافعين",
+          "desc_en": "Match highlight at minute 57:48."
+        },
+        {
+          "event_id": "evt_21_129973",
+          "period": 2,
+          "start_frame": 129913,
+          "end_frame": 130103,
+          "key_frame": 129973,
+          "time_str": "86:38",
+          "danger_value": 3,
+          "outcome": "PASS_KEY",
+          "title_ar": "أهم لقطات اللاعب [86:38]",
+          "title_en": "Key Player Highlight [86:38]",
+          "desc_ar": "تمريرة كاسرة لـ 3 مدافعين",
+          "desc_en": "Match highlight at minute 86:38."
+        },
+        {
+          "event_id": "evt_21_133892",
+          "period": 2,
+          "start_frame": 133832,
+          "end_frame": 134014,
+          "key_frame": 133892,
+          "time_str": "89:15",
+          "danger_value": 3,
+          "outcome": "PASS_KEY",
+          "title_ar": "أهم لقطات اللاعب [89:15]",
+          "title_en": "Key Player Highlight [89:15]",
+          "desc_ar": "تمريرة كاسرة لـ 3 مدافعين",
+          "desc_en": "Match highlight at minute 89:15."
+        }
+      ],
+      "best_positioning": [
+        {
+          "event_id": "evt_21_28339",
+          "period": 1,
+          "start_frame": 28279,
+          "end_frame": 28467,
+          "key_frame": 28339,
+          "time_str": "18:53",
+          "danger_value": 2,
+          "outcome": "PACKING_RECEIVE",
+          "title_ar": "أهم لقطات التمركز والاستلام [18:53]",
+          "title_en": "Key Space Reception [18:53]",
+          "desc_ar": "استلام تمريرة بين الخطوط",
+          "desc_en": "Reception between lines at minute 18:53."
+        },
+        {
+          "event_id": "evt_21_38234",
+          "period": 1,
+          "start_frame": 38174,
+          "end_frame": 38335,
+          "key_frame": 38234,
+          "time_str": "25:29",
+          "danger_value": 2,
+          "outcome": "PACKING_RECEIVE",
+          "title_ar": "أهم لقطات التمركز والاستلام [25:29]",
+          "title_en": "Key Space Reception [25:29]",
+          "desc_ar": "استلام تمريرة بين الخطوط",
+          "desc_en": "Reception between lines at minute 25:29."
+        },
+        {
+          "event_id": "evt_21_43469",
+          "period": 1,
+          "start_frame": 43409,
+          "end_frame": 43545,
+          "key_frame": 43469,
+          "time_str": "28:58",
+          "danger_value": 2,
+          "outcome": "PACKING_RECEIVE",
+          "title_ar": "أهم لقطات التمركز والاستلام [28:58]",
+          "title_en": "Key Space Reception [28:58]",
+          "desc_ar": "استلام تمريرة بين الخطوط",
+          "desc_en": "Reception between lines at minute 28:58."
+        }
+      ],
+      "defensive_lapses": [
+        {
+          "event_id": "evt_21_6863",
+          "period": 1,
+          "start_frame": 6803,
+          "end_frame": 6998,
+          "key_frame": 6863,
+          "time_str": "04:34",
+          "danger_value": 2,
+          "outcome": "SUCCESS",
+          "title_ar": "المواقف الدفاعية للاعب [04:34]",
+          "title_en": "Defensive Play [04:34]",
+          "desc_ar": "تدخل ناجح (INTERCEPTION)",
+          "desc_en": "Defensive involvement at minute 04:34."
+        },
+        {
+          "event_id": "evt_21_7724",
+          "period": 1,
+          "start_frame": 7664,
+          "end_frame": 7859,
+          "key_frame": 7724,
+          "time_str": "05:08",
+          "danger_value": 2,
+          "outcome": "SUCCESS",
+          "title_ar": "المواقف الدفاعية للاعب [05:08]",
+          "title_en": "Defensive Play [05:08]",
+          "desc_ar": "تدخل ناجح (NAN)",
+          "desc_en": "Defensive involvement at minute 05:08."
+        },
+        {
+          "event_id": "evt_21_12636",
+          "period": 1,
+          "start_frame": 12576,
+          "end_frame": 12762,
+          "key_frame": 12636,
+          "time_str": "08:25",
+          "danger_value": 2,
+          "outcome": "SUCCESS",
+          "title_ar": "المواقف الدفاعية للاعب [08:25]",
+          "title_en": "Defensive Play [08:25]",
+          "desc_ar": "تدخل ناجح (NAN)",
+          "desc_en": "Defensive involvement at minute 08:25."
+        }
+      ]
+    }
+  },
+  "Away_Player22": {
+    "player_id": "22",
+    "team": "Away",
+    "role": "Defender",
+    "profile_stats": {
+      "total_passes": 32,
+      "pass_accuracy_pct": 100.0,
+      "shots_total": 0,
+      "shots_on_target": 0,
+      "goals": 0,
+      "defenders_packed": 6,
+      "total_saves": 0,
+      "total_defensive_actions": 23
+    },
+    "moments_categories": {
+      "key_actions": [
+        {
+          "event_id": "evt_22_43469",
+          "period": 1,
+          "start_frame": 43409,
+          "end_frame": 43545,
+          "key_frame": 43469,
+          "time_str": "28:58",
+          "danger_value": 2,
+          "outcome": "PASS_KEY",
+          "title_ar": "أهم لقطات اللاعب [28:58]",
+          "title_en": "Key Player Highlight [28:58]",
+          "desc_ar": "تمريرة كاسرة لـ 2 مدافعين",
+          "desc_en": "Match highlight at minute 28:58."
+        },
+        {
+          "event_id": "evt_22_34515",
+          "period": 1,
+          "start_frame": 34455,
+          "end_frame": 34650,
+          "key_frame": 34515,
+          "time_str": "23:00",
+          "danger_value": 1,
+          "outcome": "PASS_KEY",
+          "title_ar": "أهم لقطات اللاعب [23:00]",
+          "title_en": "Key Player Highlight [23:00]",
+          "desc_ar": "تمريرة كاسرة لـ 1 مدافعين",
+          "desc_en": "Match highlight at minute 23:00."
+        },
+        {
+          "event_id": "evt_22_66901",
+          "period": 1,
+          "start_frame": 66841,
+          "end_frame": 66998,
+          "key_frame": 66901,
+          "time_str": "44:36",
+          "danger_value": 1,
+          "outcome": "PASS_KEY",
+          "title_ar": "أهم لقطات اللاعب [44:36]",
+          "title_en": "Key Player Highlight [44:36]",
+          "desc_ar": "تمريرة كاسرة لـ 1 مدافعين",
+          "desc_en": "Match highlight at minute 44:36."
+        }
+      ],
+      "best_positioning": [
+        {
+          "event_id": "evt_22_34397",
+          "period": 1,
+          "start_frame": 34337,
+          "end_frame": 34526,
+          "key_frame": 34397,
+          "time_str": "22:55",
+          "danger_value": 2,
+          "outcome": "PACKING_RECEIVE",
+          "title_ar": "أهم لقطات التمركز والاستلام [22:55]",
+          "title_en": "Key Space Reception [22:55]",
+          "desc_ar": "استلام تمريرة بين الخطوط",
+          "desc_en": "Reception between lines at minute 22:55."
+        }
+      ],
+      "defensive_lapses": [
+        {
+          "event_id": "evt_22_6987",
+          "period": 1,
+          "start_frame": 6927,
+          "end_frame": 7103,
+          "key_frame": 6987,
+          "time_str": "04:39",
+          "danger_value": 2,
+          "outcome": "SUCCESS",
+          "title_ar": "المواقف الدفاعية للاعب [04:39]",
+          "title_en": "Defensive Play [04:39]",
+          "desc_ar": "تدخل ناجح (CROSS-INTERCEPTION)",
+          "desc_en": "Defensive involvement at minute 04:39."
+        },
+        {
+          "event_id": "evt_22_15300",
+          "period": 1,
+          "start_frame": 15240,
+          "end_frame": 15435,
+          "key_frame": 15300,
+          "time_str": "10:12",
+          "danger_value": 2,
+          "outcome": "SUCCESS",
+          "title_ar": "المواقف الدفاعية للاعب [10:12]",
+          "title_en": "Defensive Play [10:12]",
+          "desc_ar": "تدخل ناجح (INTERCEPTION)",
+          "desc_en": "Defensive involvement at minute 10:12."
+        },
+        {
+          "event_id": "evt_22_21886",
+          "period": 1,
+          "start_frame": 21826,
+          "end_frame": 22043,
+          "key_frame": 21886,
+          "time_str": "14:35",
+          "danger_value": 2,
+          "outcome": "SUCCESS",
+          "title_ar": "المواقف الدفاعية للاعب [14:35]",
+          "title_en": "Defensive Play [14:35]",
+          "desc_ar": "تدخل ناجح (NAN)",
+          "desc_en": "Defensive involvement at minute 14:35."
+        }
+      ]
+    }
+  },
+  "Away_Player23": {
+    "player_id": "23",
+    "team": "Away",
+    "role": "Midfielder",
+    "profile_stats": {
+      "total_passes": 13,
+      "pass_accuracy_pct": 100.0,
+      "shots_total": 1,
+      "shots_on_target": 0,
+      "goals": 0,
+      "defenders_packed": 4,
+      "total_saves": 0,
+      "total_defensive_actions": 10
+    },
+    "moments_categories": {
+      "key_actions": [
+        {
+          "event_id": "evt_23_19412",
+          "period": 1,
+          "start_frame": 19352,
+          "end_frame": 19530,
+          "key_frame": 19412,
+          "time_str": "12:56",
+          "danger_value": 1,
+          "outcome": "PASS_KEY",
+          "title_ar": "أهم لقطات اللاعب [12:56]",
+          "title_en": "Key Player Highlight [12:56]",
+          "desc_ar": "تمريرة كاسرة لـ 1 مدافعين",
+          "desc_en": "Match highlight at minute 12:56."
+        },
+        {
+          "event_id": "evt_23_24393",
+          "period": 1,
+          "start_frame": 24333,
+          "end_frame": 24493,
+          "key_frame": 24393,
+          "time_str": "16:15",
+          "danger_value": 1,
+          "outcome": "PASS_KEY",
+          "title_ar": "أهم لقطات اللاعب [16:15]",
+          "title_en": "Key Player Highlight [16:15]",
+          "desc_ar": "تمريرة كاسرة لـ 1 مدافعين",
+          "desc_en": "Match highlight at minute 16:15."
+        },
+        {
+          "event_id": "evt_23_72465",
+          "period": 2,
+          "start_frame": 72405,
+          "end_frame": 72543,
+          "key_frame": 72465,
+          "time_str": "48:18",
+          "danger_value": 1,
+          "outcome": "PASS_KEY",
+          "title_ar": "أهم لقطات اللاعب [48:18]",
+          "title_en": "Key Player Highlight [48:18]",
+          "desc_ar": "تمريرة كاسرة لـ 1 مدافعين",
+          "desc_en": "Match highlight at minute 48:18."
+        }
+      ],
+      "best_positioning": [
+        {
+          "event_id": "evt_23_7404",
+          "period": 1,
+          "start_frame": 7344,
+          "end_frame": 7487,
+          "key_frame": 7404,
+          "time_str": "04:56",
+          "danger_value": 2,
+          "outcome": "PACKING_RECEIVE",
+          "title_ar": "أهم لقطات التمركز والاستلام [04:56]",
+          "title_en": "Key Space Reception [04:56]",
+          "desc_ar": "استلام تمريرة بين الخطوط",
+          "desc_en": "Reception between lines at minute 04:56."
+        },
+        {
+          "event_id": "evt_23_24308",
+          "period": 1,
+          "start_frame": 24248,
+          "end_frame": 24443,
+          "key_frame": 24308,
+          "time_str": "16:12",
+          "danger_value": 2,
+          "outcome": "PACKING_RECEIVE",
+          "title_ar": "أهم لقطات التمركز والاستلام [16:12]",
+          "title_en": "Key Space Reception [16:12]",
+          "desc_ar": "استلام تمريرة بين الخطوط",
+          "desc_en": "Reception between lines at minute 16:12."
+        },
+        {
+          "event_id": "evt_23_54476",
+          "period": 1,
+          "start_frame": 54416,
+          "end_frame": 54566,
+          "key_frame": 54476,
+          "time_str": "36:19",
+          "danger_value": 2,
+          "outcome": "PACKING_RECEIVE",
+          "title_ar": "أهم لقطات التمركز والاستلام [36:19]",
+          "title_en": "Key Space Reception [36:19]",
+          "desc_ar": "استلام تمريرة بين الخطوط",
+          "desc_en": "Reception between lines at minute 36:19."
+        }
+      ],
+      "defensive_lapses": [
+        {
+          "event_id": "evt_23_24556",
+          "period": 1,
+          "start_frame": 24496,
+          "end_frame": 24691,
+          "key_frame": 24556,
+          "time_str": "16:22",
+          "danger_value": 2,
+          "outcome": "SUCCESS",
+          "title_ar": "المواقف الدفاعية للاعب [16:22]",
+          "title_en": "Defensive Play [16:22]",
+          "desc_ar": "تدخل ناجح (NAN)",
+          "desc_en": "Defensive involvement at minute 16:22."
+        },
+        {
+          "event_id": "evt_23_54603",
+          "period": 1,
+          "start_frame": 54543,
+          "end_frame": 54738,
+          "key_frame": 54603,
+          "time_str": "36:24",
+          "danger_value": 2,
+          "outcome": "SUCCESS",
+          "title_ar": "المواقف الدفاعية للاعب [36:24]",
+          "title_en": "Defensive Play [36:24]",
+          "desc_ar": "تدخل ناجح (TACKLE-LOST)",
+          "desc_en": "Defensive involvement at minute 36:24."
+        },
+        {
+          "event_id": "evt_23_72415",
+          "period": 2,
+          "start_frame": 72355,
+          "end_frame": 72485,
+          "key_frame": 72415,
+          "time_str": "48:16",
+          "danger_value": 2,
+          "outcome": "SUCCESS",
+          "title_ar": "المواقف الدفاعية للاعب [48:16]",
+          "title_en": "Defensive Play [48:16]",
+          "desc_ar": "تدخل ناجح (INTERCEPTION)",
+          "desc_en": "Defensive involvement at minute 48:16."
+        }
+      ]
+    }
+  },
+  "Away_Player24": {
+    "player_id": "24",
+    "team": "Away",
+    "role": "Forward",
+    "profile_stats": {
+      "total_passes": 5,
+      "pass_accuracy_pct": 100.0,
+      "shots_total": 1,
+      "shots_on_target": 1,
+      "goals": 0,
+      "defenders_packed": 0,
+      "total_saves": 0,
+      "total_defensive_actions": 2
+    },
+    "moments_categories": {
+      "key_actions": [
+        {
+          "event_id": "evt_24_19470",
+          "period": 1,
+          "start_frame": 19395,
+          "end_frame": 19558,
+          "key_frame": 19470,
+          "time_str": "12:58",
+          "danger_value": 3,
+          "outcome": "ON_TARGET",
+          "title_ar": "أهم لقطات اللاعب [12:58]",
+          "title_en": "Key Player Highlight [12:58]",
+          "desc_ar": "تسديدة من اللاعب (ON_TARGET)",
+          "desc_en": "Match highlight at minute 12:58."
+        }
+      ],
+      "best_positioning": [
+        {
+          "event_id": "evt_24_75101",
+          "period": 2,
+          "start_frame": 75041,
+          "end_frame": 75236,
+          "key_frame": 75101,
+          "time_str": "50:04",
+          "danger_value": 2,
+          "outcome": "PACKING_RECEIVE",
+          "title_ar": "أهم لقطات التمركز والاستلام [50:04]",
+          "title_en": "Key Space Reception [50:04]",
+          "desc_ar": "استلام تمريرة بين الخطوط",
+          "desc_en": "Reception between lines at minute 50:04."
+        }
+      ],
+      "defensive_lapses": [
+        {
+          "event_id": "evt_24_78319",
+          "period": 2,
+          "start_frame": 78259,
+          "end_frame": 78454,
+          "key_frame": 78319,
+          "time_str": "52:12",
+          "danger_value": 2,
+          "outcome": "SUCCESS",
+          "title_ar": "المواقف الدفاعية للاعب [52:12]",
+          "title_en": "Defensive Play [52:12]",
+          "desc_ar": "تدخل ناجح (TACKLE-FAULT-WON)",
+          "desc_en": "Defensive involvement at minute 52:12."
+        },
+        {
+          "event_id": "evt_24_92839",
+          "period": 2,
+          "start_frame": 92779,
+          "end_frame": 92974,
+          "key_frame": 92839,
+          "time_str": "61:53",
+          "danger_value": 2,
+          "outcome": "SUCCESS",
+          "title_ar": "المواقف الدفاعية للاعب [61:53]",
+          "title_en": "Defensive Play [61:53]",
+          "desc_ar": "تدخل ناجح (TACKLE-FAULT-LOST)",
+          "desc_en": "Defensive involvement at minute 61:53."
+        }
+      ]
+    }
+  },
+  "Away_Player25": {
+    "player_id": "25",
+    "team": "Away",
+    "role": "Goalkeeper",
+    "profile_stats": {
+      "total_passes": 19,
+      "pass_accuracy_pct": 100.0,
+      "shots_total": 0,
+      "shots_on_target": 0,
+      "goals": 0,
+      "defenders_packed": 10,
+      "total_saves": 4,
+      "total_defensive_actions": 0
+    },
+    "moments_categories": {
+      "key_actions": [
+        {
+          "event_id": "evt_25_9628",
+          "period": 1,
+          "start_frame": 9553,
+          "end_frame": 9707,
+          "key_frame": 9628,
+          "time_str": "06:25",
+          "danger_value": 4,
+          "outcome": "SAVED",
+          "title_ar": "أهم لقطات اللاعب [06:25]",
+          "title_en": "Key Player Highlight [06:25]",
+          "desc_ar": "تصدٍّ لمرمى Away",
+          "desc_en": "Match highlight at minute 06:25."
+        },
+        {
+          "event_id": "evt_25_53695",
+          "period": 1,
+          "start_frame": 53620,
+          "end_frame": 53782,
+          "key_frame": 53695,
+          "time_str": "35:47",
+          "danger_value": 4,
+          "outcome": "SAVED",
+          "title_ar": "أهم لقطات اللاعب [35:47]",
+          "title_en": "Key Player Highlight [35:47]",
+          "desc_ar": "تصدٍّ لمرمى Away",
+          "desc_en": "Match highlight at minute 35:47."
+        },
+        {
+          "event_id": "evt_25_67502",
+          "period": 1,
+          "start_frame": 67427,
+          "end_frame": 67588,
+          "key_frame": 67502,
+          "time_str": "45:00",
+          "danger_value": 4,
+          "outcome": "SAVED",
+          "title_ar": "أهم لقطات اللاعب [45:00]",
+          "title_en": "Key Player Highlight [45:00]",
+          "desc_ar": "تصدٍّ لمرمى Away",
+          "desc_en": "Match highlight at minute 45:00."
+        }
+      ],
+      "best_positioning": [],
+      "defensive_lapses": []
+    }
+  },
+  "Away_Player26": {
+    "player_id": "26",
+    "team": "Away",
+    "role": "Defender",
+    "profile_stats": {
+      "total_passes": 1,
+      "pass_accuracy_pct": 100.0,
+      "shots_total": 0,
+      "shots_on_target": 0,
+      "goals": 0,
+      "defenders_packed": 1,
+      "total_saves": 0,
+      "total_defensive_actions": 7
+    },
+    "moments_categories": {
+      "key_actions": [
+        {
+          "event_id": "evt_26_127812",
+          "period": 2,
+          "start_frame": 127752,
+          "end_frame": 127893,
+          "key_frame": 127812,
+          "time_str": "85:12",
+          "danger_value": 1,
+          "outcome": "PASS_KEY",
+          "title_ar": "أهم لقطات اللاعب [85:12]",
+          "title_en": "Key Player Highlight [85:12]",
+          "desc_ar": "تمريرة كاسرة لـ 1 مدافعين",
+          "desc_en": "Match highlight at minute 85:12."
+        }
+      ],
+      "best_positioning": [
+        {
+          "event_id": "evt_26_139898",
+          "period": 2,
+          "start_frame": 139838,
+          "end_frame": 140003,
+          "key_frame": 139898,
+          "time_str": "93:15",
+          "danger_value": 2,
+          "outcome": "PACKING_RECEIVE",
+          "title_ar": "أهم لقطات التمركز والاستلام [93:15]",
+          "title_en": "Key Space Reception [93:15]",
+          "desc_ar": "استلام تمريرة بين الخطوط",
+          "desc_en": "Reception between lines at minute 93:15."
+        }
+      ],
+      "defensive_lapses": [
+        {
+          "event_id": "evt_26_114107",
+          "period": 2,
+          "start_frame": 114047,
+          "end_frame": 114179,
+          "key_frame": 114107,
+          "time_str": "76:04",
+          "danger_value": 2,
+          "outcome": "SUCCESS",
+          "title_ar": "المواقف الدفاعية للاعب [76:04]",
+          "title_en": "Defensive Play [76:04]",
+          "desc_ar": "تدخل ناجح (INTERCEPTION)",
+          "desc_en": "Defensive involvement at minute 76:04."
+        },
+        {
+          "event_id": "evt_26_116614",
+          "period": 2,
+          "start_frame": 116554,
+          "end_frame": 116749,
+          "key_frame": 116614,
+          "time_str": "77:44",
+          "danger_value": 2,
+          "outcome": "SUCCESS",
+          "title_ar": "المواقف الدفاعية للاعب [77:44]",
+          "title_en": "Defensive Play [77:44]",
+          "desc_ar": "تدخل ناجح (TACKLE-LOST)",
+          "desc_en": "Defensive involvement at minute 77:44."
+        },
+        {
+          "event_id": "evt_26_118532",
+          "period": 2,
+          "start_frame": 118472,
+          "end_frame": 118667,
+          "key_frame": 118532,
+          "time_str": "79:01",
+          "danger_value": 2,
+          "outcome": "SUCCESS",
+          "title_ar": "المواقف الدفاعية للاعب [79:01]",
+          "title_en": "Defensive Play [79:01]",
+          "desc_ar": "تدخل ناجح (TACKLE-WON)",
+          "desc_en": "Defensive involvement at minute 79:01."
+        }
+      ]
+    }
+  },
+  "Away_Player27": {
+    "player_id": "27",
+    "team": "Away",
+    "role": "Midfielder",
+    "profile_stats": {
+      "total_passes": 12,
+      "pass_accuracy_pct": 100.0,
+      "shots_total": 1,
+      "shots_on_target": 1,
+      "goals": 0,
+      "defenders_packed": 0,
+      "total_saves": 0,
+      "total_defensive_actions": 8
+    },
+    "moments_categories": {
+      "key_actions": [
+        {
+          "event_id": "evt_27_108611",
+          "period": 2,
+          "start_frame": 108536,
+          "end_frame": 108703,
+          "key_frame": 108611,
+          "time_str": "72:24",
+          "danger_value": 3,
+          "outcome": "ON_TARGET",
+          "title_ar": "أهم لقطات اللاعب [72:24]",
+          "title_en": "Key Player Highlight [72:24]",
+          "desc_ar": "تسديدة من اللاعب (ON_TARGET)",
+          "desc_en": "Match highlight at minute 72:24."
+        }
+      ],
+      "best_positioning": [
+        {
+          "event_id": "evt_27_129973",
+          "period": 2,
+          "start_frame": 129913,
+          "end_frame": 130103,
+          "key_frame": 129973,
+          "time_str": "86:38",
+          "danger_value": 3,
+          "outcome": "PACKING_RECEIVE",
+          "title_ar": "أهم لقطات التمركز والاستلام [86:38]",
+          "title_en": "Key Space Reception [86:38]",
+          "desc_ar": "استلام تمريرة بين الخطوط",
+          "desc_en": "Reception between lines at minute 86:38."
+        },
+        {
+          "event_id": "evt_27_133625",
+          "period": 2,
+          "start_frame": 133565,
+          "end_frame": 133738,
+          "key_frame": 133625,
+          "time_str": "89:05",
+          "danger_value": 2,
+          "outcome": "PACKING_RECEIVE",
+          "title_ar": "أهم لقطات التمركز والاستلام [89:05]",
+          "title_en": "Key Space Reception [89:05]",
+          "desc_ar": "استلام تمريرة بين الخطوط",
+          "desc_en": "Reception between lines at minute 89:05."
+        }
+      ],
+      "defensive_lapses": [
+        {
+          "event_id": "evt_27_107849",
+          "period": 2,
+          "start_frame": 107789,
+          "end_frame": 107984,
+          "key_frame": 107849,
+          "time_str": "71:53",
+          "danger_value": 2,
+          "outcome": "SUCCESS",
+          "title_ar": "المواقف الدفاعية للاعب [71:53]",
+          "title_en": "Defensive Play [71:53]",
+          "desc_ar": "تدخل ناجح (INTERCEPTION)",
+          "desc_en": "Defensive involvement at minute 71:53."
+        },
+        {
+          "event_id": "evt_27_107890",
+          "period": 2,
+          "start_frame": 107830,
+          "end_frame": 107977,
+          "key_frame": 107890,
+          "time_str": "71:55",
+          "danger_value": 2,
+          "outcome": "SUCCESS",
+          "title_ar": "المواقف الدفاعية للاعب [71:55]",
+          "title_en": "Defensive Play [71:55]",
+          "desc_ar": "تدخل ناجح (INTERCEPTION)",
+          "desc_en": "Defensive involvement at minute 71:55."
+        },
+        {
+          "event_id": "evt_27_114770",
+          "period": 2,
+          "start_frame": 114710,
+          "end_frame": 114905,
+          "key_frame": 114770,
+          "time_str": "76:30",
+          "danger_value": 2,
+          "outcome": "SUCCESS",
+          "title_ar": "المواقف الدفاعية للاعب [76:30]",
+          "title_en": "Defensive Play [76:30]",
+          "desc_ar": "تدخل ناجح (INTERCEPTION)",
+          "desc_en": "Defensive involvement at minute 76:30."
+        }
+      ]
+    }
+  },
+  "Away_Player28": {
+    "player_id": "28",
+    "team": "Away",
+    "role": "Midfielder",
+    "profile_stats": {
+      "total_passes": 6,
+      "pass_accuracy_pct": 100.0,
+      "shots_total": 1,
+      "shots_on_target": 0,
+      "goals": 0,
+      "defenders_packed": 4,
+      "total_saves": 0,
+      "total_defensive_actions": 6
+    },
+    "moments_categories": {
+      "key_actions": [
+        {
+          "event_id": "evt_28_133625",
+          "period": 2,
+          "start_frame": 133565,
+          "end_frame": 133738,
+          "key_frame": 133625,
+          "time_str": "89:05",
+          "danger_value": 2,
+          "outcome": "PASS_KEY",
+          "title_ar": "أهم لقطات اللاعب [89:05]",
+          "title_en": "Key Player Highlight [89:05]",
+          "desc_ar": "تمريرة كاسرة لـ 2 مدافعين",
+          "desc_en": "Match highlight at minute 89:05."
+        },
+        {
+          "event_id": "evt_28_124536",
+          "period": 2,
+          "start_frame": 124476,
+          "end_frame": 124674,
+          "key_frame": 124536,
+          "time_str": "83:01",
+          "danger_value": 1,
+          "outcome": "PASS_KEY",
+          "title_ar": "أهم لقطات اللاعب [83:01]",
+          "title_en": "Key Player Highlight [83:01]",
+          "desc_ar": "تمريرة كاسرة لـ 1 مدافعين",
+          "desc_en": "Match highlight at minute 83:01."
+        },
+        {
+          "event_id": "evt_28_134041",
+          "period": 2,
+          "start_frame": 133966,
+          "end_frame": 134151,
+          "key_frame": 134041,
+          "time_str": "89:21",
+          "danger_value": 1,
+          "outcome": "OFF_TARGET",
+          "title_ar": "أهم لقطات اللاعب [89:21]",
+          "title_en": "Key Player Highlight [89:21]",
+          "desc_ar": "تسديدة من اللاعب (OFF_TARGET)",
+          "desc_en": "Match highlight at minute 89:21."
+        }
+      ],
+      "best_positioning": [
+        {
+          "event_id": "evt_28_132732",
+          "period": 2,
+          "start_frame": 132672,
+          "end_frame": 132835,
+          "key_frame": 132732,
+          "time_str": "88:29",
+          "danger_value": 2,
+          "outcome": "PACKING_RECEIVE",
+          "title_ar": "أهم لقطات التمركز والاستلام [88:29]",
+          "title_en": "Key Space Reception [88:29]",
+          "desc_ar": "استلام تمريرة بين الخطوط",
+          "desc_en": "Reception between lines at minute 88:29."
+        }
+      ],
+      "defensive_lapses": [
+        {
+          "event_id": "evt_28_129764",
+          "period": 2,
+          "start_frame": 129704,
+          "end_frame": 129846,
+          "key_frame": 129764,
+          "time_str": "86:30",
+          "danger_value": 2,
+          "outcome": "SUCCESS",
+          "title_ar": "المواقف الدفاعية للاعب [86:30]",
+          "title_en": "Defensive Play [86:30]",
+          "desc_ar": "تدخل ناجح (INTERCEPTION)",
+          "desc_en": "Defensive involvement at minute 86:30."
+        },
+        {
+          "event_id": "evt_28_132875",
+          "period": 2,
+          "start_frame": 132815,
+          "end_frame": 133010,
+          "key_frame": 132875,
+          "time_str": "88:35",
+          "danger_value": 2,
+          "outcome": "SUCCESS",
+          "title_ar": "المواقف الدفاعية للاعب [88:35]",
+          "title_en": "Defensive Play [88:35]",
+          "desc_ar": "تدخل ناجح (TACKLE-FAULT-WON)",
+          "desc_en": "Defensive involvement at minute 88:35."
+        },
+        {
+          "event_id": "evt_28_135531",
+          "period": 2,
+          "start_frame": 135471,
+          "end_frame": 135621,
+          "key_frame": 135531,
+          "time_str": "90:21",
+          "danger_value": 2,
+          "outcome": "SUCCESS",
+          "title_ar": "المواقف الدفاعية للاعب [90:21]",
+          "title_en": "Defensive Play [90:21]",
+          "desc_ar": "تدخل ناجح (INTERCEPTION)",
+          "desc_en": "Defensive involvement at minute 90:21."
+        }
+      ]
+    }
+  },
+  "Home_Player1": {
+    "player_id": "1",
+    "team": "Home",
+    "role": "Defender",
+    "profile_stats": {
+      "total_passes": 8,
+      "pass_accuracy_pct": 87.5,
+      "shots_total": 0,
+      "shots_on_target": 0,
+      "goals": 0,
+      "defenders_packed": 3,
+      "total_saves": 0,
+      "total_defensive_actions": 14
+    },
+    "moments_categories": {
+      "key_actions": [
+        {
+          "event_id": "evt_1_5627",
+          "period": 1,
+          "start_frame": 5567,
+          "end_frame": 5723,
+          "key_frame": 5627,
+          "time_str": "03:45",
+          "danger_value": 1,
+          "outcome": "PASS_KEY",
+          "title_ar": "أهم لقطات اللاعب [03:45]",
+          "title_en": "Key Player Highlight [03:45]",
+          "desc_ar": "تمريرة كاسرة لـ 1 مدافعين",
+          "desc_en": "Match highlight at minute 03:45."
+        },
+        {
+          "event_id": "evt_1_15298",
+          "period": 1,
+          "start_frame": 15238,
+          "end_frame": 15396,
+          "key_frame": 15298,
+          "time_str": "10:11",
+          "danger_value": 1,
+          "outcome": "PASS_KEY",
+          "title_ar": "أهم لقطات اللاعب [10:11]",
+          "title_en": "Key Player Highlight [10:11]",
+          "desc_ar": "تمريرة كاسرة لـ 1 مدافعين",
+          "desc_en": "Match highlight at minute 10:11."
+        },
+        {
+          "event_id": "evt_1_36691",
+          "period": 1,
+          "start_frame": 36631,
+          "end_frame": 36778,
+          "key_frame": 36691,
+          "time_str": "24:27",
+          "danger_value": 1,
+          "outcome": "PASS_KEY",
+          "title_ar": "أهم لقطات اللاعب [24:27]",
+          "title_en": "Key Player Highlight [24:27]",
+          "desc_ar": "تمريرة كاسرة لـ 1 مدافعين",
+          "desc_en": "Match highlight at minute 24:27."
+        }
+      ],
+      "best_positioning": [],
+      "defensive_lapses": [
+        {
+          "event_id": "evt_1_4516",
+          "period": 1,
+          "start_frame": 4456,
+          "end_frame": 4651,
+          "key_frame": 4516,
+          "time_str": "03:00",
+          "danger_value": 2,
+          "outcome": "SUCCESS",
+          "title_ar": "المواقف الدفاعية للاعب [03:00]",
+          "title_en": "Defensive Play [03:00]",
+          "desc_ar": "تدخل ناجح (INTERCEPTION)",
+          "desc_en": "Defensive involvement at minute 03:00."
+        },
+        {
+          "event_id": "evt_1_4620",
+          "period": 1,
+          "start_frame": 4560,
+          "end_frame": 4739,
+          "key_frame": 4620,
+          "time_str": "03:04",
+          "danger_value": 2,
+          "outcome": "SUCCESS",
+          "title_ar": "المواقف الدفاعية للاعب [03:04]",
+          "title_en": "Defensive Play [03:04]",
+          "desc_ar": "تدخل ناجح (INTERCEPTION)",
+          "desc_en": "Defensive involvement at minute 03:04."
+        },
+        {
+          "event_id": "evt_1_5202",
+          "period": 1,
+          "start_frame": 5142,
+          "end_frame": 5288,
+          "key_frame": 5202,
+          "time_str": "03:28",
+          "danger_value": 2,
+          "outcome": "SUCCESS",
+          "title_ar": "المواقف الدفاعية للاعب [03:28]",
+          "title_en": "Defensive Play [03:28]",
+          "desc_ar": "تدخل ناجح (INTERCEPTION)",
+          "desc_en": "Defensive involvement at minute 03:28."
+        }
+      ]
+    }
+  },
+  "Home_Player2": {
+    "player_id": "2",
+    "team": "Home",
+    "role": "Midfielder",
+    "profile_stats": {
+      "total_passes": 44,
+      "pass_accuracy_pct": 100.0,
+      "shots_total": 0,
+      "shots_on_target": 0,
+      "goals": 0,
+      "defenders_packed": 18,
+      "total_saves": 0,
+      "total_defensive_actions": 24
+    },
+    "moments_categories": {
+      "key_actions": [
+        {
+          "event_id": "evt_2_45835",
+          "period": 1,
+          "start_frame": 45775,
+          "end_frame": 45964,
+          "key_frame": 45835,
+          "time_str": "30:33",
+          "danger_value": 3,
+          "outcome": "PASS_KEY",
+          "title_ar": "أهم لقطات اللاعب [30:33]",
+          "title_en": "Key Player Highlight [30:33]",
+          "desc_ar": "تمريرة كاسرة لـ 3 مدافعين",
+          "desc_en": "Match highlight at minute 30:33."
+        },
+        {
+          "event_id": "evt_2_498",
+          "period": 1,
+          "start_frame": 438,
+          "end_frame": 596,
+          "key_frame": 498,
+          "time_str": "00:19",
+          "danger_value": 2,
+          "outcome": "PASS_KEY",
+          "title_ar": "أهم لقطات اللاعب [00:19]",
+          "title_en": "Key Player Highlight [00:19]",
+          "desc_ar": "تمريرة كاسرة لـ 2 مدافعين",
+          "desc_en": "Match highlight at minute 00:19."
+        },
+        {
+          "event_id": "evt_2_59511",
+          "period": 1,
+          "start_frame": 59451,
+          "end_frame": 59605,
+          "key_frame": 59511,
+          "time_str": "39:40",
+          "danger_value": 2,
+          "outcome": "PASS_KEY",
+          "title_ar": "أهم لقطات اللاعب [39:40]",
+          "title_en": "Key Player Highlight [39:40]",
+          "desc_ar": "تمريرة كاسرة لـ 2 مدافعين",
+          "desc_en": "Match highlight at minute 39:40."
+        }
+      ],
+      "best_positioning": [],
+      "defensive_lapses": [
+        {
+          "event_id": "evt_2_378",
+          "period": 1,
+          "start_frame": 318,
+          "end_frame": 513,
+          "key_frame": 378,
+          "time_str": "00:15",
+          "danger_value": 2,
+          "outcome": "SUCCESS",
+          "title_ar": "المواقف الدفاعية للاعب [00:15]",
+          "title_en": "Defensive Play [00:15]",
+          "desc_ar": "تدخل ناجح (INTERCEPTION)",
+          "desc_en": "Defensive involvement at minute 00:15."
+        },
+        {
+          "event_id": "evt_2_498",
+          "period": 1,
+          "start_frame": 438,
+          "end_frame": 633,
+          "key_frame": 498,
+          "time_str": "00:19",
+          "danger_value": 2,
+          "outcome": "SUCCESS",
+          "title_ar": "المواقف الدفاعية للاعب [00:19]",
+          "title_en": "Defensive Play [00:19]",
+          "desc_ar": "تدخل ناجح (INTERCEPTION)",
+          "desc_en": "Defensive involvement at minute 00:19."
+        },
+        {
+          "event_id": "evt_2_5149",
+          "period": 1,
+          "start_frame": 5089,
+          "end_frame": 5284,
+          "key_frame": 5149,
+          "time_str": "03:25",
+          "danger_value": 2,
+          "outcome": "SUCCESS",
+          "title_ar": "المواقف الدفاعية للاعب [03:25]",
+          "title_en": "Defensive Play [03:25]",
+          "desc_ar": "تدخل ناجح (INTERCEPTION)",
+          "desc_en": "Defensive involvement at minute 03:25."
+        }
+      ]
+    }
+  },
+  "Home_Player3": {
+    "player_id": "3",
+    "team": "Home",
+    "role": "Midfielder",
+    "profile_stats": {
+      "total_passes": 41,
+      "pass_accuracy_pct": 100.0,
+      "shots_total": 0,
+      "shots_on_target": 0,
+      "goals": 0,
+      "defenders_packed": 16,
+      "total_saves": 0,
+      "total_defensive_actions": 23
+    },
+    "moments_categories": {
+      "key_actions": [
+        {
+          "event_id": "evt_3_18252",
+          "period": 1,
+          "start_frame": 18192,
+          "end_frame": 18330,
+          "key_frame": 18252,
+          "time_str": "12:10",
+          "danger_value": 3,
+          "outcome": "PASS_KEY",
+          "title_ar": "أهم لقطات اللاعب [12:10]",
+          "title_en": "Key Player Highlight [12:10]",
+          "desc_ar": "تمريرة كاسرة لـ 3 مدافعين",
+          "desc_en": "Match highlight at minute 12:10."
+        },
+        {
+          "event_id": "evt_3_19529",
+          "period": 1,
+          "start_frame": 19469,
+          "end_frame": 19631,
+          "key_frame": 19529,
+          "time_str": "13:01",
+          "danger_value": 2,
+          "outcome": "PASS_KEY",
+          "title_ar": "أهم لقطات اللاعب [13:01]",
+          "title_en": "Key Player Highlight [13:01]",
+          "desc_ar": "تمريرة كاسرة لـ 2 مدافعين",
+          "desc_en": "Match highlight at minute 13:01."
+        },
+        {
+          "event_id": "evt_3_78077",
+          "period": 2,
+          "start_frame": 78017,
+          "end_frame": 78207,
+          "key_frame": 78077,
+          "time_str": "52:03",
+          "danger_value": 2,
+          "outcome": "PASS_KEY",
+          "title_ar": "أهم لقطات اللاعب [52:03]",
+          "title_en": "Key Player Highlight [52:03]",
+          "desc_ar": "تمريرة كاسرة لـ 2 مدافعين",
+          "desc_en": "Match highlight at minute 52:03."
+        }
+      ],
+      "best_positioning": [],
+      "defensive_lapses": [
+        {
+          "event_id": "evt_3_7041",
+          "period": 1,
+          "start_frame": 6981,
+          "end_frame": 7176,
+          "key_frame": 7041,
+          "time_str": "04:41",
+          "danger_value": 2,
+          "outcome": "SUCCESS",
+          "title_ar": "المواقف الدفاعية للاعب [04:41]",
+          "title_en": "Defensive Play [04:41]",
+          "desc_ar": "تدخل ناجح (INTERCEPTION)",
+          "desc_en": "Defensive involvement at minute 04:41."
+        },
+        {
+          "event_id": "evt_3_7472",
+          "period": 1,
+          "start_frame": 7412,
+          "end_frame": 7607,
+          "key_frame": 7472,
+          "time_str": "04:58",
+          "danger_value": 2,
+          "outcome": "SUCCESS",
+          "title_ar": "المواقف الدفاعية للاعب [04:58]",
+          "title_en": "Defensive Play [04:58]",
+          "desc_ar": "تدخل ناجح (NAN)",
+          "desc_en": "Defensive involvement at minute 04:58."
+        },
+        {
+          "event_id": "evt_3_9069",
+          "period": 1,
+          "start_frame": 9009,
+          "end_frame": 9204,
+          "key_frame": 9069,
+          "time_str": "06:02",
+          "danger_value": 2,
+          "outcome": "SUCCESS",
+          "title_ar": "المواقف الدفاعية للاعب [06:02]",
+          "title_en": "Defensive Play [06:02]",
+          "desc_ar": "تدخل ناجح (INTERCEPTION)",
+          "desc_en": "Defensive involvement at minute 06:02."
+        }
+      ]
+    }
+  },
+  "Home_Player4": {
+    "player_id": "4",
+    "team": "Home",
+    "role": "Defender",
+    "profile_stats": {
+      "total_passes": 47,
+      "pass_accuracy_pct": 97.9,
+      "shots_total": 0,
+      "shots_on_target": 0,
+      "goals": 0,
+      "defenders_packed": 21,
+      "total_saves": 0,
+      "total_defensive_actions": 17
+    },
+    "moments_categories": {
+      "key_actions": [
+        {
+          "event_id": "evt_4_98958",
+          "period": 2,
+          "start_frame": 98898,
+          "end_frame": 99065,
+          "key_frame": 98958,
+          "time_str": "65:58",
+          "danger_value": 5,
+          "outcome": "PASS_KEY",
+          "title_ar": "أهم لقطات اللاعب [65:58]",
+          "title_en": "Key Player Highlight [65:58]",
+          "desc_ar": "تمريرة كاسرة لـ 5 مدافعين",
+          "desc_en": "Match highlight at minute 65:58."
+        },
+        {
+          "event_id": "evt_4_20471",
+          "period": 1,
+          "start_frame": 20411,
+          "end_frame": 20588,
+          "key_frame": 20471,
+          "time_str": "13:38",
+          "danger_value": 2,
+          "outcome": "PASS_KEY",
+          "title_ar": "أهم لقطات اللاعب [13:38]",
+          "title_en": "Key Player Highlight [13:38]",
+          "desc_ar": "تمريرة كاسرة لـ 2 مدافعين",
+          "desc_en": "Match highlight at minute 13:38."
+        },
+        {
+          "event_id": "evt_4_65374",
+          "period": 1,
+          "start_frame": 65314,
+          "end_frame": 65457,
+          "key_frame": 65374,
+          "time_str": "43:34",
+          "danger_value": 2,
+          "outcome": "PASS_KEY",
+          "title_ar": "أهم لقطات اللاعب [43:34]",
+          "title_en": "Key Player Highlight [43:34]",
+          "desc_ar": "تمريرة كاسرة لـ 2 مدافعين",
+          "desc_en": "Match highlight at minute 43:34."
+        }
+      ],
+      "best_positioning": [],
+      "defensive_lapses": [
+        {
+          "event_id": "evt_4_5520",
+          "period": 1,
+          "start_frame": 5460,
+          "end_frame": 5655,
+          "key_frame": 5520,
+          "time_str": "03:40",
+          "danger_value": 2,
+          "outcome": "SUCCESS",
+          "title_ar": "المواقف الدفاعية للاعب [03:40]",
+          "title_en": "Defensive Play [03:40]",
+          "desc_ar": "تدخل ناجح (NAN)",
+          "desc_en": "Defensive involvement at minute 03:40."
+        },
+        {
+          "event_id": "evt_4_15646",
+          "period": 1,
+          "start_frame": 15586,
+          "end_frame": 15781,
+          "key_frame": 15646,
+          "time_str": "10:25",
+          "danger_value": 2,
+          "outcome": "SUCCESS",
+          "title_ar": "المواقف الدفاعية للاعب [10:25]",
+          "title_en": "Defensive Play [10:25]",
+          "desc_ar": "تدخل ناجح (INTERCEPTION)",
+          "desc_en": "Defensive involvement at minute 10:25."
+        },
+        {
+          "event_id": "evt_4_20146",
+          "period": 1,
+          "start_frame": 20086,
+          "end_frame": 20243,
+          "key_frame": 20146,
+          "time_str": "13:25",
+          "danger_value": 2,
+          "outcome": "SUCCESS",
+          "title_ar": "المواقف الدفاعية للاعب [13:25]",
+          "title_en": "Defensive Play [13:25]",
+          "desc_ar": "تدخل ناجح (INTERCEPTION)",
+          "desc_en": "Defensive involvement at minute 13:25."
+        }
+      ]
+    }
+  },
+  "Home_Player5": {
+    "player_id": "5",
+    "team": "Home",
+    "role": "Midfielder",
+    "profile_stats": {
+      "total_passes": 34,
+      "pass_accuracy_pct": 100.0,
+      "shots_total": 2,
+      "shots_on_target": 1,
+      "goals": 0,
+      "defenders_packed": 13,
+      "total_saves": 0,
+      "total_defensive_actions": 18
+    },
+    "moments_categories": {
+      "key_actions": [
+        {
+          "event_id": "evt_5_99005",
+          "period": 2,
+          "start_frame": 98930,
+          "end_frame": 99089,
+          "key_frame": 99005,
+          "time_str": "66:00",
+          "danger_value": 3,
+          "outcome": "ON_TARGET",
+          "title_ar": "أهم لقطات اللاعب [66:00]",
+          "title_en": "Key Player Highlight [66:00]",
+          "desc_ar": "تسديدة من اللاعب (ON_TARGET)",
+          "desc_en": "Match highlight at minute 66:00."
+        },
+        {
+          "event_id": "evt_5_53775",
+          "period": 1,
+          "start_frame": 53700,
+          "end_frame": 53925,
+          "key_frame": 53775,
+          "time_str": "35:51",
+          "danger_value": 2,
+          "outcome": "BLOCKED",
+          "title_ar": "أهم لقطات اللاعب [35:51]",
+          "title_en": "Key Player Highlight [35:51]",
+          "desc_ar": "تسديدة من اللاعب (BLOCKED)",
+          "desc_en": "Match highlight at minute 35:51."
+        },
+        {
+          "event_id": "evt_5_89978",
+          "period": 2,
+          "start_frame": 89918,
+          "end_frame": 90065,
+          "key_frame": 89978,
+          "time_str": "59:59",
+          "danger_value": 2,
+          "outcome": "PASS_KEY",
+          "title_ar": "أهم لقطات اللاعب [59:59]",
+          "title_en": "Key Player Highlight [59:59]",
+          "desc_ar": "تمريرة كاسرة لـ 2 مدافعين",
+          "desc_en": "Match highlight at minute 59:59."
+        }
+      ],
+      "best_positioning": [
+        {
+          "event_id": "evt_5_98958",
+          "period": 2,
+          "start_frame": 98898,
+          "end_frame": 99065,
+          "key_frame": 98958,
+          "time_str": "65:58",
+          "danger_value": 5,
+          "outcome": "PACKING_RECEIVE",
+          "title_ar": "أهم لقطات التمركز والاستلام [65:58]",
+          "title_en": "Key Space Reception [65:58]",
+          "desc_ar": "استلام تمريرة بين الخطوط",
+          "desc_en": "Reception between lines at minute 65:58."
+        },
+        {
+          "event_id": "evt_5_15419",
+          "period": 1,
+          "start_frame": 15359,
+          "end_frame": 15490,
+          "key_frame": 15419,
+          "time_str": "10:16",
+          "danger_value": 2,
+          "outcome": "PACKING_RECEIVE",
+          "title_ar": "أهم لقطات التمركز والاستلام [10:16]",
+          "title_en": "Key Space Reception [10:16]",
+          "desc_ar": "استلام تمريرة بين الخطوط",
+          "desc_en": "Reception between lines at minute 10:16."
+        },
+        {
+          "event_id": "evt_5_59511",
+          "period": 1,
+          "start_frame": 59451,
+          "end_frame": 59605,
+          "key_frame": 59511,
+          "time_str": "39:40",
+          "danger_value": 2,
+          "outcome": "PACKING_RECEIVE",
+          "title_ar": "أهم لقطات التمركز والاستلام [39:40]",
+          "title_en": "Key Space Reception [39:40]",
+          "desc_ar": "استلام تمريرة بين الخطوط",
+          "desc_en": "Reception between lines at minute 39:40."
+        }
+      ],
+      "defensive_lapses": [
+        {
+          "event_id": "evt_5_1134",
+          "period": 1,
+          "start_frame": 1074,
+          "end_frame": 1269,
+          "key_frame": 1134,
+          "time_str": "00:45",
+          "danger_value": 2,
+          "outcome": "SUCCESS",
+          "title_ar": "المواقف الدفاعية للاعب [00:45]",
+          "title_en": "Defensive Play [00:45]",
+          "desc_ar": "تدخل ناجح (INTERCEPTION)",
+          "desc_en": "Defensive involvement at minute 00:45."
+        },
+        {
+          "event_id": "evt_5_27724",
+          "period": 1,
+          "start_frame": 27664,
+          "end_frame": 27859,
+          "key_frame": 27724,
+          "time_str": "18:28",
+          "danger_value": 2,
+          "outcome": "SUCCESS",
+          "title_ar": "المواقف الدفاعية للاعب [18:28]",
+          "title_en": "Defensive Play [18:28]",
+          "desc_ar": "تدخل ناجح (INTERCEPTION)",
+          "desc_en": "Defensive involvement at minute 18:28."
+        },
+        {
+          "event_id": "evt_5_44400",
+          "period": 1,
+          "start_frame": 44340,
+          "end_frame": 44535,
+          "key_frame": 44400,
+          "time_str": "29:36",
+          "danger_value": 2,
+          "outcome": "SUCCESS",
+          "title_ar": "المواقف الدفاعية للاعب [29:36]",
+          "title_en": "Defensive Play [29:36]",
+          "desc_ar": "تدخل ناجح (NAN)",
+          "desc_en": "Defensive involvement at minute 29:36."
+        }
+      ]
+    }
+  },
+  "Home_Player6": {
+    "player_id": "6",
+    "team": "Home",
+    "role": "Defender",
+    "profile_stats": {
+      "total_passes": 48,
+      "pass_accuracy_pct": 100.0,
+      "shots_total": 0,
+      "shots_on_target": 0,
+      "goals": 0,
+      "defenders_packed": 16,
+      "total_saves": 0,
+      "total_defensive_actions": 20
+    },
+    "moments_categories": {
+      "key_actions": [
+        {
+          "event_id": "evt_6_48671",
+          "period": 1,
+          "start_frame": 48611,
+          "end_frame": 48764,
+          "key_frame": 48671,
+          "time_str": "32:26",
+          "danger_value": 2,
+          "outcome": "PASS_KEY",
+          "title_ar": "أهم لقطات اللاعب [32:26]",
+          "title_en": "Key Player Highlight [32:26]",
+          "desc_ar": "تمريرة كاسرة لـ 2 مدافعين",
+          "desc_en": "Match highlight at minute 32:26."
+        },
+        {
+          "event_id": "evt_6_108161",
+          "period": 2,
+          "start_frame": 108101,
+          "end_frame": 108273,
+          "key_frame": 108161,
+          "time_str": "72:06",
+          "danger_value": 2,
+          "outcome": "PASS_KEY",
+          "title_ar": "أهم لقطات اللاعب [72:06]",
+          "title_en": "Key Player Highlight [72:06]",
+          "desc_ar": "تمريرة كاسرة لـ 2 مدافعين",
+          "desc_en": "Match highlight at minute 72:06."
+        },
+        {
+          "event_id": "evt_6_1154",
+          "period": 1,
+          "start_frame": 1094,
+          "end_frame": 1237,
+          "key_frame": 1154,
+          "time_str": "00:46",
+          "danger_value": 1,
+          "outcome": "PASS_KEY",
+          "title_ar": "أهم لقطات اللاعب [00:46]",
+          "title_en": "Key Player Highlight [00:46]",
+          "desc_ar": "تمريرة كاسرة لـ 1 مدافعين",
+          "desc_en": "Match highlight at minute 00:46."
+        }
+      ],
+      "best_positioning": [],
+      "defensive_lapses": [
+        {
+          "event_id": "evt_6_6844",
+          "period": 1,
+          "start_frame": 6784,
+          "end_frame": 6979,
+          "key_frame": 6844,
+          "time_str": "04:33",
+          "danger_value": 2,
+          "outcome": "SUCCESS",
+          "title_ar": "المواقف الدفاعية للاعب [04:33]",
+          "title_en": "Defensive Play [04:33]",
+          "desc_ar": "تدخل ناجح (NAN)",
+          "desc_en": "Defensive involvement at minute 04:33."
+        },
+        {
+          "event_id": "evt_6_6864",
+          "period": 1,
+          "start_frame": 6804,
+          "end_frame": 6945,
+          "key_frame": 6864,
+          "time_str": "04:34",
+          "danger_value": 2,
+          "outcome": "SUCCESS",
+          "title_ar": "المواقف الدفاعية للاعب [04:34]",
+          "title_en": "Defensive Play [04:34]",
+          "desc_ar": "تدخل ناجح (INTERCEPTION)",
+          "desc_en": "Defensive involvement at minute 04:34."
+        },
+        {
+          "event_id": "evt_6_9354",
+          "period": 1,
+          "start_frame": 9294,
+          "end_frame": 9489,
+          "key_frame": 9354,
+          "time_str": "06:14",
+          "danger_value": 2,
+          "outcome": "SUCCESS",
+          "title_ar": "المواقف الدفاعية للاعب [06:14]",
+          "title_en": "Defensive Play [06:14]",
+          "desc_ar": "تدخل ناجح (INTERCEPTION)",
+          "desc_en": "Defensive involvement at minute 06:14."
+        }
+      ]
+    }
+  },
+  "Home_Player7": {
+    "player_id": "7",
+    "team": "Home",
+    "role": "Forward",
+    "profile_stats": {
+      "total_passes": 52,
+      "pass_accuracy_pct": 98.1,
+      "shots_total": 2,
+      "shots_on_target": 0,
+      "goals": 0,
+      "defenders_packed": 12,
+      "total_saves": 0,
+      "total_defensive_actions": 23
+    },
+    "moments_categories": {
+      "key_actions": [
+        {
+          "event_id": "evt_7_61420",
+          "period": 1,
+          "start_frame": 61360,
+          "end_frame": 61550,
+          "key_frame": 61420,
+          "time_str": "40:56",
+          "danger_value": 2,
+          "outcome": "PASS_KEY",
+          "title_ar": "أهم لقطات اللاعب [40:56]",
+          "title_en": "Key Player Highlight [40:56]",
+          "desc_ar": "تمريرة كاسرة لـ 2 مدافعين",
+          "desc_en": "Match highlight at minute 40:56."
+        },
+        {
+          "event_id": "evt_7_81424",
+          "period": 2,
+          "start_frame": 81364,
+          "end_frame": 81519,
+          "key_frame": 81424,
+          "time_str": "54:16",
+          "danger_value": 2,
+          "outcome": "PASS_KEY",
+          "title_ar": "أهم لقطات اللاعب [54:16]",
+          "title_en": "Key Player Highlight [54:16]",
+          "desc_ar": "تمريرة كاسرة لـ 2 مدافعين",
+          "desc_en": "Match highlight at minute 54:16."
+        },
+        {
+          "event_id": "evt_7_27839",
+          "period": 1,
+          "start_frame": 27779,
+          "end_frame": 27930,
+          "key_frame": 27839,
+          "time_str": "18:33",
+          "danger_value": 1,
+          "outcome": "PASS_KEY",
+          "title_ar": "أهم لقطات اللاعب [18:33]",
+          "title_en": "Key Player Highlight [18:33]",
+          "desc_ar": "تمريرة كاسرة لـ 1 مدافعين",
+          "desc_en": "Match highlight at minute 18:33."
+        }
+      ],
+      "best_positioning": [
+        {
+          "event_id": "evt_7_53551",
+          "period": 1,
+          "start_frame": 53491,
+          "end_frame": 53664,
+          "key_frame": 53551,
+          "time_str": "35:42",
+          "danger_value": 2,
+          "outcome": "PACKING_RECEIVE",
+          "title_ar": "أهم لقطات التمركز والاستلام [35:42]",
+          "title_en": "Key Space Reception [35:42]",
+          "desc_ar": "استلام تمريرة بين الخطوط",
+          "desc_en": "Reception between lines at minute 35:42."
+        },
+        {
+          "event_id": "evt_7_78077",
+          "period": 2,
+          "start_frame": 78017,
+          "end_frame": 78207,
+          "key_frame": 78077,
+          "time_str": "52:03",
+          "danger_value": 2,
+          "outcome": "PACKING_RECEIVE",
+          "title_ar": "أهم لقطات التمركز والاستلام [52:03]",
+          "title_en": "Key Space Reception [52:03]",
+          "desc_ar": "استلام تمريرة بين الخطوط",
+          "desc_en": "Reception between lines at minute 52:03."
+        },
+        {
+          "event_id": "evt_7_89486",
+          "period": 2,
+          "start_frame": 89426,
+          "end_frame": 89581,
+          "key_frame": 89486,
+          "time_str": "59:39",
+          "danger_value": 2,
+          "outcome": "PACKING_RECEIVE",
+          "title_ar": "أهم لقطات التمركز والاستلام [59:39]",
+          "title_en": "Key Space Reception [59:39]",
+          "desc_ar": "استلام تمريرة بين الخطوط",
+          "desc_en": "Reception between lines at minute 59:39."
+        }
+      ],
+      "defensive_lapses": [
+        {
+          "event_id": "evt_7_4751",
+          "period": 1,
+          "start_frame": 4691,
+          "end_frame": 4886,
+          "key_frame": 4751,
+          "time_str": "03:10",
+          "danger_value": 2,
+          "outcome": "SUCCESS",
+          "title_ar": "المواقف الدفاعية للاعب [03:10]",
+          "title_en": "Defensive Play [03:10]",
+          "desc_ar": "تدخل ناجح (INTERCEPTION)",
+          "desc_en": "Defensive involvement at minute 03:10."
+        },
+        {
+          "event_id": "evt_7_10613",
+          "period": 1,
+          "start_frame": 10553,
+          "end_frame": 10711,
+          "key_frame": 10613,
+          "time_str": "07:04",
+          "danger_value": 2,
+          "outcome": "SUCCESS",
+          "title_ar": "المواقف الدفاعية للاعب [07:04]",
+          "title_en": "Defensive Play [07:04]",
+          "desc_ar": "تدخل ناجح (INTERCEPTION)",
+          "desc_en": "Defensive involvement at minute 07:04."
+        },
+        {
+          "event_id": "evt_7_20362",
+          "period": 1,
+          "start_frame": 20302,
+          "end_frame": 20497,
+          "key_frame": 20362,
+          "time_str": "13:34",
+          "danger_value": 2,
+          "outcome": "SUCCESS",
+          "title_ar": "المواقف الدفاعية للاعب [13:34]",
+          "title_en": "Defensive Play [13:34]",
+          "desc_ar": "تدخل ناجح (INTERCEPTION)",
+          "desc_en": "Defensive involvement at minute 13:34."
+        }
+      ]
+    }
+  },
+  "Home_Player8": {
+    "player_id": "8",
+    "team": "Home",
+    "role": "Midfielder",
+    "profile_stats": {
+      "total_passes": 31,
+      "pass_accuracy_pct": 100.0,
+      "shots_total": 4,
+      "shots_on_target": 2,
+      "goals": 0,
+      "defenders_packed": 3,
+      "total_saves": 0,
+      "total_defensive_actions": 27
+    },
+    "moments_categories": {
+      "key_actions": [
+        {
+          "event_id": "evt_8_9628",
+          "period": 1,
+          "start_frame": 9553,
+          "end_frame": 9707,
+          "key_frame": 9628,
+          "time_str": "06:25",
+          "danger_value": 3,
+          "outcome": "ON_TARGET",
+          "title_ar": "أهم لقطات اللاعب [06:25]",
+          "title_en": "Key Player Highlight [06:25]",
+          "desc_ar": "تسديدة من اللاعب (ON_TARGET)",
+          "desc_en": "Match highlight at minute 06:25."
+        },
+        {
+          "event_id": "evt_8_53695",
+          "period": 1,
+          "start_frame": 53620,
+          "end_frame": 53782,
+          "key_frame": 53695,
+          "time_str": "35:47",
+          "danger_value": 3,
+          "outcome": "ON_TARGET",
+          "title_ar": "أهم لقطات اللاعب [35:47]",
+          "title_en": "Key Player Highlight [35:47]",
+          "desc_ar": "تسديدة من اللاعب (ON_TARGET)",
+          "desc_en": "Match highlight at minute 35:47."
+        },
+        {
+          "event_id": "evt_8_18270",
+          "period": 1,
+          "start_frame": 18195,
+          "end_frame": 18376,
+          "key_frame": 18270,
+          "time_str": "12:10",
+          "danger_value": 1,
+          "outcome": "OFF_TARGET",
+          "title_ar": "أهم لقطات اللاعب [12:10]",
+          "title_en": "Key Player Highlight [12:10]",
+          "desc_ar": "تسديدة من اللاعب (OFF_TARGET)",
+          "desc_en": "Match highlight at minute 12:10."
+        }
+      ],
+      "best_positioning": [
+        {
+          "event_id": "evt_8_26590",
+          "period": 1,
+          "start_frame": 26530,
+          "end_frame": 26668,
+          "key_frame": 26590,
+          "time_str": "17:43",
+          "danger_value": 4,
+          "outcome": "PACKING_RECEIVE",
+          "title_ar": "أهم لقطات التمركز والاستلام [17:43]",
+          "title_en": "Key Space Reception [17:43]",
+          "desc_ar": "استلام تمريرة بين الخطوط",
+          "desc_en": "Reception between lines at minute 17:43."
+        },
+        {
+          "event_id": "evt_8_18252",
+          "period": 1,
+          "start_frame": 18192,
+          "end_frame": 18330,
+          "key_frame": 18252,
+          "time_str": "12:10",
+          "danger_value": 3,
+          "outcome": "PACKING_RECEIVE",
+          "title_ar": "أهم لقطات التمركز والاستلام [12:10]",
+          "title_en": "Key Space Reception [12:10]",
+          "desc_ar": "استلام تمريرة بين الخطوط",
+          "desc_en": "Reception between lines at minute 12:10."
+        },
+        {
+          "event_id": "evt_8_9599",
+          "period": 1,
+          "start_frame": 9539,
+          "end_frame": 9688,
+          "key_frame": 9599,
+          "time_str": "06:23",
+          "danger_value": 2,
+          "outcome": "PACKING_RECEIVE",
+          "title_ar": "أهم لقطات التمركز والاستلام [06:23]",
+          "title_en": "Key Space Reception [06:23]",
+          "desc_ar": "استلام تمريرة بين الخطوط",
+          "desc_en": "Reception between lines at minute 06:23."
+        }
+      ],
+      "defensive_lapses": [
+        {
+          "event_id": "evt_8_1370",
+          "period": 1,
+          "start_frame": 1310,
+          "end_frame": 1435,
+          "key_frame": 1370,
+          "time_str": "00:54",
+          "danger_value": 2,
+          "outcome": "SUCCESS",
+          "title_ar": "المواقف الدفاعية للاعب [00:54]",
+          "title_en": "Defensive Play [00:54]",
+          "desc_ar": "تدخل ناجح (INTERCEPTION)",
+          "desc_en": "Defensive involvement at minute 00:54."
+        },
+        {
+          "event_id": "evt_8_7699",
+          "period": 1,
+          "start_frame": 7639,
+          "end_frame": 7834,
+          "key_frame": 7699,
+          "time_str": "05:07",
+          "danger_value": 2,
+          "outcome": "SUCCESS",
+          "title_ar": "المواقف الدفاعية للاعب [05:07]",
+          "title_en": "Defensive Play [05:07]",
+          "desc_ar": "تدخل ناجح (TACKLE-LOST)",
+          "desc_en": "Defensive involvement at minute 05:07."
+        },
+        {
+          "event_id": "evt_8_8734",
+          "period": 1,
+          "start_frame": 8674,
+          "end_frame": 8869,
+          "key_frame": 8734,
+          "time_str": "05:49",
+          "danger_value": 2,
+          "outcome": "SUCCESS",
+          "title_ar": "المواقف الدفاعية للاعب [05:49]",
+          "title_en": "Defensive Play [05:49]",
+          "desc_ar": "تدخل ناجح (NAN)",
+          "desc_en": "Defensive involvement at minute 05:49."
+        }
+      ]
+    }
+  },
+  "Home_Player9": {
+    "player_id": "9",
+    "team": "Home",
+    "role": "Midfielder",
+    "profile_stats": {
+      "total_passes": 19,
+      "pass_accuracy_pct": 100.0,
+      "shots_total": 4,
+      "shots_on_target": 3,
+      "goals": 2,
+      "defenders_packed": 5,
+      "total_saves": 0,
+      "total_defensive_actions": 12
+    },
+    "moments_categories": {
+      "key_actions": [
+        {
+          "event_id": "evt_9_2289",
+          "period": 1,
+          "start_frame": 2214,
+          "end_frame": 2384,
+          "key_frame": 2289,
+          "time_str": "01:31",
+          "danger_value": 5,
+          "outcome": "GOAL",
+          "title_ar": "أهم لقطات اللاعب [01:31]",
+          "title_en": "Key Player Highlight [01:31]",
+          "desc_ar": "تسديدة من اللاعب (GOAL)",
+          "desc_en": "Match highlight at minute 01:31."
+        },
+        {
+          "event_id": "evt_9_99032",
+          "period": 2,
+          "start_frame": 98957,
+          "end_frame": 99121,
+          "key_frame": 99032,
+          "time_str": "66:01",
+          "danger_value": 5,
+          "outcome": "GOAL",
+          "title_ar": "أهم لقطات اللاعب [66:01]",
+          "title_en": "Key Player Highlight [66:01]",
+          "desc_ar": "تسديدة من اللاعب (GOAL)",
+          "desc_en": "Match highlight at minute 66:01."
+        },
+        {
+          "event_id": "evt_9_67502",
+          "period": 1,
+          "start_frame": 67427,
+          "end_frame": 67588,
+          "key_frame": 67502,
+          "time_str": "45:00",
+          "danger_value": 3,
+          "outcome": "ON_TARGET",
+          "title_ar": "أهم لقطات اللاعب [45:00]",
+          "title_en": "Key Player Highlight [45:00]",
+          "desc_ar": "تسديدة من اللاعب (ON_TARGET)",
+          "desc_en": "Match highlight at minute 45:00."
+        }
+      ],
+      "best_positioning": [
+        {
+          "event_id": "evt_9_45835",
+          "period": 1,
+          "start_frame": 45775,
+          "end_frame": 45964,
+          "key_frame": 45835,
+          "time_str": "30:33",
+          "danger_value": 3,
+          "outcome": "PACKING_RECEIVE",
+          "title_ar": "أهم لقطات التمركز والاستلام [30:33]",
+          "title_en": "Key Space Reception [30:33]",
+          "desc_ar": "استلام تمريرة بين الخطوط",
+          "desc_en": "Reception between lines at minute 30:33."
+        },
+        {
+          "event_id": "evt_9_498",
+          "period": 1,
+          "start_frame": 438,
+          "end_frame": 596,
+          "key_frame": 498,
+          "time_str": "00:19",
+          "danger_value": 2,
+          "outcome": "PACKING_RECEIVE",
+          "title_ar": "أهم لقطات التمركز والاستلام [00:19]",
+          "title_en": "Key Space Reception [00:19]",
+          "desc_ar": "استلام تمريرة بين الخطوط",
+          "desc_en": "Reception between lines at minute 00:19."
+        },
+        {
+          "event_id": "evt_9_20471",
+          "period": 1,
+          "start_frame": 20411,
+          "end_frame": 20588,
+          "key_frame": 20471,
+          "time_str": "13:38",
+          "danger_value": 2,
+          "outcome": "PACKING_RECEIVE",
+          "title_ar": "أهم لقطات التمركز والاستلام [13:38]",
+          "title_en": "Key Space Reception [13:38]",
+          "desc_ar": "استلام تمريرة بين الخطوط",
+          "desc_en": "Reception between lines at minute 13:38."
+        }
+      ],
+      "defensive_lapses": [
+        {
+          "event_id": "evt_9_13814",
+          "period": 1,
+          "start_frame": 13754,
+          "end_frame": 13949,
+          "key_frame": 13814,
+          "time_str": "09:12",
+          "danger_value": 2,
+          "outcome": "SUCCESS",
+          "title_ar": "المواقف الدفاعية للاعب [09:12]",
+          "title_en": "Defensive Play [09:12]",
+          "desc_ar": "تدخل ناجح (NAN)",
+          "desc_en": "Defensive involvement at minute 09:12."
+        },
+        {
+          "event_id": "evt_9_13843",
+          "period": 1,
+          "start_frame": 13783,
+          "end_frame": 13978,
+          "key_frame": 13843,
+          "time_str": "09:13",
+          "danger_value": 2,
+          "outcome": "SUCCESS",
+          "title_ar": "المواقف الدفاعية للاعب [09:13]",
+          "title_en": "Defensive Play [09:13]",
+          "desc_ar": "تدخل ناجح (TACKLE-LOST)",
+          "desc_en": "Defensive involvement at minute 09:13."
+        },
+        {
+          "event_id": "evt_9_22665",
+          "period": 1,
+          "start_frame": 22605,
+          "end_frame": 22800,
+          "key_frame": 22665,
+          "time_str": "15:06",
+          "danger_value": 2,
+          "outcome": "SUCCESS",
+          "title_ar": "المواقف الدفاعية للاعب [15:06]",
+          "title_en": "Defensive Play [15:06]",
+          "desc_ar": "تدخل ناجح (NAN)",
+          "desc_en": "Defensive involvement at minute 15:06."
+        }
+      ]
+    }
+  },
+  "Home_Player10": {
+    "player_id": "10",
+    "team": "Home",
+    "role": "Forward",
+    "profile_stats": {
+      "total_passes": 28,
+      "pass_accuracy_pct": 100.0,
+      "shots_total": 4,
+      "shots_on_target": 1,
+      "goals": 1,
+      "defenders_packed": 17,
+      "total_saves": 0,
+      "total_defensive_actions": 12
+    },
+    "moments_categories": {
+      "key_actions": [
+        {
+          "event_id": "evt_10_90005",
+          "period": 2,
+          "start_frame": 89930,
+          "end_frame": 90101,
+          "key_frame": 90005,
+          "time_str": "60:00",
+          "danger_value": 5,
+          "outcome": "GOAL",
+          "title_ar": "أهم لقطات اللاعب [60:00]",
+          "title_en": "Key Player Highlight [60:00]",
+          "desc_ar": "تسديدة من اللاعب (GOAL)",
+          "desc_en": "Match highlight at minute 60:00."
+        },
+        {
+          "event_id": "evt_10_26590",
+          "period": 1,
+          "start_frame": 26530,
+          "end_frame": 26668,
+          "key_frame": 26590,
+          "time_str": "17:43",
+          "danger_value": 4,
+          "outcome": "PASS_KEY",
+          "title_ar": "أهم لقطات اللاعب [17:43]",
+          "title_en": "Key Player Highlight [17:43]",
+          "desc_ar": "تمريرة كاسرة لـ 4 مدافعين",
+          "desc_en": "Match highlight at minute 17:43."
+        },
+        {
+          "event_id": "evt_10_9599",
+          "period": 1,
+          "start_frame": 9539,
+          "end_frame": 9688,
+          "key_frame": 9599,
+          "time_str": "06:23",
+          "danger_value": 2,
+          "outcome": "PASS_KEY",
+          "title_ar": "أهم لقطات اللاعب [06:23]",
+          "title_en": "Key Player Highlight [06:23]",
+          "desc_ar": "تمريرة كاسرة لـ 2 مدافعين",
+          "desc_en": "Match highlight at minute 06:23."
+        }
+      ],
+      "best_positioning": [
+        {
+          "event_id": "evt_10_65505",
+          "period": 1,
+          "start_frame": 65445,
+          "end_frame": 65695,
+          "key_frame": 65505,
+          "time_str": "43:40",
+          "danger_value": 2,
+          "outcome": "PACKING_RECEIVE",
+          "title_ar": "أهم لقطات التمركز والاستلام [43:40]",
+          "title_en": "Key Space Reception [43:40]",
+          "desc_ar": "استلام تمريرة بين الخطوط",
+          "desc_en": "Reception between lines at minute 43:40."
+        },
+        {
+          "event_id": "evt_10_81424",
+          "period": 2,
+          "start_frame": 81364,
+          "end_frame": 81519,
+          "key_frame": 81424,
+          "time_str": "54:16",
+          "danger_value": 2,
+          "outcome": "PACKING_RECEIVE",
+          "title_ar": "أهم لقطات التمركز والاستلام [54:16]",
+          "title_en": "Key Space Reception [54:16]",
+          "desc_ar": "استلام تمريرة بين الخطوط",
+          "desc_en": "Reception between lines at minute 54:16."
+        },
+        {
+          "event_id": "evt_10_89978",
+          "period": 2,
+          "start_frame": 89918,
+          "end_frame": 90065,
+          "key_frame": 89978,
+          "time_str": "59:59",
+          "danger_value": 2,
+          "outcome": "PACKING_RECEIVE",
+          "title_ar": "أهم لقطات التمركز والاستلام [59:59]",
+          "title_en": "Key Space Reception [59:59]",
+          "desc_ar": "استلام تمريرة بين الخطوط",
+          "desc_en": "Reception between lines at minute 59:59."
+        }
+      ],
+      "defensive_lapses": [
+        {
+          "event_id": "evt_10_572",
+          "period": 1,
+          "start_frame": 512,
+          "end_frame": 676,
+          "key_frame": 572,
+          "time_str": "00:22",
+          "danger_value": 2,
+          "outcome": "SUCCESS",
+          "title_ar": "المواقف الدفاعية للاعب [00:22]",
+          "title_en": "Defensive Play [00:22]",
+          "desc_ar": "تدخل ناجح (INTERCEPTION)",
+          "desc_en": "Defensive involvement at minute 00:22."
+        },
+        {
+          "event_id": "evt_10_8581",
+          "period": 1,
+          "start_frame": 8521,
+          "end_frame": 8716,
+          "key_frame": 8581,
+          "time_str": "05:43",
+          "danger_value": 2,
+          "outcome": "SUCCESS",
+          "title_ar": "المواقف الدفاعية للاعب [05:43]",
+          "title_en": "Defensive Play [05:43]",
+          "desc_ar": "تدخل ناجح (NAN)",
+          "desc_en": "Defensive involvement at minute 05:43."
+        },
+        {
+          "event_id": "evt_10_30807",
+          "period": 1,
+          "start_frame": 30747,
+          "end_frame": 30942,
+          "key_frame": 30807,
+          "time_str": "20:32",
+          "danger_value": 2,
+          "outcome": "SUCCESS",
+          "title_ar": "المواقف الدفاعية للاعب [20:32]",
+          "title_en": "Defensive Play [20:32]",
+          "desc_ar": "تدخل ناجح (TACKLE-LOST)",
+          "desc_en": "Defensive involvement at minute 20:32."
+        }
+      ]
+    }
+  },
+  "Home_Player11": {
+    "player_id": "11",
+    "team": "Home",
+    "role": "Goalkeeper",
+    "profile_stats": {
+      "total_passes": 17,
+      "pass_accuracy_pct": 94.1,
+      "shots_total": 0,
+      "shots_on_target": 0,
+      "goals": 0,
+      "defenders_packed": 7,
+      "total_saves": 3,
+      "total_defensive_actions": 0
+    },
+    "moments_categories": {
+      "key_actions": [
+        {
+          "event_id": "evt_11_19470",
+          "period": 1,
+          "start_frame": 19395,
+          "end_frame": 19558,
+          "key_frame": 19470,
+          "time_str": "12:58",
+          "danger_value": 4,
+          "outcome": "SAVED",
+          "title_ar": "أهم لقطات اللاعب [12:58]",
+          "title_en": "Key Player Highlight [12:58]",
+          "desc_ar": "تصدٍّ لمرمى Home",
+          "desc_en": "Match highlight at minute 12:58."
+        },
+        {
+          "event_id": "evt_11_75262",
+          "period": 2,
+          "start_frame": 75187,
+          "end_frame": 75359,
+          "key_frame": 75262,
+          "time_str": "50:10",
+          "danger_value": 4,
+          "outcome": "SAVED",
+          "title_ar": "أهم لقطات اللاعب [50:10]",
+          "title_en": "Key Player Highlight [50:10]",
+          "desc_ar": "تصدٍّ لمرمى Home",
+          "desc_en": "Match highlight at minute 50:10."
+        },
+        {
+          "event_id": "evt_11_108611",
+          "period": 2,
+          "start_frame": 108536,
+          "end_frame": 108703,
+          "key_frame": 108611,
+          "time_str": "72:24",
+          "danger_value": 4,
+          "outcome": "SAVED",
+          "title_ar": "أهم لقطات اللاعب [72:24]",
+          "title_en": "Key Player Highlight [72:24]",
+          "desc_ar": "تصدٍّ لمرمى Home",
+          "desc_en": "Match highlight at minute 72:24."
+        }
+      ],
+      "best_positioning": [],
+      "defensive_lapses": []
+    }
+  },
+  "Home_Player12": {
+    "player_id": "12",
+    "team": "Home",
+    "role": "Forward",
+    "profile_stats": {
+      "total_passes": 53,
+      "pass_accuracy_pct": 100.0,
+      "shots_total": 1,
+      "shots_on_target": 0,
+      "goals": 0,
+      "defenders_packed": 19,
+      "total_saves": 0,
+      "total_defensive_actions": 19
+    },
+    "moments_categories": {
+      "key_actions": [
+        {
+          "event_id": "evt_12_59232",
+          "period": 1,
+          "start_frame": 59172,
+          "end_frame": 59326,
+          "key_frame": 59232,
+          "time_str": "39:29",
+          "danger_value": 2,
+          "outcome": "PASS_KEY",
+          "title_ar": "أهم لقطات اللاعب [39:29]",
+          "title_en": "Key Player Highlight [39:29]",
+          "desc_ar": "تمريرة كاسرة لـ 2 مدافعين",
+          "desc_en": "Match highlight at minute 39:29."
+        },
+        {
+          "event_id": "evt_12_89486",
+          "period": 2,
+          "start_frame": 89426,
+          "end_frame": 89581,
+          "key_frame": 89486,
+          "time_str": "59:39",
+          "danger_value": 2,
+          "outcome": "PASS_KEY",
+          "title_ar": "أهم لقطات اللاعب [59:39]",
+          "title_en": "Key Player Highlight [59:39]",
+          "desc_ar": "تمريرة كاسرة لـ 2 مدافعين",
+          "desc_en": "Match highlight at minute 59:39."
+        },
+        {
+          "event_id": "evt_12_93716",
+          "period": 2,
+          "start_frame": 93656,
+          "end_frame": 93807,
+          "key_frame": 93716,
+          "time_str": "62:28",
+          "danger_value": 2,
+          "outcome": "PASS_KEY",
+          "title_ar": "أهم لقطات اللاعب [62:28]",
+          "title_en": "Key Player Highlight [62:28]",
+          "desc_ar": "تمريرة كاسرة لـ 2 مدافعين",
+          "desc_en": "Match highlight at minute 62:28."
+        }
+      ],
+      "best_positioning": [
+        {
+          "event_id": "evt_12_48671",
+          "period": 1,
+          "start_frame": 48611,
+          "end_frame": 48764,
+          "key_frame": 48671,
+          "time_str": "32:26",
+          "danger_value": 2,
+          "outcome": "PACKING_RECEIVE",
+          "title_ar": "أهم لقطات التمركز والاستلام [32:26]",
+          "title_en": "Key Space Reception [32:26]",
+          "desc_ar": "استلام تمريرة بين الخطوط",
+          "desc_en": "Reception between lines at minute 32:26."
+        },
+        {
+          "event_id": "evt_12_143262",
+          "period": 2,
+          "start_frame": 143202,
+          "end_frame": 143357,
+          "key_frame": 143262,
+          "time_str": "95:30",
+          "danger_value": 2,
+          "outcome": "PACKING_RECEIVE",
+          "title_ar": "أهم لقطات التمركز والاستلام [95:30]",
+          "title_en": "Key Space Reception [95:30]",
+          "desc_ar": "استلام تمريرة بين الخطوط",
+          "desc_en": "Reception between lines at minute 95:30."
+        }
+      ],
+      "defensive_lapses": [
+        {
+          "event_id": "evt_12_55431",
+          "period": 1,
+          "start_frame": 55371,
+          "end_frame": 55566,
+          "key_frame": 55431,
+          "time_str": "36:57",
+          "danger_value": 2,
+          "outcome": "SUCCESS",
+          "title_ar": "المواقف الدفاعية للاعب [36:57]",
+          "title_en": "Defensive Play [36:57]",
+          "desc_ar": "تدخل ناجح (NAN)",
+          "desc_en": "Defensive involvement at minute 36:57."
+        },
+        {
+          "event_id": "evt_12_55854",
+          "period": 1,
+          "start_frame": 55794,
+          "end_frame": 55989,
+          "key_frame": 55854,
+          "time_str": "37:14",
+          "danger_value": 2,
+          "outcome": "SUCCESS",
+          "title_ar": "المواقف الدفاعية للاعب [37:14]",
+          "title_en": "Defensive Play [37:14]",
+          "desc_ar": "تدخل ناجح (TACKLE-FAULT-WON)",
+          "desc_en": "Defensive involvement at minute 37:14."
+        },
+        {
+          "event_id": "evt_12_66209",
+          "period": 1,
+          "start_frame": 66149,
+          "end_frame": 66307,
+          "key_frame": 66209,
+          "time_str": "44:08",
+          "danger_value": 2,
+          "outcome": "SUCCESS",
+          "title_ar": "المواقف الدفاعية للاعب [44:08]",
+          "title_en": "Defensive Play [44:08]",
+          "desc_ar": "تدخل ناجح (INTERCEPTION)",
+          "desc_en": "Defensive involvement at minute 44:08."
+        }
+      ]
+    }
+  },
+  "Home_Player13": {
+    "player_id": "13",
+    "team": "Home",
+    "role": "Defender",
+    "profile_stats": {
+      "total_passes": 7,
+      "pass_accuracy_pct": 100.0,
+      "shots_total": 0,
+      "shots_on_target": 0,
+      "goals": 0,
+      "defenders_packed": 0,
+      "total_saves": 0,
+      "total_defensive_actions": 2
+    },
+    "moments_categories": {
+      "key_actions": [],
+      "best_positioning": [
+        {
+          "event_id": "evt_13_143361",
+          "period": 2,
+          "start_frame": 143301,
+          "end_frame": 143543,
+          "key_frame": 143361,
+          "time_str": "95:34",
+          "danger_value": 2,
+          "outcome": "PACKING_RECEIVE",
+          "title_ar": "أهم لقطات التمركز والاستلام [95:34]",
+          "title_en": "Key Space Reception [95:34]",
+          "desc_ar": "استلام تمريرة بين الخطوط",
+          "desc_en": "Reception between lines at minute 95:34."
+        }
+      ],
+      "defensive_lapses": [
+        {
+          "event_id": "evt_13_129912",
+          "period": 2,
+          "start_frame": 129852,
+          "end_frame": 130047,
+          "key_frame": 129912,
+          "time_str": "86:36",
+          "danger_value": 2,
+          "outcome": "SUCCESS",
+          "title_ar": "المواقف الدفاعية للاعب [86:36]",
+          "title_en": "Defensive Play [86:36]",
+          "desc_ar": "تدخل ناجح (TACKLE-LOST)",
+          "desc_en": "Defensive involvement at minute 86:36."
+        },
+        {
+          "event_id": "evt_13_139133",
+          "period": 2,
+          "start_frame": 139073,
+          "end_frame": 139268,
+          "key_frame": 139133,
+          "time_str": "92:45",
+          "danger_value": 2,
+          "outcome": "SUCCESS",
+          "title_ar": "المواقف الدفاعية للاعب [92:45]",
+          "title_en": "Defensive Play [92:45]",
+          "desc_ar": "تدخل ناجح (TACKLE-FAULT-WON)",
+          "desc_en": "Defensive involvement at minute 92:45."
+        }
+      ]
+    }
+  },
+  "Home_Player14": {
+    "player_id": "14",
+    "team": "Home",
+    "role": "Defender",
+    "profile_stats": {
+      "total_passes": 8,
+      "pass_accuracy_pct": 100.0,
+      "shots_total": 1,
+      "shots_on_target": 0,
+      "goals": 0,
+      "defenders_packed": 6,
+      "total_saves": 0,
+      "total_defensive_actions": 11
+    },
+    "moments_categories": {
+      "key_actions": [
+        {
+          "event_id": "evt_14_122727",
+          "period": 2,
+          "start_frame": 122667,
+          "end_frame": 122814,
+          "key_frame": 122727,
+          "time_str": "81:49",
+          "danger_value": 2,
+          "outcome": "PASS_KEY",
+          "title_ar": "أهم لقطات اللاعب [81:49]",
+          "title_en": "Key Player Highlight [81:49]",
+          "desc_ar": "تمريرة كاسرة لـ 2 مدافعين",
+          "desc_en": "Match highlight at minute 81:49."
+        },
+        {
+          "event_id": "evt_14_143262",
+          "period": 2,
+          "start_frame": 143202,
+          "end_frame": 143357,
+          "key_frame": 143262,
+          "time_str": "95:30",
+          "danger_value": 2,
+          "outcome": "PASS_KEY",
+          "title_ar": "أهم لقطات اللاعب [95:30]",
+          "title_en": "Key Player Highlight [95:30]",
+          "desc_ar": "تمريرة كاسرة لـ 2 مدافعين",
+          "desc_en": "Match highlight at minute 95:30."
+        },
+        {
+          "event_id": "evt_14_122923",
+          "period": 2,
+          "start_frame": 122848,
+          "end_frame": 123005,
+          "key_frame": 122923,
+          "time_str": "81:56",
+          "danger_value": 1,
+          "outcome": "OFF_TARGET",
+          "title_ar": "أهم لقطات اللاعب [81:56]",
+          "title_en": "Key Player Highlight [81:56]",
+          "desc_ar": "تسديدة من اللاعب (OFF_TARGET)",
+          "desc_en": "Match highlight at minute 81:56."
+        }
+      ],
+      "best_positioning": [
+        {
+          "event_id": "evt_14_138647",
+          "period": 2,
+          "start_frame": 138587,
+          "end_frame": 138735,
+          "key_frame": 138647,
+          "time_str": "92:25",
+          "danger_value": 2,
+          "outcome": "PACKING_RECEIVE",
+          "title_ar": "أهم لقطات التمركز والاستلام [92:25]",
+          "title_en": "Key Space Reception [92:25]",
+          "desc_ar": "استلام تمريرة بين الخطوط",
+          "desc_en": "Reception between lines at minute 92:25."
+        }
+      ],
+      "defensive_lapses": [
+        {
+          "event_id": "evt_14_122133",
+          "period": 2,
+          "start_frame": 122073,
+          "end_frame": 122268,
+          "key_frame": 122133,
+          "time_str": "81:25",
+          "danger_value": 2,
+          "outcome": "SUCCESS",
+          "title_ar": "المواقف الدفاعية للاعب [81:25]",
+          "title_en": "Defensive Play [81:25]",
+          "desc_ar": "تدخل ناجح (INTERCEPTION)",
+          "desc_en": "Defensive involvement at minute 81:25."
+        },
+        {
+          "event_id": "evt_14_122148",
+          "period": 2,
+          "start_frame": 122088,
+          "end_frame": 122232,
+          "key_frame": 122148,
+          "time_str": "81:25",
+          "danger_value": 2,
+          "outcome": "SUCCESS",
+          "title_ar": "المواقف الدفاعية للاعب [81:25]",
+          "title_en": "Defensive Play [81:25]",
+          "desc_ar": "تدخل ناجح (INTERCEPTION)",
+          "desc_en": "Defensive involvement at minute 81:25."
+        },
+        {
+          "event_id": "evt_14_123879",
+          "period": 2,
+          "start_frame": 123819,
+          "end_frame": 124004,
+          "key_frame": 123879,
+          "time_str": "82:35",
+          "danger_value": 2,
+          "outcome": "SUCCESS",
+          "title_ar": "المواقف الدفاعية للاعب [82:35]",
+          "title_en": "Defensive Play [82:35]",
+          "desc_ar": "تدخل ناجح (INTERCEPTION)",
+          "desc_en": "Defensive involvement at minute 82:35."
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,338 @@
+{
+  "frame_2289": {
+    "start_frame": 2289,
+    "period": 1,
+    "time_str": "01:31",
+    "time_seconds": 91.56,
+    "team": "Home",
+    "player": "Player9",
+    "danger_category": "Goal Scored",
+    "danger_value": 10.0,
+    "outcome_type": "GOAL",
+    "tactical_analysis": {
+      "analysis_ar": "هجمة سريعة ومباشرة استغرقت 7.64 ثانية فقط، بدأت بتمريرة من اللاعب 6 إلى اللاعب 10، الذي مرر الكرة مباشرة إلى اللاعب 9. سجل اللاعب 9 الهدف دون الحاجة إلى كسر خطوط دفاعية معقدة، مما يعكس سرعة في اتخاذ القرار ودقة في التمرير الأخير.",
+      "analysis_en": "A rapid and direct attack lasting only 7.64 seconds, initiated by a pass from Player6 to Player10, who then delivered the ball directly to Player9. Player9 scored the goal without requiring complex line-breaking, reflecting quick decision-making and precise final passing.",
+      "defensive_structure_ar": "لم يتم تجاوز أي خطوط دفاعية في هذه الهجمة، مما يشير إلى أن الخصم لم يكن في حالة ضغط دفاعي عالٍ أو أن الهجمة استغلت فراغاً مباشراً أمام المرمى دون اختراق عميق.",
+      "defensive_structure_en": "No defensive lines were bypassed in this attack, suggesting the opponent was not under high defensive pressure or that the attack exploited a direct space in front of the goal without deep penetration.",
+      "corridor_evaluation_ar": "لا يوجد ممر مستغل لكسر الخطوط في هذه التسلسل، حيث كانت الهجمة تعتمد على التمرير المباشر داخل المنطقة الأمامية دون اختراق دفاعي متعدد الطبقات.",
+      "corridor_evaluation_en": "No corridor was exploited for line-breaking in this sequence, as the attack relied on direct passing within the forward area without multi-layered defensive penetration.",
+      "tactical_value_ar": "القيمة التكتيكية تكمن في السرعة والكفاءة في تحويل الهجمة إلى هدف خلال ثوانٍ معدودة، مما يمنع الخصم من إعادة تنظيم دفاعه ويخلق فرصة تسجيل سهلة.",
+      "tactical_value_en": "The tactical value lies in the speed and efficiency of converting the attack into a goal within seconds, preventing the opponent from reorganizing their defense and creating an easy scoring opportunity."
+    }
+  },
+  "frame_9628": {
+    "start_frame": 9628,
+    "period": 1,
+    "time_str": "06:25",
+    "time_seconds": 385.12,
+    "team": "Home",
+    "player": "Player8",
+    "danger_category": "Big Chance Saved",
+    "danger_value": 8.0,
+    "outcome_type": "SAVED",
+    "tactical_analysis": {
+      "analysis_ar": "بدأت الهجمة من استعادة الكرة بواسطة اللاعب 6، الذي مررها مباشرة إلى اللاعب 10. قام اللاعب 10 بتسليم الكرة للاعب 8 الذي سدد كرة قوية نحو المرمى. نجح حارس المرمى في التصدي للكرة، مما أفسد فرصة تسجيل هدف محقق في الدقيقة 6:25.",
+      "analysis_en": "The attack initiated with a recovery by Player6, who passed to Player10. Player10 delivered the ball to Player8, who took a powerful shot at goal. The goalkeeper successfully saved the shot, denying a clear goal-scoring opportunity in the 6th minute.",
+      "defensive_structure_ar": "اعتمد الدفاع على الضغط المبكر لاستعادة الكرة، لكنهم فشلوا في منع بناء الهجمة عبر التمريرات القصيرة. لم يتمكن المدافعون من اعتراض مسار الكرة نحو المهاجم، مما سمح بوصول الكرة إلى منطقة التسديد.",
+      "defensive_structure_en": "The defense relied on early pressure to regain possession but failed to disrupt the short passing build-up. Defenders were unable to intercept the ball's path to the attacker, allowing the sequence to reach the shooting zone.",
+      "corridor_evaluation_ar": "لم يتم استخدام أي تمريرة كاسرة للخطوط في هذه التسلسل. اعتمد الفريق على التمريرات الأفقية أو القصيرة داخل نفس المنطقة لبناء الهجمة وصولاً إلى فرصة التسديد.",
+      "corridor_evaluation_en": "No line-breaking pass was utilized in this sequence. The team relied on short or horizontal passes within the same zone to build the attack up to the shooting opportunity.",
+      "tactical_value_ar": "أظهرت الهجمة قدرة الفريق على تحويل الاستحواذ السريع إلى فرصة تهديفية مباشرة. رغم التصدّي، فإن الوصول إلى منطقة التسديد يوضح فعالية التمريرات القصيرة في خلق المساحات أمام المرمى.",
+      "tactical_value_en": "The attack demonstrated the team's ability to convert quick possession into a direct scoring chance. Despite the save, reaching the shooting zone highlights the effectiveness of short passes in creating space in front of the goal."
+    }
+  },
+  "frame_18252": {
+    "start_frame": 18252,
+    "period": 1,
+    "time_str": "12:10",
+    "time_seconds": 730.08,
+    "team": "Home",
+    "player": "Player3",
+    "danger_category": "Line-Breaking Pass",
+    "danger_value": 3.0,
+    "outcome_type": "OFF_TARGET",
+    "tactical_analysis": {
+      "analysis_ar": "بدأت الهجمة بتمريرتين متتاليتين من اللاعب 6 إلى اللاعب 3، الذي نفذ تمريرة كاسرة للخطوط نحو اللاعب 8. رغم تجاوز ثلاثة مدافعين داخل الممر، انتهى الأمر بكرة خارج المرمى. السرعة العالية للهجمة (4.92 ثانية) لم تمنح المهاجم وقتاً كافياً لضبط التسديدة بدقة.",
+      "analysis_en": "The attack initiated with two quick passes from Player6 to Player3, who delivered a line-breaking pass to Player8. Although three defenders were bypassed within the corridor, the final shot went off target. The rapid sequence (4.92s) likely limited the striker's time to adjust his shot placement.",
+      "defensive_structure_ar": "اعتمد الخصم على ضغط دفاعي مكثف داخل الممر المستهدف، حيث تمركز ثلاثة مدافعين في مسار التمريرة الحاسمة. رغم هذا الضغط، فشلوا في اعتراض الكرة، مما يعكس ثغرة في تغطية المساحات بين خطوط الدفاع.",
+      "defensive_structure_en": "The opponent applied intense defensive pressure within the targeted corridor, positioning three defenders in the passing lane. Despite this pressure, they failed to intercept the ball, indicating a gap in their defensive coverage between lines.",
+      "corridor_evaluation_ar": "استغل اللاعب 3 ممرًا دفاعيًا واضحًا لتمرير الكرة بين ثلاثة مدافعين. كان التمريرة دقيقة في تجاوز الخطوط، لكن النتيجة النهائية (خارج المرمى) تشير إلى أن الكسر التكتيكي لم يتحول إلى تهديد حقيقي على المرمى.",
+      "corridor_evaluation_en": "Player3 exploited a clear defensive corridor to pass the ball between three defenders. The pass was precise in breaking the lines, but the off-target outcome suggests the tactical break did not translate into a genuine goal threat.",
+      "tactical_value_ar": "أظهرت الهجمة قدرة الفريق على اختراق الدفاعات العميقة بسرعة، لكن القيمة التكتيكية انخفضت بسبب عدم دقة التسديدة النهائية. يجب تحسين التوقيت أو اختيار الزاوية لتحويل هذه الفرص إلى أهداف.",
+      "tactical_value_en": "The sequence demonstrated the team's ability to penetrate deep defenses quickly, but the tactical value was diminished by the inaccurate final shot. Improving timing or shot selection is essential to convert such opportunities into goals."
+    }
+  },
+  "frame_26590": {
+    "start_frame": 26590,
+    "period": 1,
+    "time_str": "17:43",
+    "time_seconds": 1063.6,
+    "team": "Home",
+    "player": "Player10",
+    "danger_category": "Line-Breaking Pass",
+    "danger_value": 4.0,
+    "outcome_type": "OFF_TARGET",
+    "tactical_analysis": {
+      "analysis_ar": "بدأت الهجمة بتمريرة من اللاعب 6 إلى اللاعب 10، الذي نفّذ تمريرة كاسرة للخطوط بدقة نحو اللاعب 8. رغم أن التمريرة تجاوزت أربعة مدافعين داخل الممر، إلا أن التسديدة النهائية من اللاعب 8 خرجت خارج المرمى. استغرقت التسلسل الهجومي 4.68 ثانية فقط، مما يعكس سرعة في اتخاذ القرار رغم عدم تحقيق النتيجة المرجوة.",
+      "analysis_en": "The attack initiated with a pass from Player6 to Player10, who delivered a precise line-breaking pass to Player8. Although the pass successfully bypassed four defenders within the corridor, Player8's subsequent shot went off target. The sequence lasted 4.68 seconds, indicating rapid decision-making despite the missed opportunity.",
+      "defensive_structure_ar": "اعتمد الخصم على ضغط دفاعي مكثف داخل الممر المستهدف، حيث تمركز أربعة مدافعين في مسار التمريرة. رغم هذا الضغط، نجح اللاعب 10 في اختراق هذه البنية الدفاعية عبر تمريرة بينية، مما يكشف عن ثغرة في التنسيق الدفاعي بين خطوط الخصم.",
+      "defensive_structure_en": "The opponent employed intense defensive pressure within the targeted corridor, with four defenders positioned in the passing lane. Despite this pressure, Player10 successfully penetrated this defensive structure via a through ball, revealing a gap in the opponent's defensive coordination between lines.",
+      "corridor_evaluation_ar": "استُغل الممر بين خطوط الدفاع بفعالية عالية، حيث تجاوزت التمريرة من اللاعب 10 إلى اللاعب 8 أربعة مدافعين. هذا الكسر للخطوط خلق مساحة هجومية مؤقتة، لكن عدم دقة التسديدة النهائية أهدر الفرصة الناتجة عن هذا الاختراق التكتيكي.",
+      "corridor_evaluation_en": "The corridor between defensive lines was effectively exploited, as the pass from Player10 to Player8 bypassed four defenders. This line-breaking created temporary attacking space, but the inaccuracy of the final shot wasted the opportunity generated by this tactical penetration.",
+      "tactical_value_ar": "أظهرت الهجمة قدرة الفريق على اختراق الدفاعات العميقة عبر التمريرات الكاسرة، مما يهدد بنية الخصم الدفاعية. رغم عدم تسجيل الهدف، فإن تجاوز أربعة مدافين يضيف قيمة تكتيكية كبيرة من خلال خلق فرص تهديفية عالية الجودة وضغط مستمر على الدفاع.",
+      "tactical_value_en": "The attack demonstrated the team's ability to penetrate deep defenses through line-breaking passes, threatening the opponent's defensive structure. Despite no goal being scored, bypassing four defenders adds significant tactical value by creating high-quality scoring chances and maintaining sustained pressure on the defense."
+    }
+  },
+  "frame_19470": {
+    "start_frame": 19470,
+    "period": 1,
+    "time_str": "12:58",
+    "time_seconds": 778.8,
+    "team": "Away",
+    "player": "Player24",
+    "danger_category": "Big Chance Saved",
+    "danger_value": 8.0,
+    "outcome_type": "SAVED",
+    "tactical_analysis": {
+      "analysis_ar": "بدأت الهجمة من استعادة الكرة بواسطة اللاعب 19، الذي قاد سلسلة تمريرات قصيرة ومتسلسلة عبر اللاعبين 18 و20 و23. استغرقت العملية 15.68 ثانية، مما يشير إلى بناء هجومي هادف يعتمد على التحرك الجماعي بدلاً من السرعة الفردية. انتهى الأمر بتسديدة من اللاعب 24، لكن حارس المرمى نجح في التصدي لها، مما أهدر فرصة كبيرة.",
+      "analysis_en": "The attack originated from a recovery by Player19, who initiated a short-passing sequence involving Players 18, 20, and 23. The 15.68-second duration suggests a deliberate, collective build-up rather than rapid individual transitions. The sequence culminated in a shot by Player24, which was successfully saved by the goalkeeper, resulting in a missed big chance.",
+      "defensive_structure_ar": "لم يتم ذكر تفاصيل محددة عن الهيكل الدفاعي للخصم في البيانات المقدمة. ومع ذلك، نجاح حارس المرمى في التصدي للتسيدة النهائية يدل على أن الدفاع نجح في احتواء التقدم حتى اللحظة الأخيرة، حيث لم يتمكن المهاجمون من تجاوز الخط الدفاعي الأخير بسهولة قبل التسديدة.",
+      "defensive_structure_en": "Specific details regarding the opponent's defensive structure are not provided in the data. However, the goalkeeper's successful save indicates that the defense contained the advance until the final moment, preventing the attackers from easily bypassing the last line of defense before the shot.",
+      "corridor_evaluation_ar": "لا يوجد كسر للخطوط في هذه التسلسل، حيث اعتمد الفريق على التمريرات القصيرة المتتالية دون تمريرة حاسمة تخترق الدفاع. الممر المستغل كان ضمن نطاق التمريرات القصيرة بين اللاعبين المذكورين، مما حافظ على الاستحواذ حتى وصول الكرة إلى اللاعب 24 للتسديدة.",
+      "corridor_evaluation_en": "No line-breaking pass occurred in this sequence, as the team relied on consecutive short passes without a decisive through-ball. The utilized corridor was within the range of short passes between the mentioned players, maintaining possession until the ball reached Player24 for the shot.",
+      "tactical_value_ar": "القيمة التكتيكية تكمن في القدرة على بناء هجمة منظمة من الاستحواذ حتى التسديدة، رغم عدم تحقيق الهدف. أظهر الفريق تماسكاً في التمرير القصير، لكن غياب الكسر الدفاعي جعل التسديدة عرضة للتصدي من الحارس.",
+      "tactical_value_en": "The tactical value lies in the ability to construct an organized attack from possession to shot, despite not scoring. The team demonstrated cohesion in short passing, but the lack of defensive line-breaking made the shot susceptible to a goalkeeper save."
+    }
+  },
+  "frame_45835": {
+    "start_frame": 45835,
+    "period": 1,
+    "time_str": "30:33",
+    "time_seconds": 1833.4,
+    "team": "Home",
+    "player": "Player2",
+    "danger_category": "Line-Breaking Pass",
+    "danger_value": 3.0,
+    "outcome_type": "OUT",
+    "tactical_analysis": {
+      "analysis_ar": "نفذ اللاعب 2 تمريرة كاسرة للخطوط من منطقة دفاعية منخفضة نحو اللاعب 9، متجاوزاً ثلاثة مدافعين داخل الممر المستهدف. رغم دقة التمريرة التكتيكية، انتهت الهجمة بخروج الكرة من الملعب (OUT) بعد استرجاع اللاعب 16 للكرة، مما يشير إلى فشل في استغلال الفرصة الهجومية الناتجة عن الكسر.",
+      "analysis_en": "Player 2 executed a line-breaking pass from a low defensive zone to Player 9, bypassing three defenders within the target corridor. Despite the tactical precision of the pass, the sequence ended with the ball going out of play (OUT) after Player 16 recovered possession, indicating a failure to capitalize on the created attacking opportunity.",
+      "defensive_structure_ar": "اعتمد الخصم على ضغط دفاعي مكثف داخل الممر، حيث تمركز ثلاثة مدافعين بشكل يمنع التقدم المباشر. نجح الفريق المضيف في اختراق هذا الهيكل الدفاعي مؤقتاً عبر التمريرة الكاسرة، لكن عدم القدرة على الحفاظ على الاستحواذ بعد الكسر كشف عن هشاشة في إنهاء الهجمة.",
+      "defensive_structure_en": "The opponent relied on intense defensive pressure within the corridor, positioning three defenders to block direct progression. The home team temporarily breached this defensive structure via the line-breaking pass, but the inability to retain possession after the break highlighted a vulnerability in finishing the attack.",
+      "corridor_evaluation_ar": "استُغل الممر بين خطوط الدفاع بفعالية عالية عبر تمريرة طولية دقيقة من الإحداثيات (38.9, 8.8) إلى (78.8, 9.5). تجاوزت الكرة ثلاثة مدافعين، مما يثبت وجود ثغرة تكتيكية في تنظيم الخصم الدفاعي، لكن النتيجة النهائية (خروج الكرة) تعكس عدم اكتمال عملية استغلال الممر.",
+      "corridor_evaluation_en": "The corridor between defensive lines was effectively exploited via a precise long pass from coordinates (38.9, 8.8) to (78.8, 9.5). The ball bypassed three defenders, proving a tactical gap in the opponent's defensive organization, though the final outcome (ball out) reflects an incomplete exploitation of the corridor.",
+      "tactical_value_ar": "أضافت الهجمة قيمة تكتيكية عالية من خلال كسر التوازن الدفاعي للخصم وإجباره على إعادة تنظيم صفوفه. رغم عدم تحقيق هدف أو تسديدة، فإن خلق مساحة أمامية واسعة عبر تجاوز ثلاثة مدافعين يمثل مكسباً هجوميًا استراتيجياً يمكن البناء عليه في الهجمات اللاحقة.",
+      "tactical_value_en": "The attack added high tactical value by breaking the opponent's defensive balance and forcing them to reorganize. Although no goal or shot was achieved, creating significant front space by bypassing three defenders represents a strategic offensive gain that can be built upon in subsequent attacks."
+    }
+  },
+  "frame_53695": {
+    "start_frame": 53695,
+    "period": 1,
+    "time_str": "35:47",
+    "time_seconds": 2147.8,
+    "team": "Home",
+    "player": "Player8",
+    "danger_category": "Big Chance Saved",
+    "danger_value": 8.0,
+    "outcome_type": "SAVED",
+    "tactical_analysis": {
+      "analysis_ar": "بدأت الهجمة بسلسلة تمريرات قصيرة ومتواصلة استمرت 16.4 ثانية، حيث تبادل اللاعبون الكرة بذكاء لتجاوز الضغط الدفاعي. عاد اللاعب 8 بالكرة بعد تمريرتين، ثم مررها للاعب 6 الذي أعادها له مجدداً في منطقة الجزاء. سدد اللاعب 8 كرة قوية من مسافة قريبة، لكن حارس المرمى تصدى لها ببراعة، مما حرم الفريق من هدف محقق.",
+      "analysis_en": "The attack began with a sustained short-passing sequence lasting 16.4 seconds, using quick exchanges to bypass defensive pressure. Player 8 received the ball back after two passes, then passed to Player 6 who returned it to him in the penalty area. Player 8 fired a powerful shot from close range, but the goalkeeper made a crucial save, denying the team a clear goal.",
+      "defensive_structure_ar": "اعتمد الخصم على الضغط المبكر لتعطيل التمريرات الأولى، لكنهم فشلوا في استخلاص الكرة خلال السلسلة الطويلة. رغم ذلك، نجح حارس المرمى في قراءة اتجاه التسديدة النهائية والتدخل في اللحظة المناسبة لإيقاف الخطر.",
+      "defensive_structure_en": "The opponent relied on early pressing to disrupt initial passes but failed to win possession during the long sequence. However, the goalkeeper successfully read the final shot's trajectory and intervened at the right moment to stop the threat.",
+      "corridor_evaluation_ar": "لم تتضمن الهجمة أي تمريرة كاسرة للخطوط، بل اعتمدت على التمريرات الأفقية والقصيرة داخل منطقة الجزاء. استغل الفريق الممرات المفتوحة بين المدافعين لتبادل الكرة حتى وصولها للمهاجم في وضعية مثالية للتسديد.",
+      "corridor_evaluation_en": "The attack did not include any line-breaking passes, relying instead on horizontal and short passes within the penalty area. The team exploited open corridors between defenders to exchange the ball until it reached the striker in an ideal shooting position.",
+      "tactical_value_ar": "أظهرت الهجمة قدرة عالية على الاحتفاظ بالكرة تحت الضغط، مما خلق فرصاً متعددة للتسديد. القيمة التكتيكية تكمن في إرهاق الدفاع وإجباره على ارتكاب أخطاء، رغم أن النتيجة النهائية كانت تصدياً للحارس.",
+      "tactical_value_en": "The attack demonstrated high ball retention under pressure, creating multiple shooting opportunities. The tactical value lies in tiring the defense and forcing errors, despite the final outcome being a goalkeeper save."
+    }
+  },
+  "frame_67502": {
+    "start_frame": 67502,
+    "period": 1,
+    "time_str": "45:00",
+    "time_seconds": 2700.08,
+    "team": "Home",
+    "player": "Player9",
+    "danger_category": "Big Chance Saved",
+    "danger_value": 8.0,
+    "outcome_type": "SAVED",
+    "tactical_analysis": {
+      "analysis_ar": "بدأت الهجمة من استخلاص الكرة بواسطة اللاعب 4، الذي مررها مباشرة إلى اللاعب 8. قام اللاعب 8 بتسليم الكرة للاعب 9 الذي سدد مباشرة نحو المرمى. انتهت المحاولة بحصول حارس المرمى على الكرة، مما أوقف الخطر الهجومي في الدقيقة 45.",
+      "analysis_en": "The attack initiated with a recovery by Player4, who passed to Player8. Player8 delivered the ball to Player9, who attempted a direct shot. The goalkeeper successfully saved the attempt, neutralizing the threat at the 45-minute mark.",
+      "defensive_structure_ar": "أظهرت الدفاعات قدرة على إعادة الكرة إلى حارس المرمى، حيث نجح الحارس في التصدي المباشر للكرة. لم تُذكر تفاصيل عن عدد المدافعين المتجاوزين، مما يشير إلى أن التصدي جاء من مسافة قريبة أو مباشرة أمام المرمى.",
+      "defensive_structure_en": "The defense managed to return possession to the goalkeeper, who made a direct save. No specific number of bypassed defenders is noted, suggesting the save occurred from a close range or directly in front of the goal.",
+      "corridor_evaluation_ar": "لم يتضمن التسلسل الهجومي أي تمريرة كاسرة للخطوط. اعتمدت الهجمة على تمريرتين متتاليتين (4 ثم 8) لتصل إلى المهاجم 9، مما يشير إلى هجمة سريعة دون اختراق عميق للخطوط الدفاعية قبل التسديد.",
+      "corridor_evaluation_en": "The sequence did not include a line-breaking pass. The attack relied on two consecutive passes (from 4 to 8) to reach striker 9, indicating a quick transition without deep penetration of defensive lines before the shot.",
+      "tactical_value_ar": "أحدثت الهجمة فرصة كبيرة (Big Chance) رغم عدم تسجيل الهدف. القيمة التكتيكية تكمن في سرعة البناء من الاستخلاص إلى التسديد خلال أقل من 13 ثانية، مما خلق ضغطاً مباشراً على حارس المرمى.",
+      "tactical_value_en": "The attack generated a Big Chance despite not resulting in a goal. The tactical value lies in the rapid build-up from recovery to shot in under 13 seconds, creating direct pressure on the goalkeeper."
+    }
+  },
+  "frame_75262": {
+    "start_frame": 75262,
+    "period": 2,
+    "time_str": "50:10",
+    "time_seconds": 3010.48,
+    "team": "Away",
+    "player": "Player19",
+    "danger_category": "Big Chance Saved",
+    "danger_value": 8.0,
+    "outcome_type": "SAVED",
+    "tactical_analysis": {
+      "analysis_ar": "بدأت الهجمة عبر سلسلة تمريرات قصيرة ومتبادلة بين لاعب 15 ولاعب 19، حيث تولى لاعب 19 دور المحور الرئيسي بتلقي الكرة مرتين قبل التمرير إلى لاعب 17 ثم لاعب 23. عاد اللاعب 19 لاستلام الكرة مرة ثالثة ليطلق تسديدة قوية نحو المرمى. استمرت العملية الهجومية لمدة 14 ثانية، مما يعكس صبراً تكتيكياً في بناء اللعب قبل محاولة الاختراق النهائي.",
+      "analysis_en": "The attack initiated with short interchanges between Player15 and Player19, who acted as the central hub receiving the ball twice before passing to Player17 and then Player23. Player19 regained possession for a third time to deliver a powerful shot on goal. The 14-second sequence demonstrates tactical patience in build-up play before the final attempt to penetrate the defense.",
+      "defensive_structure_ar": "أظهر هيكل الخصم الدفاعي قدرة جيدة على إبطاء الإيقاع، حيث نجح في احتواء التمريرات القصيرة دون ارتكاب أخطاء فادحة. رغم وصول الكرة إلى منطقة التسديد، إلا أن الحارس كان في وضع مثالي للتدخل، مما يشير إلى تماسك دفاعي جيد في منطقة الجزاء.",
+      "defensive_structure_en": "The opponent's defensive structure effectively slowed the tempo, containing the short passes without committing major errors. Although the ball reached shooting range, the goalkeeper was in an optimal position to intervene, indicating solid defensive cohesion within the penalty area.",
+      "corridor_evaluation_ar": "لم تتضمن هذه الهجمة أي تمريرة كاسرة للخطوط، حيث اعتمد الفريق على التمريرات الأفقية والقصيرة داخل نفس المنطقة. لم يتم استغلال أي ممر عملي واضح لكسر دفاع الخصم، مما أدى إلى الاعتماد على التسديدة المباشرة كحل وحيد.",
+      "corridor_evaluation_en": "This sequence did not include any line-breaking passes, relying instead on horizontal and short passes within the same zone. No clear corridor was exploited to break the opponent's defense, leading to a direct shot as the sole solution.",
+      "tactical_value_ar": "القيمة التكتيكية تكمن في خلق فرصة كبيرة (Big Chance) من خلال التحرك الذكي للاعب 19 الذي استغل الفراغات بين المدافعين. رغم أن النتيجة كانت تصدياً من الحارس، إلا أن الضغط المستمر والتسديدة القوية وضعا ضغطاً نفسياً ودفاعياً كبيراً على الخصم.",
+      "tactical_value_en": "The tactical value lies in creating a Big Chance through Player19's intelligent movement exploiting gaps between defenders. Although the outcome was a save, the sustained pressure and powerful shot placed significant psychological and defensive pressure on the opponent."
+    }
+  },
+  "frame_86703": {
+    "start_frame": 86703,
+    "period": 2,
+    "time_str": "57:48",
+    "time_seconds": 3468.12,
+    "team": "Away",
+    "player": "Player21",
+    "danger_category": "Line-Breaking Pass",
+    "danger_value": 3.0,
+    "outcome_type": "OUT",
+    "tactical_analysis": {
+      "analysis_ar": "في الدقيقة 57:48، شنّ الفريق الضيف هجمة منظمة عبر سلسلة تمريرات بين اللاعب 21 واللاعب 22. سعى اللاعب 21 لكسر الخطوط الدفاعية بتمريرة حاسمة نحو اللاعب 17، لكن الكرة خرجت من الملعب (OUT) قبل استكمال الهجمة. انتهت المحاولة بفقدان السيطرة على الكرة لصالح الخصم (اللاعب 3) بعد خروج الكرة، مما يعكس صعوبة اختراق الدفاع في تلك اللحظة.",
+      "analysis_en": "At 57:48, the away team orchestrated a sequence involving Player21 and Player22. Player21 attempted a critical line-breaking pass to Player17, but the ball went out of play (OUT). The attack concluded with a turnover as the opponent (Player3) recovered possession after the ball exited the field, indicating a failed penetration attempt.",
+      "defensive_structure_ar": "أظهر هيكل الخصم الدفاعي صلابة عالية، حيث نجح في إجبار الفريق الضيف على فقدان الكرة بعد محاولة الاختراق. لم يُذكر وجود فراغات واضحة استُغلت بنجاح، مما يشير إلى ضغط دفاعي منظم أعاق تقدم الهجمة.",
+      "defensive_structure_en": "The opponent's defensive structure displayed high solidity, forcing the away team to lose possession after the penetration attempt. No clear gaps were successfully exploited, suggesting organized defensive pressure that hindered the attack's progression.",
+      "corridor_evaluation_ar": "استهدف اللاعب 21 ممرًا بين ثلاثة مدافعين بتمريرة من الإحداثيات (72.4, 46.2) إلى (87.1, 3.4). رغم أن التمريرة تجاوزت ثلاثة مدافعين نظريًا، إلا أن النتيجة كانت خروج الكرة، مما يدل على أن الممر لم يكن آمنًا أو أن التمريرة كانت غير دقيقة في التنفيذ النهائي.",
+      "corridor_evaluation_en": "Player21 targeted a corridor between three defenders with a pass from coordinates (72.4, 46.2) to (87.1, 3.4). Although the pass theoretically bypassed three defenders, the outcome was the ball going out of play, indicating the corridor was not secure or the final execution was inaccurate.",
+      "tactical_value_ar": "القيمة التكتيكية للهجمة محدودة بسبب خروج الكرة وفقدان الاستحواذ. ومع ذلك، حاول الفريق الضيف خلق فرص من العمق عبر كسر الخطوط، مما يعكس نية هجومية واضحة رغم عدم تحقيق النتيجة المرجوة.",
+      "tactical_value_en": "The tactical value of the attack is limited due to the ball going out of play and the loss of possession. However, the away team attempted to create chances from depth by breaking lines, reflecting a clear offensive intent despite the unachieved result."
+    }
+  },
+  "frame_90005": {
+    "start_frame": 90005,
+    "period": 2,
+    "time_str": "60:00",
+    "time_seconds": 3600.2,
+    "team": "Home",
+    "player": "Player10",
+    "danger_category": "Goal Scored",
+    "danger_value": 10.0,
+    "outcome_type": "GOAL",
+    "tactical_analysis": {
+      "analysis_ar": "بدأت الهجمة من استعادة الكرة بواسطة اللاعب 5، الذي تبادل تمريرتين سريعين مع اللاعب 10 في منطقة وسط الملعب. هذا التبادل السريع خلق فوضى دفاعية وسمح للاعب 10 بالوصول إلى الكرة في وضعية مريحة. النتيجة كانت هدفًا مباشرًا بعد 7 ثوانٍ فقط، مما يعكس كفاءة عالية في إنهاء الهجمة من خلال التمريرات القصيرة المتبادلة.",
+      "analysis_en": "The attack initiated with a ball recovery by Player5, followed by a rapid two-pass exchange with Player10. This quick combination disrupted the defensive shape, allowing Player10 to receive the ball in a favorable position. The sequence resulted in a direct goal within 7 seconds, highlighting efficient finishing through short, interlocking passes.",
+      "defensive_structure_ar": "أظهر هيكل الخصم الدفاعي تأخرًا في الاستجابة لسرعة تبادل التمريرات بين اللاعبين 5 و10. لم يتمكن المدافعون من إغلاق المساحات أو قطع التمريرات، مما سمح بالوصول إلى منطقة المرمى دون ضغط كافٍ على حامل الكرة.",
+      "defensive_structure_en": "The opponent's defensive structure showed a delayed reaction to the rapid pass exchange between Player5 and Player10. Defenders failed to close down spaces or intercept the passes, allowing the attackers to reach the final third without adequate pressure on the ball carrier.",
+      "corridor_evaluation_ar": "لم يتم تسجيل تمريرة كاسرة للخطوط في هذه التسلسل، حيث اعتمدت الهجمة على التمريرات الأفقية والقصيرة داخل نفس المنطقة. تم استغلال الفراغ الناتج عن التبادل السريع بين اللاعبين بدلاً من اختراق العمق بتمريرة طويلة.",
+      "corridor_evaluation_en": "No line-breaking pass was recorded in this sequence, as the attack relied on horizontal and short passes within the same zone. The space created by the rapid exchange between players was exploited rather than breaking depth with a long pass.",
+      "tactical_value_ar": "القيمة التكتيكية تكمن في سرعة تحويل الاستحواذ إلى هدف عبر التمريرات القصيرة الدقيقة. هذا النمط يوضح قدرة الفريق على خلق فرص من خلال الحركة بدون كرة والتبادل السريع، مما يقلل من وقت استجابة الدفاع.",
+      "tactical_value_en": "The tactical value lies in the rapid conversion of possession into a goal via precise short passes. This pattern demonstrates the team's ability to create chances through off-the-ball movement and quick exchanges, reducing the defense's reaction time."
+    }
+  },
+  "frame_98958": {
+    "start_frame": 98958,
+    "period": 2,
+    "time_str": "65:58",
+    "time_seconds": 3958.32,
+    "team": "Home",
+    "player": "Player4",
+    "danger_category": "Line-Breaking Pass",
+    "danger_value": 5.0,
+    "outcome_type": "GOAL",
+    "tactical_analysis": {
+      "analysis_ar": "بدأت الهجمة من استعادة الكرة بواسطة اللاعب 8، الذي مررها للاعب 4. قام اللاعب 4 بتنفيذ تمريرة حاسمة كاسرة للخطوط باتجاه اللاعب 5، مما أدى إلى استخلاص الكرة من قبل اللاعب 25 ثم اللاعب 9. أنهى اللاعب 9 الهجمة بتسجيل هدف حاسم في الدقيقة 65:58، مستغلاً الفوضى الدفاعية الناتجة عن كسر التغطية.",
+      "analysis_en": "The attack initiated with a recovery by Player8, who passed to Player4. Player4 executed a decisive line-breaking pass to Player5, leading to a recovery by Player25 and subsequently Player9. Player9 finished the sequence with a goal in the 65:58 minute, capitalizing on the defensive disorganization caused by the broken coverage.",
+      "defensive_structure_ar": "أظهر هيكل الخصم الدفاعي ثغرة كبيرة حيث تم تجاوز خمسة مدافعين داخل الممر المستهدف. فشل الدفاع في إعادة التمركز السريع بعد الاستحواذ الأولي، مما سمح بخلق مساحة كافية لتنفيذ التمريرة الحاسمة دون ضغط فعال.",
+      "defensive_structure_en": "The opponent's defensive structure exhibited a significant gap, as five defenders were bypassed within the target corridor. The defense failed to reorganize quickly after the initial possession, allowing sufficient space for the decisive pass to be executed without effective pressure.",
+      "corridor_evaluation_ar": "استُغل الممر بين خطوط الدفاع بفعالية عالية عبر تمريرة اللاعب 4 إلى اللاعب 5. هذه التمريرة كسرت توازن الخصم وأجبرت المدافعين الخمسة على فقدان مراكزهم، مما فتح الطريق أمام استخلاص الكرة النهائي وتسجيل الهدف.",
+      "corridor_evaluation_en": "The corridor between defensive lines was effectively exploited via the pass from Player4 to Player5. This pass broke the opponent's balance and forced the five defenders to lose their positions, opening the path for the final recovery and goal.",
+      "tactical_value_ar": "تتمثل القيمة التكتيكية في القدرة على تحويل الاستحواذ الدفاعي إلى فرصة هجومية مباشرة خلال ثوانٍ. كسر الخطوط عبر الممر الجانبي خلق تفوقاً عددياً وفضائياً حاسماً، مما أدى إلى هدف مؤكد رغم التعقيد في سلسلة الاستحواذ.",
+      "tactical_value_en": "The tactical value lies in converting defensive possession into a direct attacking opportunity within seconds. Breaking the lines via the side corridor created a decisive numerical and spatial advantage, leading to a confirmed goal despite the complexity in the possession chain."
+    }
+  },
+  "frame_108611": {
+    "start_frame": 108611,
+    "period": 2,
+    "time_str": "72:24",
+    "time_seconds": 4344.44,
+    "team": "Away",
+    "player": "Player27",
+    "danger_category": "Big Chance Saved",
+    "danger_value": 8.0,
+    "outcome_type": "SAVED",
+    "tactical_analysis": {
+      "analysis_ar": "بدأت الهجمة عبر تمريرة من اللاعب 27 إلى اللاعب 20، ثم انتقلت الكرة إلى اللاعب 19 الذي أعادها إلى اللاعب 27. بعد سلسلة من التمريرات القصيرة التي استمرت 16 ثانية، أطلق اللاعب 27 تسديدة قوية نحو المرمى. نجح حارس المرمى في التصدي للتسديدة، مما أهدر فرصة كبيرة للفريق الضيف في الدقيقة 72 من الشوط الثاني.",
+      "analysis_en": "The attack initiated with a pass from Player27 to Player20, followed by a pass to Player19, who returned the ball to Player27. After a 16-second sequence of short passes, Player27 delivered a powerful shot. The goalkeeper successfully saved the attempt, denying the away team a significant chance in the 72nd minute of the second period.",
+      "defensive_structure_ar": "أظهر الدفاع قدرة جيدة على إبطاء وتشتيت إيقاع الهجوم من خلال الضغط على حامل الكرة. نجح المدافعون في منع اختراق خطوطهم الدفاعية، مما أجبر المهاجمين على الاعتماد على التمريرات الجانبية والقصيرة بدلاً من التمريرات العمودية الكاسرة للخطوط.",
+      "defensive_structure_en": "The defense demonstrated effective ability to slow down and disrupt the attacking rhythm by pressing the ball carrier. Defenders successfully prevented line-breaking penetration, forcing attackers to rely on lateral and short passes rather than vertical through-balls.",
+      "corridor_evaluation_ar": "لم تتضمن هذه الهجمة أي تمريرة كاسرة للخطوط، حيث اعتمد الفريق على التمريرات الأفقية والقصيرة داخل منطقة الوسط. لم يتم استغلال أي ممر عمودي واضح، مما أدى إلى بقاء الكرة في نطاق سيطرة الدفاع حتى لحظة التسديدة النهائية.",
+      "corridor_evaluation_en": "This sequence did not include any line-breaking pass, as the team relied on lateral and short passes within the midfield area. No clear vertical corridor was exploited, resulting in the ball remaining within defensive control until the final shot.",
+      "tactical_value_ar": "أضافت هذه الهجمة قيمة تكتيكية من خلال خلق ضغط مستمر على دفاع الخصم وإجباره على التراجع. رغم عدم تسجيل الهدف، فإن التسديدة القوية من اللاعب 27 أظهرت قدرة الفريق على اختراق الدفاعات الخلفية وتحويل الضغط إلى فرص تهديفية حقيقية.",
+      "tactical_value_en": "The attack added tactical value by creating sustained pressure on the opponent's defense and forcing them to retreat. Although no goal was scored, Player27's powerful shot demonstrated the team's ability to penetrate back lines and convert pressure into genuine scoring opportunities."
+    }
+  },
+  "frame_129678": {
+    "start_frame": 129678,
+    "period": 2,
+    "time_str": "86:27",
+    "time_seconds": 5187.12,
+    "team": "Away",
+    "player": "Player17",
+    "danger_category": "Line-Breaking Pass",
+    "danger_value": 3.0,
+    "outcome_type": "TURNOVER",
+    "tactical_analysis": {
+      "analysis_ar": "في الدقيقة 86:27، نفذ فريق الضيوف سلسلة تمريرات طويلة (18.16 ثانية) انتهت بتمريرة كاسرة للخطوط من اللاعب 17 إلى اللاعب 18. رغم تجاوز 3 مدافعين داخل الممر المستهدف، لم تُترجم هذه المبادرة الهجومية إلى فرصة حقيقية، حيث انتهت الهجمة بفقدان الاستحواذ (TURNOVER) بعد استخلاص الكرة من قبل اللاعب 5.",
+      "analysis_en": "In the 86th minute, the away team executed an 18.16-second passing sequence culminating in a line-breaking pass from Player17 to Player18. Although this pass bypassed 3 defenders within the corridor, the attacking effort failed to yield a concrete chance, resulting in a TURNOVER after Player5 intercepted the ball.",
+      "defensive_structure_ar": "أظهر هيكل الخصم الدفاعي قدرة على استخلاص الكرة في اللحظة الحاسمة، حيث نجح اللاعب 5 في قطع التمريرة أو استخلاصها بعد تجاوز المدافعين الثلاثة. هذا يشير إلى وجود ضغط دفاعي فعال أو تمركز جيد في منطقة الاستقبال، مما أدى إلى إنهاء الهجمة رغم الاختراق الأولي.",
+      "defensive_structure_en": "The opponent's defensive structure demonstrated the ability to regain possession at a critical moment, with Player5 successfully intercepting the ball after the initial bypass of three defenders. This indicates effective defensive pressure or good positioning in the receiving area, leading to the termination of the attack despite the initial breakthrough.",
+      "corridor_evaluation_ar": "استُغل ممر بيني يمتد من الإحداثيات (59.9, 1.4) إلى (76.6, 14.3) لتنفيذ تمريرة كاسرة للخطوط. نجح اللاعب 17 في تجاوز 3 مدافعين داخل هذا الممر، مما يوضح وجود فراغ تكتيكي استُغل بشكل صحيح من حيث المسافة والزوايا، لكن النتيجة النهائية كانت سلبية بسبب فقدان الاستحواذ اللاحق.",
+      "corridor_evaluation_en": "A corridor extending from coordinates (59.9, 1.4) to (76.6, 14.3) was exploited for a line-breaking pass. Player17 successfully bypassed 3 defenders within this corridor, indicating a tactical gap was correctly identified in terms of distance and angles, but the final outcome was negative due to the subsequent loss of possession.",
+      "tactical_value_ar": "القيمة التكتيكية للهجمة تكمن في القدرة على اختراق خطوط الدفاع المتقدمة وتجاوز ثلاثة مدافعين، مما يخلق تهديداً مباشراً. ومع ذلك، انخفضت القيمة الفعلية للهجمة إلى الصفر تقريباً بسبب عدم تحويل هذا الاختراق إلى فرصة تسديد أو استحواذ مستقر، وانتهت بفقدان الكرة.",
+      "tactical_value_en": "The tactical value of the attack lies in the ability to penetrate advanced defensive lines and bypass three defenders, creating a direct threat. However, the practical value of the attack dropped to near zero because this breakthrough was not converted into a shooting chance or stable possession, ending in a turnover."
+    }
+  },
+  "frame_129973": {
+    "start_frame": 129973,
+    "period": 2,
+    "time_str": "86:38",
+    "time_seconds": 5198.92,
+    "team": "Away",
+    "player": "Player21",
+    "danger_category": "Line-Breaking Pass",
+    "danger_value": 3.0,
+    "outcome_type": "PROGRESSION",
+    "tactical_analysis": {
+      "analysis_ar": "بدأت الهجمة من استعادة الكرة بواسطة اللاعب 17، وتابعت التسلسل عبر تمريرات دقيقة بين اللاعبين 16 و21 و23. في الدقيقة 86:38، نفذ اللاعب 21 تمريرة حاسمة كاسرة للخطوط نحو اللاعب 27، مما أدى إلى تقدم هجومي فعّال. استغرقت السلسلة 17.92 ثانية، مما يعكس تحكماً جيداً في الإيقاع قبل الاختراق النهائي.",
+      "analysis_en": "The attack originated from a recovery by Player17, flowing through precise passes involving Players16, 21, and 23. At 86:38, Player21 executed a decisive line-breaking pass to Player27, resulting in effective attack progression. The sequence lasted 17.92 seconds, demonstrating controlled tempo management before the final breakthrough.",
+      "defensive_structure_ar": "أظهر هيكل الخصم الدفاعي ثغرات واضحة في المنطقة التي استغلها اللاعب 21. تم تجاوز ثلاثة مدافعين داخل الممر الهجومي، مما يشير إلى تأخر في إغلاق المساحات أو سوء تموضع بين الخطوط الدفاعية.",
+      "defensive_structure_en": "The opponent's defensive structure exhibited clear vulnerabilities in the area exploited by Player21. Three defenders were bypassed within the attacking corridor, indicating a failure to close down spaces or poor positioning between defensive lines.",
+      "corridor_evaluation_ar": "استُغل الممر بين الإحداثيات (66.2, 19.7) و(83.0, 57.1) بفعالية عالية. سُمح للتمريرة بالعبور عبر ثلاثة مدافعين دون اعتراض، مما يبرز جودة التوقيت والدقة في اختيار الزاوية المناسبة لكسر الخطوط.",
+      "corridor_evaluation_en": "The corridor between coordinates (66.2, 19.7) and (83.0, 57.1) was exploited with high efficiency. The pass successfully traversed three defenders without interception, highlighting excellent timing and precision in selecting the optimal angle to break the lines.",
+      "tactical_value_ar": "أضافت هذه الهجمة قيمة تكتيكية كبيرة من خلال تحويل الاستعادة الدفاعية إلى تهديد هجومي مباشر. كسر الخطوط عبر تجاوز ثلاثة مدافعين خلق فرصاً حقيقية للتقدم نحو المرمى في وقت متأخر من المباراة.",
+      "tactical_value_en": "This attack added significant tactical value by converting a defensive recovery into a direct offensive threat. Breaking the lines by bypassing three defenders created genuine opportunities to advance towards the goal in the late stages of the match."
+    }
+  },
+  "frame_133892": {
+    "start_frame": 133892,
+    "period": 2,
+    "time_str": "89:15",
+    "time_seconds": 5355.68,
+    "team": "Away",
+    "player": "Player21",
+    "danger_category": "Line-Breaking Pass",
+    "danger_value": 3.0,
+    "outcome_type": "OFF_TARGET",
+    "tactical_analysis": {
+      "analysis_ar": "في الدقيقة 89:15، شن الفريق الضيف هجمة منظمة عبر سلسلة تمريرات بدأت من اللاعب 28 وانتهت بتسديدة خارج المرمى. تميزت الهجمة بتمريرة حاسمة من اللاعب 21 إلى اللاعب 17 كسرت خطوط الدفاع، مما أتاح وصول الكرة إلى اللاعب 28 للتسديد. رغم جودة البناء الهجومي، فإن النتيجة النهائية كانت تسديدة خارج الإطار.",
+      "analysis_en": "In the 89th minute, the away team executed a structured attack starting with Player28 and ending in an off-target shot. The sequence featured a critical line-breaking pass from Player21 to Player17, facilitating the final delivery to Player28. Despite the effective build-up, the attempt failed to find the target.",
+      "defensive_structure_ar": "أظهر هيكل الخصم الدفاعي ثغرات واضحة في المنطقة الوسطى، حيث نجح المهاجمون في اختراق ثلاثة مدافعين داخل الممر المستهدف. هذا يشير إلى ضعف في التغطية الدفاعية أو سوء تموضع اللاعبين في تلك المنطقة المحددة.",
+      "defensive_structure_en": "The opponent's defensive structure displayed clear vulnerabilities in the central area, allowing attackers to bypass three defenders within the targeted corridor. This suggests a lack of defensive coverage or poor positioning in that specific zone.",
+      "corridor_evaluation_ar": "استُغل ممر بيني يمتد من الإحداثيات (74.5, 51.7) إلى (87.1, 13.6) بكفاءة عالية. نجح اللاعب 21 في تمرير الكرة عبر هذا الممر لكسر ثلاثة خطوط دفاعية، مما خلق مساحة هائلة أمام المرمى.",
+      "corridor_evaluation_en": "A central corridor extending from coordinates (74.5, 51.7) to (87.1, 13.6) was efficiently exploited. Player21 successfully passed through this corridor to break three defensive lines, creating significant space in front of the goal.",
+      "tactical_value_ar": "أضافت الهجمة قيمة تكتيكية عالية من خلال كسر التوازن الدفاعي للخصم في اللحظات الأخيرة من المباراة. رغم عدم تسجيل الهدف، فإن القدرة على اختراق ثلاثة مدافين تُظهر فعالية استراتيجية في خلق فرص حاسمة.",
+      "tactical_value_en": "The attack added high tactical value by breaking the opponent's defensive balance in the final moments of the match. Although no goal was scored, the ability to bypass three defenders demonstrates strategic effectiveness in creating decisive chances."
+    }
+  }
+}
